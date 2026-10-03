@@ -61,5 +61,6 @@ group and in `categories/cdnlive.m3u`. You can change this with environment vari
 | `CDNLIVE_GROUP` | `CDNLive` | Group name these channels get |
 | `CDNLIVE_API` | the URL above | API endpoint |
 
-Note: CDNLiveTV links open its web player rather than a raw stream, so some IPTV players may not
-play them.
+The build pulls the direct HLS (`.m3u8`) link out of each CDNLiveTV player page. Those links expire
+about 4 hours after they're made, so the workflow rebuilds the playlist every 2 hours. If a CDNLive
+channel stops playing, reload the playlist in your player (or set it to refresh every hour or two).

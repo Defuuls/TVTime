@@ -9,6 +9,7 @@ Outputs:
 
 Stdlib only so it runs anywhere (locally or in GitHub Actions).
 """
+import base64
 import gzip
 import json
 import os
@@ -91,6 +92,38 @@ def build_epg(channels):
     return len(matched)
 
 
+CDNLIVE_VAR_RE = re.compile(r"var (\w+)='([A-Za-z0-9_-]*)'")
+CDNLIVE_EXPR_RE = re.compile(r"var \w+=((?:\w+\(\w+\)\+?)+);")
+CDNLIVE_PART_RE = re.compile(r"\w+\((\w+)\)")
+
+
+def b64(s):
+    return base64.urlsafe_b64decode(s + "=" * (-len(s) % 4)).decode("utf-8", errors="replace")
+
+
+def resolve_cdnlive(player_url):
+    """Direct .m3u8 link hidden in a CDNLiveTV player page, or None.
+
+    The link carries a token that expires after a few hours, so the playlist
+    must be rebuilt more often than that (see the workflow schedule).
+    """
+    req = urllib.request.Request(player_url, headers={"User-Agent": "Mozilla/5.0"})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            page = resp.read().decode("utf-8", errors="replace")
+    except OSError:
+        return None
+    parts = dict(CDNLIVE_VAR_RE.findall(page))
+    for expr in CDNLIVE_EXPR_RE.findall(page):
+        try:
+            url = "".join(b64(parts[n]) for n in CDNLIVE_PART_RE.findall(expr))
+        except (KeyError, ValueError):
+            continue
+        if url.startswith("http") and ".m3u8" in url:
+            return url
+    return None
+
+
 def fetch_cdnlive():
     """Channels from the CDNLiveTV API, in the same shape parse() returns."""
     if not CDNLIVE_ENABLED:
@@ -110,6 +143,10 @@ def fetch_cdnlive():
             continue
         if CDNLIVE_ONLINE and c.get("status") != "online":
             continue
+        stream = resolve_cdnlive(url)
+        if not stream:
+            continue
+        url = stream
         attrs = {"tvg-id": "", "tvg-logo": c.get("image") or "", "tvg-country": code.upper(),
                  "group-title": CDNLIVE_GROUP}
         out.append({"name": " ".join(name.split()), "attrs": attrs, "url": url, "extra": []})
