@@ -10,11 +10,14 @@ Add this URL to any IPTV player (VLC, Kodi, TiviMate, IPTV Smarters, Jellyfin, P
 https://raw.githubusercontent.com/defuuls/tvtime/main/playlist.m3u
 ```
 
-The program guide (EPG) URL is embedded in the playlist header; if your player needs it separately:
+The program guide (EPG) is linked from the playlist header (`url-tvg`), so most players pick it up
+automatically. If yours needs it entered separately:
 
 ```
-https://iptv-org.github.io/epg/guides/us.xml
+https://raw.githubusercontent.com/defuuls/tvtime/main/epg.xml.gz
 ```
+
+Guide data currently covers the Pluto TV channels (~185); other channels play without a guide.
 
 ### Per-category playlists
 
@@ -32,8 +35,8 @@ https://raw.githubusercontent.com/defuuls/tvtime/main/categories/movies.m3u
 
 `scripts/build_playlist.py` pulls the US channel index from the community-maintained
 [iptv-org](https://github.com/iptv-org/iptv) project (FAST services like Pluto TV, Samsung TV Plus,
-Plex, local news stations, public broadcasters, etc.), deduplicates and sorts it, and writes the
-playlists. A GitHub Action (`.github/workflows/update-playlist.yml`) re-runs it daily and commits
+Plex, local news stations, public broadcasters, etc.), deduplicates and sorts it, writes the
+playlists, and builds `epg.xml.gz` from the Pluto TV guide published by [i.mjh.nz](https://i.mjh.nz). A GitHub Action (`.github/workflows/update-playlist.yml`) re-runs it daily and commits
 any changes.
 
 Run it locally with `python3 scripts/build_playlist.py` (Python 3, no dependencies).
