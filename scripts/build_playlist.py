@@ -24,6 +24,17 @@ EPG = "https://raw.githubusercontent.com/defuuls/tvtime/main/epg.xml.gz"
 # Pluto TV guide whose channel ids match the ids in jmp2.uk/plu-<id> stream URLs.
 PLUTO_EPG = os.environ.get("PLUTO_EPG", "https://i.mjh.nz/PlutoTV/us.xml.gz")
 PLUTO_URL_RE = re.compile(r"jmp2\.uk/plu-([0-9a-f]{24})")
+# CDNLiveTV channel index. Settings (env vars):
+#   CDNLIVE_ENABLED   "0" to skip this source (default "1")
+#   CDNLIVE_API       index URL
+#   CDNLIVE_COUNTRIES comma-separated country codes to include, or "all" (default "us")
+#   CDNLIVE_ONLINE    "0" to also include channels reported offline (default "1")
+#   CDNLIVE_GROUP     group-title given to these channels (default "CDNLive")
+CDNLIVE_ENABLED = os.environ.get("CDNLIVE_ENABLED", "1") != "0"
+CDNLIVE_API = os.environ.get("CDNLIVE_API", "https://api.cdnlivetv.is/api/v1/channels/?user=cdnlivetv&plan=free")
+CDNLIVE_COUNTRIES = os.environ.get("CDNLIVE_COUNTRIES", "us")
+CDNLIVE_ONLINE = os.environ.get("CDNLIVE_ONLINE", "1") != "0"
+CDNLIVE_GROUP = os.environ.get("CDNLIVE_GROUP", "CDNLive")
 ROOT = Path(__file__).resolve().parent.parent
 ATTR_RE = re.compile(r'([\w-]+)="([^"]*)"')
 
@@ -80,6 +91,32 @@ def build_epg(channels):
     return len(matched)
 
 
+def fetch_cdnlive():
+    """Channels from the CDNLiveTV API, in the same shape parse() returns."""
+    if not CDNLIVE_ENABLED:
+        return []
+    try:
+        data = json.loads(fetch(CDNLIVE_API))
+    except (OSError, ValueError) as e:
+        print(f"warning: could not fetch CDNLiveTV channels ({e}); skipping")
+        return []
+    codes = {c.strip().lower() for c in CDNLIVE_COUNTRIES.split(",") if c.strip()}
+    out = []
+    for c in data.get("channels", []):
+        name, url, code = (c.get("name") or "").strip(" :"), c.get("url"), (c.get("code") or "").lower()
+        if not name or not url:
+            continue
+        if "all" not in codes and code not in codes:
+            continue
+        if CDNLIVE_ONLINE and c.get("status") != "online":
+            continue
+        attrs = {"tvg-id": "", "tvg-logo": c.get("image") or "", "tvg-country": code.upper(),
+                 "group-title": CDNLIVE_GROUP}
+        out.append({"name": " ".join(name.split()), "attrs": attrs, "url": url, "extra": []})
+    print(f"{len(out)} channels from CDNLiveTV")
+    return out
+
+
 def parse(text):
     channels, info, extra = [], None, []
     for line in text.splitlines():
@@ -126,9 +163,10 @@ def slug(name):
 
 
 def main():
-    channels = dedupe(parse(fetch(SOURCE)))
+    channels = parse(fetch(SOURCE))
     if len(channels) < 100:
         sys.exit(f"Only {len(channels)} channels parsed; refusing to overwrite playlists.")
+    channels = dedupe(channels + fetch_cdnlive())
 
     (ROOT / "playlist.m3u").write_text(render(channels))
 

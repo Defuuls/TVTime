@@ -45,3 +45,21 @@ Run it locally with `python3 scripts/build_playlist.py` (Python 3, no dependenci
 
 This repo hosts no video — only links to streams their owners make freely available. Some links
 may be geo-blocked or offline at any given time. Report broken or unwanted links upstream to iptv-org.
+
+## CDNLiveTV channels
+
+The playlist also pulls channels from the CDNLiveTV API
+(`https://api.cdnlivetv.is/api/v1/channels/?user=cdnlivetv&plan=free`). They show up in the `CDNLive`
+group and in `categories/cdnlive.m3u`. You can change this with environment variables, set in
+`.github/workflows/update-playlist.yml` or when running `scripts/build_playlist.py` yourself:
+
+| Variable | Default | Meaning |
+|---|---|---|
+| `CDNLIVE_ENABLED` | `1` | Set to `0` to leave CDNLiveTV out |
+| `CDNLIVE_COUNTRIES` | `us` | Comma-separated country codes (`us,gb,ca`), or `all` |
+| `CDNLIVE_ONLINE` | `1` | Set to `0` to also include channels the API reports offline |
+| `CDNLIVE_GROUP` | `CDNLive` | Group name these channels get |
+| `CDNLIVE_API` | the URL above | API endpoint |
+
+Note: CDNLiveTV links open its web player rather than a raw stream, so some IPTV players may not
+play them.

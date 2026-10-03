@@ -17,6 +17,11 @@ jobs:
         with:
           python-version: "3.12"
       - run: python scripts/build_playlist.py
+        env:
+          # CDNLiveTV source settings (see README)
+          CDNLIVE_ENABLED: "1"
+          CDNLIVE_COUNTRIES: "us"
+          CDNLIVE_ONLINE: "1"
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
