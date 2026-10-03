@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us.xml" x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/defuuls/tvtime/main/epg.xml.gz" x-tvg-url="https://raw.githubusercontent.com/defuuls/tvtime/main/epg.xml.gz"
 #EXTINF:-1 tvg-id="3ABNKids.us@SD" tvg-logo="https://i.imgur.com/z3npqO1.png" group-title="Animation;Kids;Religious",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimationPlus.us@SD" tvg-logo="https://i.imgur.com/OIFK6JB.png" group-title="Animation",Animation+ (1080p) [Geo-blocked]

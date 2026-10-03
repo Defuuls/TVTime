@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us.xml" x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/defuuls/tvtime/main/epg.xml.gz" x-tvg-url="https://raw.githubusercontent.com/defuuls/tvtime/main/epg.xml.gz"
 #EXTINF:-1 tvg-id="BATVEducationalChannel.us@SD" tvg-logo="https://i.imgur.com/eDoJqtg.png" group-title="Education",BATV Educational Channel
 https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BUTV10.us@SD" tvg-logo="https://i.imgur.com/Iv1Fe67.png" group-title="Education",BUTV10 (1080p) [Not 24/7]

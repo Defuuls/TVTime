@@ -5,25 +5,79 @@ Outputs:
   playlist.m3u             every US channel, deduplicated and sorted
   categories/<name>.m3u    one playlist per category (News, Sports, ...)
   channels.json            machine-readable channel list
+  epg.xml.gz               XMLTV program guide, referenced from the playlist header
 
 Stdlib only so it runs anywhere (locally or in GitHub Actions).
 """
+import gzip
 import json
+import os
 import re
 import sys
 import urllib.request
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 SOURCE = "https://iptv-org.github.io/iptv/countries/us.m3u"
-EPG = "https://iptv-org.github.io/epg/guides/us.xml"
+# Where players fetch the guide from; the playlist header points here.
+EPG = "https://raw.githubusercontent.com/defuuls/tvtime/main/epg.xml.gz"
+# Pluto TV guide whose channel ids match the ids in jmp2.uk/plu-<id> stream URLs.
+PLUTO_EPG = os.environ.get("PLUTO_EPG", "https://i.mjh.nz/PlutoTV/us.xml.gz")
+PLUTO_URL_RE = re.compile(r"jmp2\.uk/plu-([0-9a-f]{24})")
 ROOT = Path(__file__).resolve().parent.parent
 ATTR_RE = re.compile(r'([\w-]+)="([^"]*)"')
 
 
+def fetch_bytes(src):
+    if not src.startswith("http"):
+        return Path(src).read_bytes()
+    req = urllib.request.Request(src, headers={"User-Agent": "TVTime-playlist-builder"})
+    with urllib.request.urlopen(req, timeout=120) as resp:
+        return resp.read()
+
+
 def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "TVTime-playlist-builder"})
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        return resp.read().decode("utf-8", errors="replace")
+    return fetch_bytes(url).decode("utf-8", errors="replace")
+
+
+def build_epg(channels):
+    """Write epg.xml.gz with guide data for channels we can match by id.
+
+    Source guide ids are rewritten to each channel's tvg-id so players match them.
+    Returns the number of channels with guide data.
+    """
+    id_map = {}
+    for ch in channels:
+        m = PLUTO_URL_RE.search(ch["url"])
+        tvg_id = ch["attrs"].get("tvg-id")
+        if m and tvg_id:
+            id_map.setdefault(m.group(1), tvg_id)
+
+    try:
+        raw = fetch_bytes(PLUTO_EPG)
+    except OSError as e:
+        print(f"warning: could not fetch Pluto guide ({e}); keeping existing epg.xml.gz")
+        return None
+    root = ET.fromstring(gzip.decompress(raw) if raw[:2] == b"\x1f\x8b" else raw)
+
+    out = ET.Element("tv", {"generator-info-name": "TVTime"})
+    matched = set()
+    for el in root.findall("channel"):
+        new_id = id_map.get(el.get("id"))
+        if new_id and new_id not in matched:
+            matched.add(new_id)
+            el.set("id", new_id)
+            out.append(el)
+    for el in root.findall("programme"):
+        new_id = id_map.get(el.get("channel"))
+        if new_id:
+            el.set("channel", new_id)
+            out.append(el)
+
+    data = ET.tostring(out, encoding="utf-8", xml_declaration=True)
+    with gzip.GzipFile(ROOT / "epg.xml.gz", "wb", mtime=0) as f:
+        f.write(data)
+    return len(matched)
 
 
 def parse(text):
@@ -95,7 +149,8 @@ def main():
         for c in channels
     ], indent=1) + "\n")
 
-    print(f"{len(channels)} channels across {len(by_cat)} categories")
+    guided = build_epg(channels)
+    print(f"{len(channels)} channels across {len(by_cat)} categories; guide data for {guided} channels")
 
 
 if __name__ == "__main__":
