@@ -1,0 +1,35 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us.xml" x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml"
+#EXTINF:-1 tvg-id="30ADarcizzleOffshore.us@SD" tvg-logo="https://i.imgur.com/Q4l2uao.png" group-title="Outdoor",30A Darcizzle Offshore (720p)
+https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 tvg-id="AKCTV.us@SD" tvg-logo="https://i.imgur.com/XRTfoSp.png" group-title="Outdoor",AKC TV (1080p)
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us@SD" tvg-logo="https://i.imgur.com/66avgdk.png" group-title="Outdoor",AKC TV Meet the Breeds
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTVPuppies.us@SD" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Outdoor",AKC TV Puppies
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="DuckHuntingTV.us@SD" tvg-logo="https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png" group-title="Outdoor",Duck Hunting TV (1080p)
+https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
+#EXTINF:-1 tvg-id="OutdoorAmerica.us@SD" tvg-logo="https://i.imgur.com/UKfimFD.png" group-title="Outdoor",Outdoor America (1080p)
+https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Outdoor",Outdoor Channel (1080p)
+https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us@HD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Outdoor",Outdoor Channel HD (720p)
+http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-logo="https://www.cynopsis.com/wp-content/uploads/2018/02/outside-tv.png" group-title="Outdoor",Outside TV (1080p)
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAdventure.us@US" tvg-logo="https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png" group-title="Entertainment;Outdoor;Series",Pluto TV Adventure
+https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8
+#EXTINF:-1 tvg-id="PlutoTVBackcountry.us@SD" tvg-logo="https://i.imgur.com/KnlQzs7.png" group-title="Outdoor",Pluto TV Backcountry
+https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8
+#EXTINF:-1 tvg-id="PursuitUP.us@SD" tvg-logo="https://i.imgur.com/5Vzwqts.png" group-title="Outdoor",PursuitUP (1080p)
+https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@US" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Outdoor;Sports",Red Bull TV US (1080p)
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="REVNAction.us@SD" tvg-logo="https://i.imgur.com/xsm8mMd.png" group-title="Auto;Outdoor;Series;Sports",REV'N Action (720p) [Geo-blocked]
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
+#EXTINF:-1 tvg-id="SpikeOutdoors.us@SD" tvg-logo="https://i.imgur.com/cdCD2A2.png" group-title="Outdoor",Spike Outdoors
+https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVAmerican.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="Outdoor",Swamiji TV American (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WaypointTV.us@SD" tvg-logo="https://i.imgur.com/9vvlJN9.png" group-title="Outdoor",Waypoint TV (1080p)
+https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
