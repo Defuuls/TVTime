@@ -64,3 +64,11 @@ group and in `categories/cdnlive.m3u`. You can change this with environment vari
 The build pulls the direct HLS (`.m3u8`) link out of each CDNLiveTV player page. Those links expire
 about 4 hours after they're made, so the workflow rebuilds the playlist every 2 hours. If a CDNLive
 channel stops playing, reload the playlist in your player (or set it to refresh every hour or two).
+
+## Dead channels
+
+Each build tests every stream and drops the ones that are certainly gone: a 404/410 response
+(including on the stream's first quality variant), a host that no longer exists, or a refused
+connection. Timeouts, 403s and server errors are kept, because they're often temporary or only affect
+GitHub's servers. If more than half the channels look dead at once, nothing is dropped, since that
+points to a network problem. Set `CHECK_STREAMS=0` to turn the check off.
