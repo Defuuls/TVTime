@@ -14,8 +14,12 @@ import gzip
 import json
 import os
 import re
+import socket
 import sys
+import urllib.error
+import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
@@ -36,6 +40,9 @@ CDNLIVE_API = os.environ.get("CDNLIVE_API", "https://api.cdnlivetv.is/api/v1/cha
 CDNLIVE_COUNTRIES = os.environ.get("CDNLIVE_COUNTRIES", "us")
 CDNLIVE_ONLINE = os.environ.get("CDNLIVE_ONLINE", "1") != "0"
 CDNLIVE_GROUP = os.environ.get("CDNLIVE_GROUP", "CDNLive")
+# Drop channels whose stream is definitely gone. "0" turns the check off.
+CHECK_STREAMS = os.environ.get("CHECK_STREAMS", "1") != "0"
+STREAM_OPT_RE = re.compile(r"#EXTVLCOPT:http-(user-agent|referrer)=(.*)")
 ROOT = Path(__file__).resolve().parent.parent
 ATTR_RE = re.compile(r'([\w-]+)="([^"]*)"')
 
@@ -199,11 +206,62 @@ def slug(name):
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-") or "undefined"
 
 
+def stream_dead(ch):
+    """True only when a stream is certainly gone: 404/410, unknown host, or refused.
+
+    Timeouts, 403s and server errors are kept, since those are often temporary or
+    only affect data-centre IPs like GitHub's runners.
+    """
+    headers = {"User-Agent": "VLC/3.0.20 LibVLC/3.0.20"}
+    for opt in ch["extra"]:
+        m = STREAM_OPT_RE.match(opt)
+        if m:
+            headers["User-Agent" if m.group(1) == "user-agent" else "Referer"] = m.group(2)
+    for _ in range(2):
+        try:
+            url = ch["url"]
+            # Follow a master playlist to its first variant: dead streams often 404 there.
+            for _ in range(2):
+                req = urllib.request.Request(url, headers=headers)
+                with urllib.request.urlopen(req, timeout=15) as resp:
+                    body = resp.read(65536).decode("utf-8", errors="replace")
+                    url = resp.geturl()
+                if "#EXT-X-STREAM-INF" not in body:
+                    return False
+                variants = [l.strip() for l in body.splitlines() if l.strip() and not l.startswith("#")]
+                if not variants:
+                    return False
+                url = urllib.parse.urljoin(url, variants[0])
+            return False
+        except urllib.error.HTTPError as e:
+            if e.code not in (404, 410):
+                return False
+        except urllib.error.URLError as e:
+            if not isinstance(e.reason, (socket.gaierror, ConnectionRefusedError)):
+                return False
+        except Exception:
+            return False
+    return True
+
+
+def drop_dead(channels):
+    if not CHECK_STREAMS:
+        return channels
+    with ThreadPoolExecutor(64) as pool:
+        dead = list(pool.map(stream_dead, channels))
+    if sum(dead) > len(channels) // 2:
+        print(f"warning: {sum(dead)} channels look dead, probably a network problem; keeping all")
+        return channels
+    print(f"dropped {sum(dead)} dead channels")
+    return [ch for ch, d in zip(channels, dead) if not d]
+
+
 def main():
     channels = parse(fetch(SOURCE))
     if len(channels) < 100:
         sys.exit(f"Only {len(channels)} channels parsed; refusing to overwrite playlists.")
-    channels = dedupe(channels + fetch_cdnlive())
+    channels = drop_dead(dedupe(channels)) + fetch_cdnlive()
+    channels = dedupe(channels)
 
     (ROOT / "playlist.m3u").write_text(render(channels))
 
