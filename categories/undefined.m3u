@@ -7,6 +7,8 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 tvg-id="Bounce.us@SD" tvg-logo="https://m.media-amazon.com/images/I/718bHckb8eL.png" group-title="Undefined",Bounce (720p)
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us@East" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="Undefined",Bravo (720p)
+http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="BYUTV.us@SD" tvg-logo="https://i.imgur.com/mruGyuu.png" group-title="Undefined",BYU TV (1080p)
 https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
 #EXTINF:-1 tvg-id="CCTV.us@SD" tvg-logo="" group-title="Undefined",CC-TV (720p)
@@ -37,6 +39,9 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
 #EXTINF:-1 tvg-id="KTOO360TV.us@KTOOTV" tvg-logo="https://i.imgur.com/ppn5oJy.png" group-title="Undefined",KTOO 360TV KTOO-TV
 https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
+#EXTINF:-1 tvg-id="LoveNatureenEspanol.us@SD" tvg-logo="https://i.imgur.com/7uNdcWB.png",like Geck0) Chrome/102.0.0.0 Safari/537.37" group-title="Undefined",Love Nature en Espanol (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
+https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8
 #EXTINF:-1 tvg-id="UniversalComedy.us@SD" tvg-logo="https://i.imgur.com/avBL8pQ.png",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series",Universal Comedy (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
@@ -49,8 +54,6 @@ https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 #EXTINF:-1 tvg-id="RaiWorldPremium.it@SD" tvg-logo="https://i.imgur.com/tDuKkh3.png",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",Rai World Premium (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
-#EXTINF:-1 tvg-id="LoveNatureenEspanol.us@SD" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="Undefined",Love Nature en Espanol (1080p) [Geo-blocked]
-https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel26.us@SD" tvg-logo="https://i.imgur.com/aX1GkCD.png" group-title="Undefined",Midpen Media Center Channel 26 (720p)
 https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MTC.us@SD" tvg-logo="https://i.imgur.com/JxoAR4j.png" group-title="Undefined",MTC
