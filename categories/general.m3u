@@ -355,6 +355,8 @@ https://ntd02.akamaized.net/HD-NY/index.m3u8
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTV.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png" group-title="General",NTD TV West (720p)
 https://ntd02.akamaized.net/HD-LA/index.m3u8
+#EXTINF:-1 tvg-id="OntarioPublicAccessChannel.us@SD" tvg-logo="https://i.imgur.com/jg0cFDd.png" group-title="General",Ontario Public Access Channel (360p)
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
 #EXTINF:-1 tvg-id="PacificIslandNetwork.us@HD" tvg-logo="https://i.imgur.com/OtT1qYE.png" group-title="General",Pacific Island Network (1080p)
 https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8
 #EXTINF:-1 tvg-id="ParsTV.us@SD" tvg-logo="https://i.imgur.com/RQ5DzEE.png" group-title="General",Pars TV
@@ -363,6 +365,8 @@ https://parshls.wns.live/hls/stream.m3u8
 https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="PBCTapeshTV.us@SD" tvg-logo="https://i.imgur.com/50JzsmH.png" group-title="General",PBC Tapesh TV (720p)
 https://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 tvg-id="PCTChannel26.us@SD" tvg-logo="https://i.imgur.com/xJSya25.png" group-title="General",PCT Channel 26 (720p)
+https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PCTV28.us@SD" tvg-logo="https://i.imgur.com/WahZg3L.png" group-title="General",PCTV 28 (480p)
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8
 #EXTINF:-1 tvg-id="PhillyCAM.us@SD" tvg-logo="https://i.imgur.com/ENOr31n.png" group-title="General",PhillyCAM (720p)
@@ -439,6 +443,8 @@ https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
 #EXTINF:-1 tvg-id="TVSSelectNetwork.us@SD" tvg-logo="" group-title="General",TVS Select Network (720p)
 https://rpn.bozztv.com/gusa/gusa-tvsselect/index.m3u8
+#EXTINF:-1 tvg-id="TVSTelevisionNetwork.us@SD" tvg-logo="" group-title="General",TVS Television Network (480p)
+https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
 #EXTINF:-1 tvg-id="TVSAPublicChannel.us@SD" tvg-logo="https://i.imgur.com/3Om5TUc.png" group-title="General",TVSA Public Channel (720p)
 https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8
 #EXTINF:-1 tvg-id="VBSTV.us@SD" tvg-logo="https://i.imgur.com/OkslYzP.png" group-title="General",VBS TV (480p) [Not 24/7]
