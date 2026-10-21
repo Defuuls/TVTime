@@ -85,8 +85,6 @@ http://167.249.23.102:8000/play/a0ev/index.m3u8
 https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
 #EXTINF:-1 tvg-id="DrGeneScott.us@SD" tvg-logo="https://i.imgur.com/Db3EI19.png" group-title="Religious",Dr. Gene Scott (1080p)
 https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
-#EXTINF:-1 tvg-id="ElSembradorNuevaEvangelizacionESNE.us@SD" tvg-logo="https://i.imgur.com/APhSi1Y.jpg" group-title="Religious",El Sembrador Nueva Evangelizacion ESNE
-http://190.61.90.17:40000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="ElbesharaGTV.us@SD" tvg-logo="https://i.imgur.com/b0Wx7pE.png" group-title="Religious",Elbeshara GTV (1080p) [Not 24/7]
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ElevationChurchNetwork.us@HD" tvg-logo="https://i.imgur.com/VosP75g.png" group-title="Religious",Elevation Church Network (1080p)
