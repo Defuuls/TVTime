@@ -853,15 +853,6 @@
   "url": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8"
  },
  {
-  "name": "Alkarma TV Praise (720p) [Not 24/7]",
-  "id": "AlkarmaTVPraise.us@SD",
-  "logo": "https://i.imgur.com/bJLKkou.png",
-  "categories": [
-   "Religious"
-  ],
-  "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8"
- },
- {
   "name": "Alkarma TV Talmaza Discipleship (1080p) [Not 24/7]",
   "id": "AlkarmaTVTalmazaDiscipleship.us@SD",
   "logo": "https://i.imgur.com/t2ZkRbr.png",
@@ -1159,6 +1150,15 @@
    "General"
   ],
   "url": "https://streamer1.connectto.com/ARTN_mobile/index.m3u8"
+ },
+ {
+  "name": "Asian Culture TV (1080p)",
+  "id": "AsianCultureTV.us@HD",
+  "logo": "https://i.imgur.com/o1icKZu.png",
+  "categories": [
+   "General"
+  ],
+  "url": "https://cdn.vegasplus.us/vegas/actv/playlist.m3u8"
  },
  {
   "name": "AsianCrush (1080p)",
@@ -7511,13 +7511,13 @@
   "url": "https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8"
  },
  {
-  "name": "News12 Brooklyn [Geo-blocked]",
-  "id": "News12Brooklyn.us@SD",
-  "logo": "https://i.imgur.com/fvcOzzK.png",
+  "name": "News12 Bronx [Geo-blocked]",
+  "id": "News12Bronx.us@SD",
+  "logo": "https://i.imgur.com/d6xQiaf.png",
   "categories": [
    "News"
   ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
  },
  {
   "name": "News12 Conneticut [Geo-blocked]",
@@ -7574,15 +7574,6 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
  },
  {
-  "name": "News12+ Connecticut (1080p) [Geo-blocked]",
-  "id": "News12PlusConnecticut.us@HD",
-  "logo": "https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8"
- },
- {
   "name": "News12+ Hudson Valley (1080p) [Geo-blocked]",
   "id": "News12PlusHudsonValley.us@HD",
   "logo": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
@@ -7590,24 +7581,6 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8"
- },
- {
-  "name": "News12+ Long Island (1080p) [Geo-blocked]",
-  "id": "News12PlusLongIsland.us@HD",
-  "logo": "https://i.ibb.co/p6FPNcCk/news12plus-LI.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8"
- },
- {
-  "name": "News12+ New Jersey (1080p) [Geo-blocked]",
-  "id": "News12PlusNewJersey.us@HD",
-  "logo": "https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8"
  },
  {
   "name": "News12+ New York (1080p) [Geo-blocked]",
