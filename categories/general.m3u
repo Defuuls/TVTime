@@ -193,8 +193,6 @@ https://jmp2.uk/rok-b484db42f3d31b6dc2f604d453c694a0.m3u8
 https://reflect-fcpublicmedia.cablecast.tv/live-5/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="FCTV.us@SD" tvg-logo="https://i.imgur.com/N5Canf3.png" group-title="General",FCTV (1080p)
 https://reflect-vod-fcgov.cablecast.tv/live-9/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-id="FilAmTVNetwork.us@HD" tvg-logo="https://i.imgur.com/nRiApdI.png" group-title="General",FilAmTV Network (1080p)
-https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us@KBSI" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png" group-title="General",Fox (United States) KBSI (720p) [Not 24/7]
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us@KCPQ" tvg-logo="https://imgx.fubo.tv/station_logos/fox_c.png" group-title="General",Fox (United States) KCPQ (720p)
@@ -385,8 +383,6 @@ https://livestream.telvue.com/roguevalleycmttv4/f7b44cfafd5c52223d5498196c8a2e7b
 https://livestream.telvue.com/roguevalleycmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RVTVVoices.us@SD" tvg-logo="https://i.imgur.com/kOGQBZj.png" group-title="General",RVTV Voices (720p)
 https://livestream.telvue.com/roguevalleycmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SMetroTV.us@HD" tvg-logo="https://i.postimg.cc/1z72qQKC/In-Shot-20260908-064106298.png" group-title="General",S Metro TV (360p)
-https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
 #EXTINF:-1 tvg-id="ScottsdaleChannel11.us@SD" tvg-logo="https://i.imgur.com/lfE6Q9i.png" group-title="General",Scottsdale Channel 11
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
 #EXTINF:-1 tvg-id="SCVTV.us@SD" tvg-logo="https://i.imgur.com/qEsZbZz.png" group-title="General",SCVTV (1080p)
