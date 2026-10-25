@@ -39,6 +39,8 @@ https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkarmaTVNorthAmericaCanada.us@SD" tvg-logo="https://i.imgur.com/pnm60bq.png" group-title="Religious",Alkarma TV North America & Canada (1080p) [Not 24/7]
 https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkarmaTVPraise.us@SD" tvg-logo="https://i.imgur.com/bJLKkou.png" group-title="Religious",Alkarma TV Praise (720p) [Not 24/7]
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkarmaTVTalmazaDiscipleship.us@SD" tvg-logo="https://i.imgur.com/t2ZkRbr.png" group-title="Religious",Alkarma TV Talmaza Discipleship (1080p) [Not 24/7]
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkarmaTVYouthEnglish.us@SD" tvg-logo="https://i.imgur.com/kpuO8m7.png" group-title="Religious",Alkarma TV Youth & English (1080p) [Not 24/7]
@@ -77,8 +79,6 @@ https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DaystarTV.us@SD" tvg-logo="https://i.imgur.com/uVdKHMG.png" group-title="Religious",Daystar TV (1080p)
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
-#EXTINF:-1 tvg-id="DaystarTVEspanol.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png" group-title="Religious",Daystar TV Espanol (1080p)
-http://167.249.23.102:8000/play/a0ev/index.m3u8
 #EXTINF:-1 tvg-id="DaystarTV.us@WSLFLD" tvg-logo="https://i.imgur.com/uVdKHMG.png" group-title="Religious",Daystar TV WSLF-LD (720p)
 https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
 #EXTINF:-1 tvg-id="DrGeneScott.us@SD" tvg-logo="https://i.imgur.com/Db3EI19.png" group-title="Religious",Dr. Gene Scott (1080p)

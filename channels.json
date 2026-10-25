@@ -853,6 +853,15 @@
   "url": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8"
  },
  {
+  "name": "Alkarma TV Praise (720p) [Not 24/7]",
+  "id": "AlkarmaTVPraise.us@SD",
+  "logo": "https://i.imgur.com/bJLKkou.png",
+  "categories": [
+   "Religious"
+  ],
+  "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8"
+ },
+ {
   "name": "Alkarma TV Talmaza Discipleship (1080p) [Not 24/7]",
   "id": "AlkarmaTVTalmazaDiscipleship.us@SD",
   "logo": "https://i.imgur.com/t2ZkRbr.png",
@@ -3497,15 +3506,6 @@
   "url": "https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8"
  },
  {
-  "name": "Daystar TV Espanol (1080p)",
-  "id": "DaystarTVEspanol.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png",
-  "categories": [
-   "Religious"
-  ],
-  "url": "http://167.249.23.102:8000/play/a0ev/index.m3u8"
- },
- {
   "name": "Daystar TV WSLF-LD (720p)",
   "id": "DaystarTV.us@WSLFLD",
   "logo": "https://i.imgur.com/uVdKHMG.png",
@@ -4050,6 +4050,15 @@
   "url": "https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8"
  },
  {
+  "name": "Fairground AI Creator TV (1080p)",
+  "id": "FairgroundAICreatorTV.us@SD",
+  "logo": "https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792454211883.png",
+  "categories": [
+   "General"
+  ],
+  "url": "https://jmp2.uk/rok-b484db42f3d31b6dc2f604d453c694a0.m3u8"
+ },
+ {
   "name": "Faith TV (1080p)",
   "id": "FaithTV.us@SD",
   "logo": "https://i.imgur.com/lUBnKK1.png",
@@ -4438,15 +4447,6 @@
   "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8"
  },
  {
-  "name": "Fox Deportes (720p)",
-  "id": "FoxDeportes.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
-  "categories": [
-   "Sports"
-  ],
-  "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
- },
- {
   "name": "Fox News Channel (1080p)",
   "id": "FoxNewsChannel.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
@@ -4574,7 +4574,7 @@
   "url": "http://23.237.104.106:8080/USA_FUSE/index.m3u8"
  },
  {
-  "name": "FX (720p)",
+  "name": "FX (United States) (720p)",
   "id": "FX.us@East",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
   "categories": [
@@ -7538,15 +7538,6 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
  },
  {
-  "name": "News12 Long Island (1080p) [Geo-blocked]",
-  "id": "News12LongIsland.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
- },
- {
   "name": "News12 New Jersey [Geo-blocked]",
   "id": "News12NewJersey.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
@@ -7574,6 +7565,15 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
  },
  {
+  "name": "News12+ Connecticut (1080p) [Geo-blocked]",
+  "id": "News12PlusConnecticut.us@HD",
+  "logo": "https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg",
+  "categories": [
+   "News"
+  ],
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8"
+ },
+ {
   "name": "News12+ Hudson Valley (1080p) [Geo-blocked]",
   "id": "News12PlusHudsonValley.us@HD",
   "logo": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
@@ -7581,6 +7581,24 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8"
+ },
+ {
+  "name": "News12+ Long Island (1080p) [Geo-blocked]",
+  "id": "News12PlusLongIsland.us@HD",
+  "logo": "https://i.ibb.co/p6FPNcCk/news12plus-LI.jpg",
+  "categories": [
+   "News"
+  ],
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8"
+ },
+ {
+  "name": "News12+ New Jersey (1080p) [Geo-blocked]",
+  "id": "News12PlusNewJersey.us@HD",
+  "logo": "https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg",
+  "categories": [
+   "News"
+  ],
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8"
  },
  {
   "name": "News12+ New York (1080p) [Geo-blocked]",
