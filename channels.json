@@ -3696,6 +3696,15 @@
   "url": "http://tvsen5.aynascope.net/disney/index.m3u8"
  },
  {
+  "name": "Disney XD (United States) (1080p)",
+  "id": "DisneyXD.us@East",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",
+  "categories": [
+   "Kids"
+  ],
+  "url": "http://89.187.179.148:826/1368/gXwiagaXda/1672"
+ },
+ {
   "name": "District of Columbia Network (1080p)",
   "id": "DistrictofColumbiaNetwork.us@SD",
   "logo": "https://i.imgur.com/GGZ8BQ8.png",
@@ -4447,6 +4456,15 @@
   "url": "https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8"
  },
  {
+  "name": "Fox Deportes (720p)",
+  "id": "FoxDeportes.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
+  "categories": [
+   "Sports"
+  ],
+  "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+ },
+ {
   "name": "Fox News Radio (720p)",
   "id": "FoxNewsRadio.us@SD",
   "logo": "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png",
@@ -4914,15 +4932,6 @@
    "General"
   ],
   "url": "https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8"
- },
- {
-  "name": "GunAz TV",
-  "id": "GunAzTV.us@SD",
-  "logo": "https://i.imgur.com/2ZnQazl.png",
-  "categories": [
-   "General"
-  ],
-  "url": "https://tv.gunaz.tv/hls/live.m3u8"
  },
  {
   "name": "Gunsmoke",
@@ -7475,22 +7484,31 @@
   "url": "https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8"
  },
  {
-  "name": "News12 Brooklyn [Geo-blocked]",
-  "id": "News12Brooklyn.us@SD",
-  "logo": "https://i.imgur.com/fvcOzzK.png",
+  "name": "News12 Bronx [Geo-blocked]",
+  "id": "News12Bronx.us@SD",
+  "logo": "https://i.imgur.com/d6xQiaf.png",
   "categories": [
    "News"
   ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
  },
  {
-  "name": "News12 Hudson Valley [Geo-blocked]",
-  "id": "News12HudsonValley.us@SD",
+  "name": "News12 Conneticut [Geo-blocked]",
+  "id": "News12Conneticut.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
   "categories": [
    "News"
   ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
+ },
+ {
+  "name": "News12 Long Island (1080p) [Geo-blocked]",
+  "id": "News12LongIsland.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
  },
  {
   "name": "News12 New Jersey [Geo-blocked]",
@@ -7753,6 +7771,15 @@
    "Religious"
   ],
   "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15811"
+ },
+ {
+  "name": "NTD TV (1080p)",
+  "id": "NTDTV.us@East",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png",
+  "categories": [
+   "General"
+  ],
+  "url": "https://ntd02.akamaized.net/HD-NY/index.m3u8"
  },
  {
   "name": "NTD TV English (1080p)",
@@ -8292,15 +8319,6 @@
    "General"
   ],
   "url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8"
- },
- {
-  "name": "People Are Awesome (1080p)",
-  "id": "PeopleAreAwesome.us@SD",
-  "logo": "https://i.imgur.com/MsIx7Ax.png",
-  "categories": [
-   "Entertainment"
-  ],
-  "url": "https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8"
  },
  {
   "name": "Peppa Pig",
@@ -11517,7 +11535,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTI5ODgzMzgyODc6Y2RubGl2ZXR2LnR2OjQ4OGEwZDU1MWY0ZTVhMzkuOTlhMmNjOTNlNTk5MDAzZjMxNWQ3ZmExZWJjYTdiODk2ODY2M2JmNjBhZThlODY0NzE3YmZjMjU1MjE2MDRhZA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTMwMTUxMzkzNzQ6Y2RubGl2ZXR2LnR2OjJmNWEyZDE0YjZiYTc2MGEuMTI0Y2FjOThjYWViMjNkOWE2MzNlNTgyNDliODA3ZmNjMTZlZTc5YTY5NDFkYzVkOTJmNjgwYTlkMGRmMmY2Mg"
  },
  {
   "name": "USA TODAY (1080p)",
