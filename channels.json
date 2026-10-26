@@ -4447,24 +4447,6 @@
   "url": "https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8"
  },
  {
-  "name": "Fox Business Network (576p)",
-  "id": "FoxBusinessNetwork.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png",
-  "categories": [
-   "Business"
-  ],
-  "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8"
- },
- {
-  "name": "Fox News Channel (1080p)",
-  "id": "FoxNewsChannel.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://tvsen6.aynaott.com/foxnews/index.m3u8"
- },
- {
   "name": "Fox News Radio (720p)",
   "id": "FoxNewsRadio.us@SD",
   "logo": "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png",
@@ -4734,15 +4716,6 @@
    "Religious"
   ],
   "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8"
- },
- {
-  "name": "Giggle Mug (576p)",
-  "id": "GiggleMug.us@SD",
-  "logo": "https://i.imgur.com/NbNHJXo.png",
-  "categories": [
-   "Kids"
-  ],
-  "url": "https://tvsen6.aynaott.com/ytv/index.m3u8"
  },
  {
   "name": "Gillette Public Access Television Channel 189",
@@ -6933,15 +6906,6 @@
   "url": "https://livestream.telvue.com/madrivervalleytv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
  },
  {
-  "name": "MS NOW (432p)",
-  "id": "MSNOW.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/960px-MS_NOW_logo.svg.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://tvsen6.aynaott.com/msnbc/index.m3u8"
- },
- {
   "name": "MST3K (1080p)",
   "id": "MST3K.us@US",
   "logo": "https://i.imgur.com/2LSdcga.png",
@@ -7511,15 +7475,6 @@
   "url": "https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8"
  },
  {
-  "name": "News12 Bronx [Geo-blocked]",
-  "id": "News12Bronx.us@SD",
-  "logo": "https://i.imgur.com/d6xQiaf.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
- },
- {
   "name": "News12 Brooklyn [Geo-blocked]",
   "id": "News12Brooklyn.us@SD",
   "logo": "https://i.imgur.com/fvcOzzK.png",
@@ -7536,15 +7491,6 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
- },
- {
-  "name": "News12 Long Island (1080p) [Geo-blocked]",
-  "id": "News12LongIsland.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
  },
  {
   "name": "News12 New Jersey [Geo-blocked]",
@@ -7574,15 +7520,6 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
  },
  {
-  "name": "News12+ Connecticut (1080p) [Geo-blocked]",
-  "id": "News12PlusConnecticut.us@HD",
-  "logo": "https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8"
- },
- {
   "name": "News12+ Hudson Valley (1080p) [Geo-blocked]",
   "id": "News12PlusHudsonValley.us@HD",
   "logo": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
@@ -7590,6 +7527,24 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8"
+ },
+ {
+  "name": "News12+ Long Island (1080p) [Geo-blocked]",
+  "id": "News12PlusLongIsland.us@HD",
+  "logo": "https://i.ibb.co/p6FPNcCk/news12plus-LI.jpg",
+  "categories": [
+   "News"
+  ],
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8"
+ },
+ {
+  "name": "News12+ New Jersey (1080p) [Geo-blocked]",
+  "id": "News12PlusNewJersey.us@HD",
+  "logo": "https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg",
+  "categories": [
+   "News"
+  ],
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8"
  },
  {
   "name": "News12+ New York (1080p) [Geo-blocked]",
@@ -7798,15 +7753,6 @@
    "Religious"
   ],
   "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15811"
- },
- {
-  "name": "NTD TV (1080p)",
-  "id": "NTDTV.us@East",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png",
-  "categories": [
-   "General"
-  ],
-  "url": "https://ntd02.akamaized.net/HD-NY/index.m3u8"
  },
  {
   "name": "NTD TV English (1080p)",
@@ -11121,6 +11067,15 @@
   "url": "https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8"
  },
  {
+  "name": "TVS Comedy Network (720p)",
+  "id": "TVSComedyNetwork.us@SD",
+  "logo": "https://i.imgur.com/rXORbti.png",
+  "categories": [
+   "Comedy"
+  ],
+  "url": "https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8"
+ },
+ {
   "name": "TVS Consumer Direct (720p)",
   "id": "TVSConsumerDirect.us@SD",
   "logo": "https://www.watchyour.tv/channels/logo/tvs-consumer-direct.jpg",
@@ -11562,7 +11517,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTI5NzU2NDQ0MTA6Y2RubGl2ZXR2LnR2Ojg2MDViNjdlM2I0MjJkYWMuMjE1OGMzY2ExNzE0NGE2ZGM1MmE0ZWUyMDJkMDNkYmNhZWJhNTA2ZmJiZDI3YWVlNjQ0NTIxZDM0YWNmNzJhMA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTI5ODgzMzgyODc6Y2RubGl2ZXR2LnR2OjQ4OGEwZDU1MWY0ZTVhMzkuOTlhMmNjOTNlNTk5MDAzZjMxNWQ3ZmExZWJjYTdiODk2ODY2M2JmNjBhZThlODY0NzE3YmZjMjU1MjE2MDRhZA"
  },
  {
   "name": "USA TODAY (1080p)",
