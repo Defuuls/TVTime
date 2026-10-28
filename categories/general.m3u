@@ -51,6 +51,8 @@ https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
 https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="AccessVisionChannel16.us@SD" tvg-logo="https://i.imgur.com/vi4TCdb.png" group-title="General",AccessVision Channel 16 (720p)
 https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AFTV.us@SD" tvg-logo="https://i.imgur.com/UoiUwFj.png" group-title="General",AFTV (1080p)
+https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Akaku53.us@SD" tvg-logo="https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel53-147x150-square.png" group-title="General",Akaku 53 (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="Akaku54.us@SD" tvg-logo="https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel54-147x150-square.png" group-title="General",Akaku 54 (1080p)
@@ -235,6 +237,8 @@ https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8
 https://securestream11.champds.com/LIVE/GilletteWYLIVE/GilletteWYLIVE.m3u8
 #EXTINF:-1 tvg-id="GuangdongTVAmerica.us@SD" tvg-logo="https://i.imgur.com/7J4qGjA.png" group-title="General",Guangdong TV America
 https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8
+#EXTINF:-1 tvg-id="GunAzTV.us@SD" tvg-logo="https://i.imgur.com/2ZnQazl.png" group-title="General",GunAz TV
+https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="HBTV.us@SD" tvg-logo="https://i.imgur.com/xADoSqE.png" group-title="General",HBTV (720p)
 https://reflect-huntingtonbeach.cablecast.tv/live-4/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="HCTVPublicAccessChannel.us@SD" tvg-logo="https://i.imgur.com/bVbpgiD.png" group-title="General",HCTV Public Access Channel
@@ -443,6 +447,8 @@ https://vallejo.cablecast.tv/live-3/live/live.m3u8
 https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
 #EXTINF:-1 tvg-id="VenevisionInternacional.ve@SD" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="General",Venevision Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-id="VisionLatinaNetwork.us@SD" tvg-logo="https://i.imgur.com/VgYCskX.png" group-title="General",Vision Latina Network (1080p)
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-ccbf-46e5-87c3-0f8d4a94d9e3/master.m3u8
 #EXTINF:-1 tvg-id="VSCTV.us@SD" tvg-logo="https://i.imgur.com/cn6pAEZ.png" group-title="General",VSCTV (1080p)
 https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="WCETVDigitalChannel318.us@SD" tvg-logo="https://i.imgur.com/l0UO27k.png" group-title="General",WCETV Digital Channel 31.8

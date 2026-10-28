@@ -691,6 +691,15 @@
   "url": "https://alt-al.otteravision.com/alt/al/al.m3u8"
  },
  {
+  "name": "AFTV (1080p)",
+  "id": "AFTV.us@SD",
+  "logo": "https://i.imgur.com/UoiUwFj.png",
+  "categories": [
+   "General"
+  ],
+  "url": "https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+ },
+ {
   "name": "AFV (720p)",
   "id": "AFV.us@SD",
   "logo": "https://i.imgur.com/TOB9vmW.png",
@@ -4889,6 +4898,15 @@
   "url": "https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8"
  },
  {
+  "name": "GunAz TV",
+  "id": "GunAzTV.us@SD",
+  "logo": "https://i.imgur.com/2ZnQazl.png",
+  "categories": [
+   "General"
+  ],
+  "url": "https://tv.gunaz.tv/hls/live.m3u8"
+ },
+ {
   "name": "Gunsmoke",
   "id": "Gunsmoke.us@SD",
   "logo": "https://images.pluto.tv/channels/62e916affb29c60007211c8a/colorLogoPNG.png",
@@ -7502,15 +7520,6 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
  },
  {
-  "name": "News12 Conneticut [Geo-blocked]",
-  "id": "News12Conneticut.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
- },
- {
   "name": "News12 Hudson Valley [Geo-blocked]",
   "id": "News12HudsonValley.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
@@ -7538,15 +7547,6 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https"
  },
  {
-  "name": "News12 Westchester [Geo-blocked]",
-  "id": "News12Westchester.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
- },
- {
   "name": "News12+ Connecticut (1080p) [Geo-blocked]",
   "id": "News12PlusConnecticut.us@HD",
   "logo": "https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg",
@@ -7563,6 +7563,15 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8"
+ },
+ {
+  "name": "News12+ Long Island (1080p) [Geo-blocked]",
+  "id": "News12PlusLongIsland.us@HD",
+  "logo": "https://i.ibb.co/p6FPNcCk/news12plus-LI.jpg",
+  "categories": [
+   "News"
+  ],
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8"
  },
  {
   "name": "News12+ New Jersey (1080p) [Geo-blocked]",
@@ -8347,15 +8356,6 @@
    "General"
   ],
   "url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8"
- },
- {
-  "name": "People Are Awesome (1080p)",
-  "id": "PeopleAreAwesome.us@SD",
-  "logo": "https://i.imgur.com/MsIx7Ax.png",
-  "categories": [
-   "Entertainment"
-  ],
-  "url": "https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8"
  },
  {
   "name": "Peppa Pig",
@@ -10743,15 +10743,6 @@
   "url": "https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8"
  },
  {
-  "name": "TheGrio TV (720p)",
-  "id": "TheGrioTV.us@SD",
-  "logo": "https://i.imgur.com/8nqbi9b.png",
-  "categories": [
-   "Undefined"
-  ],
-  "url": "https://a-cdn.klowdtv.com/live2/thegrio_720p/playlist.m3u8"
- },
- {
   "name": "This Old House (1080p)",
   "id": "ThisOldHouse.us@SD",
   "logo": "https://i.imgur.com/nrVLyE6.png",
@@ -11608,7 +11599,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTMyMTk3OTY2MTM6Y2RubGl2ZXR2LnR2OmVmNTIwYzkxMjZhNmNiNDYuMTg5YWFkMjQ3ZWFjYTFlMjkyMTU1YjNkM2VmNjZlYjQ5MjBiNjk4NmE1NTg2MTI1M2E2YzQ2NWQ4YjQyZjUyNA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTMyNDExMDg2MjE6Y2RubGl2ZXR2LnR2OmExMDIyZThmYzlkZDNhNzcuN2U0OTVmNGNjOWU2NWRlZDExZjc1NzBiYmNkNmMwZjYzZTk5MTQ4OTFjZTZhNmMzNzQyZjU1ZWQ2YTYwMzM5YQ"
  },
  {
   "name": "USA TODAY (1080p)",
@@ -11735,6 +11726,15 @@
    "Music"
   ],
   "url": "https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8"
+ },
+ {
+  "name": "Vision Latina Network (1080p)",
+  "id": "VisionLatinaNetwork.us@SD",
+  "logo": "https://i.imgur.com/VgYCskX.png",
+  "categories": [
+   "General"
+  ],
+  "url": "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-ccbf-46e5-87c3-0f8d4a94d9e3/master.m3u8"
  },
  {
   "name": "VoA TV (1080p)",

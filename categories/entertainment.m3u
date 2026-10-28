@@ -167,8 +167,6 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
 https://oitnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Outlaw.us@WGGSTV" tvg-logo="https://i.imgur.com/tSNwL8W.png" group-title="Entertainment",Outlaw WGGS-TV (720p)
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
-#EXTINF:-1 tvg-id="PeopleAreAwesome.us@SD" tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="Entertainment",People Are Awesome (1080p)
-https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8
 #EXTINF:-1 tvg-id="PetsTV.us@SD" tvg-logo="https://i.imgur.com/qPqQmYo.png" group-title="Entertainment",Pets.TV (720p)
 https://a-cdn.klowdtv.com/live2/petstv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAdventure.us@US" tvg-logo="https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png" group-title="Entertainment;Outdoor;Series",Pluto TV Adventure
