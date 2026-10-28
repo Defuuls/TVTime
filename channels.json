@@ -1271,15 +1271,6 @@
   "url": "https://hls.avang.live/hls/stream.m3u8"
  },
  {
-  "name": "AVI Rewind (1080p)",
-  "id": "AVIRewind.us@SD",
-  "logo": "https://zplay.cl/LogosV2/AVIREWINDS_NEW.png",
-  "categories": [
-   "Movies"
-  ],
-  "url": "http://45.70.201.81:8000/play/a010/index.m3u8"
- },
- {
   "name": "AWE (720p)",
   "id": "AWE.us@SD",
   "logo": "https://i.imgur.com/OjpCtGj.png",
@@ -4148,15 +4139,6 @@
    "Legislative"
   ],
   "url": "https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8"
- },
- {
-  "name": "Fierro a Fondo TV (1080p)",
-  "id": "FierroaFondoTV.us@SD",
-  "logo": "https://pbs.twimg.com/profile_images/1903618079696773120/maQJpd9__400x400.jpg",
-  "categories": [
-   "Auto"
-  ],
-  "url": "http://45.70.201.81:8000/play/a00x/index.m3u8"
  },
  {
   "name": "FIFA+ United States (720p)",
@@ -7436,15 +7418,6 @@
    "News"
   ],
   "url": "https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8"
- },
- {
-  "name": "News12 Bronx [Geo-blocked]",
-  "id": "News12Bronx.us@SD",
-  "logo": "https://i.imgur.com/d6xQiaf.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
  },
  {
   "name": "News12 Brooklyn [Geo-blocked]",
@@ -11193,6 +11166,15 @@
   "url": "https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8"
  },
  {
+  "name": "TVS Mainstreet (360p) [Not 24/7]",
+  "id": "TVSMainstreet.us@SD",
+  "logo": "https://i.imgur.com/N9nQpnP.png",
+  "categories": [
+   "Classic"
+  ],
+  "url": "https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8"
+ },
+ {
   "name": "TVS Music Network (720p)",
   "id": "TVSMusicNetwork.us@SD",
   "logo": "",
@@ -11562,7 +11544,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTMxNjQ3Mjc3MTQ6Y2RubGl2ZXR2LnR2OjI2M2ZmMjU0YjkwYjQxZjIuYjdlZTBmYTI4N2ZhYTE4M2U5MjVjNTc1ZjQxN2E1NGMzYjEyZjJjNzQ3ZDZlNjAyODgwOGVlM2YwN2E4ZTQ0Nw"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTMxOTAyOTM0NzI6Y2RubGl2ZXR2LnR2OjI0Y2FmMzk5MmJmYWYxZDMuZDAxNDI3MmRmYTBkNjU4ZTEyYTgwOWM2OTczMTA0MDZkNzM1ZDRmZTA3YTM5NTNiZjA5N2JmZjkxY2JlMTcwNg"
  },
  {
   "name": "USA TODAY (1080p)",
