@@ -673,6 +673,15 @@
   "url": "https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8"
  },
  {
+  "name": "Adult Swim West [Not 24/7;Geo-blocked]",
+  "id": "AdultSwim.us@West",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
+  "categories": [
+   "Entertainment"
+  ],
+  "url": "https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8"
+ },
+ {
   "name": "AfroLandTV (1080p)",
   "id": "AfroLandTV.us@SD",
   "logo": "https://i.imgur.com/jvnkrEF.png",
@@ -2140,6 +2149,15 @@
    "General"
   ],
   "url": "https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8"
+ },
+ {
+  "name": "Canal de la Fe (720p)",
+  "id": "CanaldelaFe.us@SD",
+  "logo": "https://i.imgur.com/n3FffgF.png",
+  "categories": [
+   "Religious"
+  ],
+  "url": "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8"
  },
  {
   "name": "Canela TV (1080p)",
@@ -3651,6 +3669,15 @@
   "url": "http://41.205.93.154/ESPNNEWS/index.m3u8"
  },
  {
+  "name": "Disney Junior (United States) (480p)",
+  "id": "DisneyJunior.us@East",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
+  "categories": [
+   "Kids"
+  ],
+  "url": "http://tvsen5.aynascope.net/disney/index.m3u8"
+ },
+ {
   "name": "Disney XD (United States) (1080p)",
   "id": "DisneyXD.us@East",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",
@@ -4409,15 +4436,6 @@
    "Business"
   ],
   "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8"
- },
- {
-  "name": "Fox Deportes (720p)",
-  "id": "FoxDeportes.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
-  "categories": [
-   "Sports"
-  ],
-  "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
  },
  {
   "name": "Fox News Channel (1080p)",
@@ -6753,6 +6771,15 @@
   "url": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8"
  },
  {
+  "name": "MLB Strike Zone (720p)",
+  "id": "MLBStrikeZone.us@SD",
+  "logo": "https://i.imgur.com/uMI1ySO.png",
+  "categories": [
+   "Sports"
+  ],
+  "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8"
+ },
+ {
   "name": "MMA TV (576p)",
   "id": "MMATV.us@SD",
   "logo": "https://i.imgur.com/Qxco1eW.png",
@@ -7530,15 +7557,6 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
  },
  {
-  "name": "News12 Conneticut [Geo-blocked]",
-  "id": "News12Conneticut.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
- },
- {
   "name": "News12 Hudson Valley [Geo-blocked]",
   "id": "News12HudsonValley.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
@@ -7546,15 +7564,6 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
- },
- {
-  "name": "News12 Long Island (1080p) [Geo-blocked]",
-  "id": "News12LongIsland.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
  },
  {
   "name": "News12 New Jersey [Geo-blocked]",
@@ -7566,15 +7575,6 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https"
  },
  {
-  "name": "News12 Westchester [Geo-blocked]",
-  "id": "News12Westchester.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
- },
- {
   "name": "News12+ Connecticut (1080p) [Geo-blocked]",
   "id": "News12PlusConnecticut.us@HD",
   "logo": "https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg",
@@ -7582,15 +7582,6 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8"
- },
- {
-  "name": "News12+ Hudson Valley (1080p) [Geo-blocked]",
-  "id": "News12PlusHudsonValley.us@HD",
-  "logo": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8"
  },
  {
   "name": "News12+ Long Island (1080p) [Geo-blocked]",
@@ -8153,6 +8144,15 @@
    "General"
   ],
   "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8"
+ },
+ {
+  "name": "PBC TV Channel 20 (720p)",
+  "id": "PBCTVChannel20.us@SD",
+  "logo": "https://i.imgur.com/2bGBbOZ.png",
+  "categories": [
+   "Legislative"
+  ],
+  "url": "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
  },
  {
   "name": "PBR RidePass (720p)",
@@ -11627,7 +11627,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTM0MDIzNTk4MjA6Y2RubGl2ZXR2LnR2OmI5ZTUzMTJkZjA4MjRlMDYuYzhhYWE4NTVkMjA3NmY3M2JlNDU3NzkyOTYwY2M1ZDViZmEwNDQwNjg0YzY1ZjBiYmQ4NWYzMTdiZTc5OTZmMQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTM0MTgyMDUyMjM6Y2RubGl2ZXR2LnR2OmNmZTQ0MTllYjZmYzAxYTIuYjg4ODg3NWU4OWVhMzExNjM5MzE0ZDM5YjRhYmFmZDA0NjI5Zjk5OTBjYmMwZTdkODI5YWMxMGRlNWJhMjY5MQ"
  },
  {
   "name": "USA TODAY (1080p)",
@@ -12188,6 +12188,15 @@
   "url": "https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8"
  },
  {
+  "name": "WVVH-CD 18.1 (720p)",
+  "id": "WVVHCD181.us@HD",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/3/3f/WVVH-CD_logo.png",
+  "categories": [
+   "Undefined"
+  ],
+  "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:207282-6094500/playlist.m3u8"
+ },
+ {
   "name": "WWE Network (1080p)",
   "id": "WWENetwork.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/500px-WWE_Network_logo.svg.png",
@@ -12195,15 +12204,6 @@
    "Sports"
   ],
   "url": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls"
- },
- {
-  "name": "WWON-TV Channel 48",
-  "id": "WWONTVChannel48.us@SD",
-  "logo": "https://i.imgur.com/l4qHAq6.png",
-  "categories": [
-   "Entertainment"
-  ],
-  "url": "https://tv2.fastcast4u.com:3943/stream/play.m3u8"
  },
  {
   "name": "XFC TV (720p)",
