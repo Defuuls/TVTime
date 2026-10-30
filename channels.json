@@ -3488,15 +3488,6 @@
   "url": "https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8"
  },
  {
-  "name": "Daystar TV (1080p)",
-  "id": "DaystarTV.us@SD",
-  "logo": "https://i.imgur.com/uVdKHMG.png",
-  "categories": [
-   "Religious"
-  ],
-  "url": "https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8"
- },
- {
   "name": "Daystar TV Espanol (1080p)",
   "id": "DaystarTVEspanol.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png",
@@ -4150,15 +4141,6 @@
   "url": "https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8"
  },
  {
-  "name": "Fernandina Beach Channel (720p) [Not 24/7]",
-  "id": "FernandinaBeachChannel.us@SD",
-  "logo": "https://i.imgur.com/9UfyekJ.png",
-  "categories": [
-   "Legislative"
-  ],
-  "url": "https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8"
- },
- {
   "name": "FGTV (United States)",
   "id": "FGTV.us@SD",
   "logo": "https://i.imgur.com/RXFmzVY.png",
@@ -4447,6 +4429,15 @@
   "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8"
  },
  {
+  "name": "Fox Deportes (720p)",
+  "id": "FoxDeportes.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
+  "categories": [
+   "Sports"
+  ],
+  "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+ },
+ {
   "name": "Fox News Channel (1080p)",
   "id": "FoxNewsChannel.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
@@ -4574,6 +4565,15 @@
   "url": "http://23.237.104.106:8080/USA_FUSE/index.m3u8"
  },
  {
+  "name": "FX (United States) (720p)",
+  "id": "FX.us@East",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+  "categories": [
+   "Entertainment"
+  ],
+  "url": "https://tvsen7.aynascope.net/fx/index.m3u8"
+ },
+ {
   "name": "G10TV (1080p)",
   "id": "G10TV.us@SD",
   "logo": "https://i.imgur.com/5VPgAxB.jpg",
@@ -4671,15 +4671,6 @@
    "Kids"
   ],
   "url": "https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8"
- },
- {
-  "name": "GCN America (720p)",
-  "id": "GCNAmerica.us@SD",
-  "logo": "https://i.imgur.com/DWSWrtV.png",
-  "categories": [
-   "Religious"
-  ],
-  "url": "http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8"
  },
  {
   "name": "GCO.tv (1080p)",
@@ -5007,6 +4998,15 @@
    "Series"
   ],
   "url": "https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8"
+ },
+ {
+  "name": "HBCU-GO Sports (720p)",
+  "id": "HBCUGOSports.us@SD",
+  "logo": "https://i.imgur.com/TY6sx5W.png",
+  "categories": [
+   "Sports"
+  ],
+  "url": "https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8"
  },
  {
   "name": "HBO (United States) (720p)",
@@ -5697,6 +5697,16 @@
    "Legislative"
   ],
   "url": "https://brightonco.cablecast.tv/live-4/live/live.m3u8"
+ },
+ {
+  "name": "KBSV 23.1 (720p) [Not 24/7]",
+  "id": "KBSV231.us@SD",
+  "logo": "https://i.imgur.com/6lklsyN.png",
+  "categories": [
+   "General",
+   "Religious"
+  ],
+  "url": "http://66.242.170.53/hls/live/temp/index.m3u8"
  },
  {
   "name": "KCAT (1080p)",
@@ -6635,15 +6645,6 @@
   "url": "https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8"
  },
  {
-  "name": "MeTV (720p)",
-  "id": "MeTV.us@SD",
-  "logo": "https://play-lh.googleusercontent.com/PO0C2_-FdOtMVn1rw_Q0_iystfcf6Ab8h1Q37P8fEgSLuAkQJBCI9kax_FIkUgXppgs4",
-  "categories": [
-   "Entertainment"
-  ],
-  "url": "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8"
- },
- {
   "name": "Midnight Pulp (1080p)",
   "id": "MidnightPulp.us@SD",
   "logo": "https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a1a2cdc3d6f0714c586e9959732580c7.png",
@@ -7520,15 +7521,6 @@
   "url": "https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8"
  },
  {
-  "name": "News12 Bronx [Geo-blocked]",
-  "id": "News12Bronx.us@SD",
-  "logo": "https://i.imgur.com/d6xQiaf.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
- },
- {
   "name": "News12 Brooklyn [Geo-blocked]",
   "id": "News12Brooklyn.us@SD",
   "logo": "https://i.imgur.com/fvcOzzK.png",
@@ -7565,15 +7557,6 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
  },
  {
-  "name": "News12 New Jersey [Geo-blocked]",
-  "id": "News12NewJersey.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https"
- },
- {
   "name": "News12 Westchester [Geo-blocked]",
   "id": "News12Westchester.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
@@ -7581,15 +7564,6 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
- },
- {
-  "name": "News12+ Connecticut (1080p) [Geo-blocked]",
-  "id": "News12PlusConnecticut.us@HD",
-  "logo": "https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8"
  },
  {
   "name": "News12+ Hudson Valley (1080p) [Geo-blocked]",
@@ -7617,15 +7591,6 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8"
- },
- {
-  "name": "News12+ New York (1080p) [Geo-blocked]",
-  "id": "News12PlusNewYork.us@HD",
-  "logo": "https://i.ibb.co/tThKYM09/news12plus-NYC.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8"
  },
  {
   "name": "Newsmax 2 (1080p)",
@@ -9813,6 +9778,15 @@
   "url": "https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8"
  },
  {
+  "name": "Sony Movies (United States) (720p)",
+  "id": "SonyMovies.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
+  "categories": [
+   "Movies"
+  ],
+  "url": "https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8"
+ },
+ {
   "name": "Sound View Community Media (480p)",
   "id": "SoundViewCommunityMedia.us@SD",
   "logo": "https://i.imgur.com/3gASzGc.png",
@@ -10176,15 +10150,6 @@
    "General"
   ],
   "url": "https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8"
- },
- {
-  "name": "TBN Armenia",
-  "id": "TBNArmenia.us@SD",
-  "logo": "https://i.imgur.com/U5XsT3j.png",
-  "categories": [
-   "Undefined"
-  ],
-  "url": "https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8"
  },
  {
   "name": "TBN Pacific",
@@ -10923,16 +10888,6 @@
   "url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8"
  },
  {
-  "name": "Tooncast (1080p)",
-  "id": "Tooncast.us@SD",
-  "logo": "https://i.imgur.com/3yXRbQy.png",
-  "categories": [
-   "Animation",
-   "Kids"
-  ],
-  "url": "http://38.134.250.110:8000/play/a01t/index.m3u8"
- },
- {
   "name": "ToonGoggles (720p)",
   "id": "ToonGoggles.us@SD",
   "logo": "https://i.imgur.com/JMnxswq.png",
@@ -11644,7 +11599,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTMzMzI1NTA4MTY6Y2RubGl2ZXR2LnR2OjZkYzM3NjJmYWM0NDNlYzUuMTIxNGQ2NjM5MTgzOWI5NzhmYWQ0NzY4MmZkOWIwOTBkZmRjNDFhMDNmNjc2YWQ2MWYzNGJkZDg4OThkODkyYQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTMzNTMzMTA2NTI6Y2RubGl2ZXR2LnR2OjE4NDllZDUxMTBhYzA5N2EuN2UxOGUwOTYxY2UyMTIxOGNlOGRiOTM0ZThlN2Q5NjkxNjNiOWNhYmFmMzhlNjQzNjhmNmVlMGY5MGFkZWY3NA"
  },
  {
   "name": "USA TODAY (1080p)",
@@ -11771,6 +11726,15 @@
    "Music"
   ],
   "url": "https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8"
+ },
+ {
+  "name": "Vision Latina Network (1080p)",
+  "id": "VisionLatinaNetwork.us@SD",
+  "logo": "https://i.imgur.com/VgYCskX.png",
+  "categories": [
+   "General"
+  ],
+  "url": "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-ccbf-46e5-87c3-0f8d4a94d9e3/master.m3u8"
  },
  {
   "name": "VoA TV (1080p)",
