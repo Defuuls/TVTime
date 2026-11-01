@@ -5945,15 +5945,6 @@
   "url": "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8"
  },
  {
-  "name": "Lacrosse TV (720p)",
-  "id": "LacrosseTV.us@SD",
-  "logo": "https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj",
-  "categories": [
-   "Sports"
-  ],
-  "url": "https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8"
- },
- {
   "name": "Laff (576p)",
   "id": "Laff.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LAFF_logo.png/960px-LAFF_logo.png",
@@ -6925,15 +6916,6 @@
   "url": "https://livestream.telvue.com/madrivervalleytv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
  },
  {
-  "name": "MS NOW (432p)",
-  "id": "MSNOW.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/960px-MS_NOW_logo.svg.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://tvsen6.aynaott.com/msnbc/index.m3u8"
- },
- {
   "name": "MST3K (1080p)",
   "id": "MST3K.us@US",
   "logo": "https://i.imgur.com/2LSdcga.png",
@@ -7521,15 +7503,6 @@
   "url": "https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8"
  },
  {
-  "name": "News12 Bronx [Geo-blocked]",
-  "id": "News12Bronx.us@SD",
-  "logo": "https://i.imgur.com/d6xQiaf.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
- },
- {
   "name": "News12 Brooklyn [Geo-blocked]",
   "id": "News12Brooklyn.us@SD",
   "logo": "https://i.imgur.com/fvcOzzK.png",
@@ -7546,6 +7519,15 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
+ },
+ {
+  "name": "News12 Hudson Valley [Geo-blocked]",
+  "id": "News12HudsonValley.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
  },
  {
   "name": "News12 Long Island (1080p) [Geo-blocked]",
@@ -7591,15 +7573,6 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8"
- },
- {
-  "name": "News12+ Long Island (1080p) [Geo-blocked]",
-  "id": "News12PlusLongIsland.us@HD",
-  "logo": "https://i.ibb.co/p6FPNcCk/news12plus-LI.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8"
  },
  {
   "name": "News12+ New Jersey (1080p) [Geo-blocked]",
@@ -8108,15 +8081,6 @@
    "Legislative"
   ],
   "url": "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
- },
- {
-  "name": "Payam Javan TV (720p) [Not 24/7]",
-  "id": "PayamJavanTV.us@SD",
-  "logo": "https://i.imgur.com/GYfsHh9.png",
-  "categories": [
-   "Education"
-  ],
-  "url": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
  },
  {
   "name": "Payam-e-Afghan TV (480p) [Not 24/7]",
@@ -9515,6 +9479,15 @@
    "Undefined"
   ],
   "url": "https://stream-tampa.scientology.org/master.m3u8"
+ },
+ {
+  "name": "Scottsdale Channel 11",
+  "id": "ScottsdaleChannel11.us@SD",
+  "logo": "https://i.imgur.com/lfE6Q9i.png",
+  "categories": [
+   "General"
+  ],
+  "url": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8"
  },
  {
   "name": "Screen Dreams (720p)",
@@ -11617,7 +11590,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTM1MDMzMTU4NDA6Y2RubGl2ZXR2LnR2OjA3OWUzY2I5ZDk4Y2NiM2MuMTRhNDc5NWI2ZmExM2UyOWRlOTExZjM2MWUyMTA1OTJmYzM0NGIwZDAwYjI3NjEyNmNlNzcyNGYwNWY0NjAyMw"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTM1MjcwMjUzNDU6Y2RubGl2ZXR2LnR2OjczYTdmMGNiYzQ4MDcyNjEuZjNkOGUyNmZhM2VhYjBkOGZkN2M5YjRhMzRjODExOGI0Njg1NWE3OTFhODZlMGZkMmI4ZTliYjNmZTI3NDFiYw"
  },
  {
   "name": "USA TODAY (1080p)",
