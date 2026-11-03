@@ -97,6 +97,8 @@ http://190.217.66.92:8000/play/a0fp/index.m3u8
 https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@Spanish" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="Religious",EWTN (United States) Spanish (720p) [Geo-blocked]
 https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FaithTV.us@SD" tvg-logo="https://i.imgur.com/lUBnKK1.png" group-title="Religious",Faith TV (1080p)
+https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GCNAmerica.us@SD" tvg-logo="https://i.imgur.com/DWSWrtV.png" group-title="Religious",GCN America (720p)
 http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GEBNetwork.us@KBPXLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/GEB_logo_blue.png" group-title="Religious",GEB Network KBPX-LD (1080p)
@@ -149,8 +151,6 @@ https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b
 https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
 #EXTINF:-1 tvg-id="LifevisionTV.us@SD" tvg-logo="" group-title="Religious",LifevisionTV (406p) [Not 24/7]
 https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
-#EXTINF:-1 tvg-id="LivingFaithTV.us@SD" tvg-logo="https://i.imgur.com/FuNpesJ.png" group-title="Religious",Living Faith TV (540p)
-https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
 #EXTINF:-1 tvg-id="LLBNHisLight.us@SD" tvg-logo="https://i.imgur.com/YkLZjRw.png" group-title="Religious",LLBN His Light (720p)
 https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream.m3u8
 #EXTINF:-1 tvg-id="LLBNHisWord.us@SD" tvg-logo="https://i.imgur.com/GbyHlS2.png" group-title="Religious",LLBN His Word (720p)
