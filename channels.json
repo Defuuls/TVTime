@@ -1334,6 +1334,15 @@
   "url": "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8"
  },
  {
+  "name": "BabyFirst Spanish (1080p)",
+  "id": "BabyFirst.us@Spanish",
+  "logo": "https://i.imgur.com/WxLHBwu.png",
+  "categories": [
+   "Kids"
+  ],
+  "url": "http://168.196.127.137:6001/play/a06j/index.m3u8"
+ },
+ {
   "name": "BabyTV Latin America (1080p)",
   "id": "BabyTV.uk@LatinAmerica",
   "logo": "https://i.imgur.com/4BDJ5FT.png",
@@ -2957,6 +2966,15 @@
   "url": "https://tvsen6.aynaott.com/cnn/index.m3u8"
  },
  {
+  "name": "CNN en Espanol (1080p)",
+  "id": "CNNenEspanol.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8"
+ },
+ {
   "name": "CNN HD (720p) [Geo-blocked]",
   "id": "CNN.us@HD",
   "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",
@@ -3848,6 +3866,15 @@
    "Entertainment"
   ],
   "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544"
+ },
+ {
+  "name": "El Sembrador Nueva Evangelizacion ESNE",
+  "id": "ElSembradorNuevaEvangelizacionESNE.us@SD",
+  "logo": "https://i.imgur.com/APhSi1Y.jpg",
+  "categories": [
+   "Religious"
+  ],
+  "url": "http://190.61.90.17:40000/play/a025/index.m3u8"
  },
  {
   "name": "Elbeshara GTV (1080p) [Not 24/7]",
@@ -6089,6 +6116,24 @@
   "url": "https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8"
  },
  {
+  "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Comedy;Movies;Series\",Universal Comedy (1080p)",
+  "id": "UniversalComedy.us@SD",
+  "logo": "https://i.imgur.com/avBL8pQ.png",
+  "categories": [
+   "Undefined"
+  ],
+  "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8"
+ },
+ {
+  "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Series\",Universal Crime (1080p)",
+  "id": "UniversalCrime.us@East",
+  "logo": "https://i.imgur.com/OwSlGMu.png",
+  "categories": [
+   "Undefined"
+  ],
+  "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8"
+ },
+ {
   "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"General\",Mediaset Italia USA (1080p)",
   "id": "MediasetItalia.it@USA",
   "logo": "https://i.imgur.com/F4gyqhw.png",
@@ -6715,15 +6760,6 @@
    "Sports"
   ],
   "url": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8"
- },
- {
-  "name": "MLB Strike Zone (720p)",
-  "id": "MLBStrikeZone.us@SD",
-  "logo": "https://i.imgur.com/uMI1ySO.png",
-  "categories": [
-   "Sports"
-  ],
-  "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8"
  },
  {
   "name": "MMA TV (576p)",
@@ -7485,24 +7521,6 @@
   "url": "https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8"
  },
  {
-  "name": "News12 Bronx [Geo-blocked]",
-  "id": "News12Bronx.us@SD",
-  "logo": "https://i.imgur.com/d6xQiaf.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
- },
- {
-  "name": "News12 Conneticut [Geo-blocked]",
-  "id": "News12Conneticut.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
- },
- {
   "name": "News12 Hudson Valley [Geo-blocked]",
   "id": "News12HudsonValley.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
@@ -7510,15 +7528,6 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
- },
- {
-  "name": "News12 Long Island (1080p) [Geo-blocked]",
-  "id": "News12LongIsland.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
  },
  {
   "name": "News12+ Connecticut (1080p) [Geo-blocked]",
@@ -7530,22 +7539,13 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8"
  },
  {
-  "name": "News12+ Long Island (1080p) [Geo-blocked]",
-  "id": "News12PlusLongIsland.us@HD",
-  "logo": "https://i.ibb.co/p6FPNcCk/news12plus-LI.jpg",
+  "name": "News12+ Hudson Valley (1080p) [Geo-blocked]",
+  "id": "News12PlusHudsonValley.us@HD",
+  "logo": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
   "categories": [
    "News"
   ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8"
- },
- {
-  "name": "News12+ New Jersey (1080p) [Geo-blocked]",
-  "id": "News12PlusNewJersey.us@HD",
-  "logo": "https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8"
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8"
  },
  {
   "name": "News12+ New York (1080p) [Geo-blocked]",
@@ -9490,6 +9490,15 @@
   "url": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8"
  },
  {
+  "name": "Semillitas TV (1080p)",
+  "id": "SemillitasTV.us@SD",
+  "logo": "https://i.imgur.com/u3yujUd.png",
+  "categories": [
+   "Undefined"
+  ],
+  "url": "http://168.196.127.137:6001/play/a04y/index.m3u8"
+ },
+ {
   "name": "SF Commons 29 (480p)",
   "id": "SFCommons29.us@SD",
   "logo": "https://i.imgur.com/aVkJkgm.png",
@@ -11365,6 +11374,15 @@
   "url": "http://45.170.130.224:8000/play/a020/index.m3u8"
  },
  {
+  "name": "UCTV (720p) [Not 24/7]",
+  "id": "UCTV.us@SD",
+  "logo": "https://i.imgur.com/ehMz9T5.png",
+  "categories": [
+   "Education"
+  ],
+  "url": "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
+ },
+ {
   "name": "Unbeaten (1080p)",
   "id": "Unbeaten.us@SD",
   "logo": "https://i.imgur.com/LmkNt3v.png",
@@ -11536,7 +11554,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTM3OTgzNDkxMjI6Y2RubGl2ZXR2LnR2OmMyNjNkZjBhOGMzOThjZTIuYWE1MzY3MDdiMTFiNmZjOTQ1NjEwNmI2NmZjZDM1Nzg3ZDk0OGUzMjg1ZmI1ODAxY2Q1ZjgxOWQzMGRmZmQ2MQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTM4Mjk1Mjk1NzA6Y2RubGl2ZXR2LnR2OjFjN2M2MjFlZDlhYjQyOWMuNGZhNTAzMzE0OGQzMWM0YzYwNmI3YWQ2Y2UyN2U5NmZjMzRkYWE3OTliMDFjNGIwNTUzOWEwNmMxZDIzNjdkNw"
  },
  {
   "name": "USA TODAY (1080p)",
@@ -11654,15 +11672,6 @@
    "Religious"
   ],
   "url": "https://tgn.bozztv.com/betterlife/bettervida/bettervida/index.m3u8"
- },
- {
-  "name": "Video Mix TV",
-  "id": "VideoMixTV.us@SD",
-  "logo": "https://i.imgur.com/nyLrIPP.png",
-  "categories": [
-   "Music"
-  ],
-  "url": "https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8"
  },
  {
   "name": "Vision Latina Network (1080p)",
