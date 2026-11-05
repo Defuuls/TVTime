@@ -2458,6 +2458,15 @@
   "url": "https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8"
  },
  {
+  "name": "Channel 10 (United States) (720p)",
+  "id": "Channel10.us@SD",
+  "logo": "https://spcity.org/ImageRepository/Document?documentID=4246",
+  "categories": [
+   "Legislative"
+  ],
+  "url": "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8"
+ },
+ {
   "name": "Channel 18 GAC",
   "id": "Channel18GAC.us@SD",
   "logo": "https://i.imgur.com/au07aLr.png",
@@ -3841,15 +3850,6 @@
   "url": "https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8"
  },
  {
-  "name": "EBS Cinema (720p)",
-  "id": "EBSCinema.us@SD",
-  "logo": "https://i.imgur.com/fewPTFE.png",
-  "categories": [
-   "Movies"
-  ],
-  "url": "https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8"
- },
- {
   "name": "EBS Musika (720p)",
   "id": "EBSMusika.us@SD",
   "logo": "https://i.imgur.com/lSpplhD.png",
@@ -4447,15 +4447,6 @@
   "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8"
  },
  {
-  "name": "Fox News Channel (1080p)",
-  "id": "FoxNewsChannel.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://tvsen6.aynaott.com/foxnews/index.m3u8"
- },
- {
   "name": "Fox News Radio (720p)",
   "id": "FoxNewsRadio.us@SD",
   "logo": "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png",
@@ -4950,6 +4941,16 @@
    "Movies"
   ],
   "url": "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709"
+ },
+ {
+  "name": "Hallmark Mystery (720p) [Geo-blocked]",
+  "id": "HallmarkMystery.us@East",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg",
+  "categories": [
+   "Movies",
+   "Series"
+  ],
+  "url": "http://41.205.93.154/HALLMARK/index.m3u8"
  },
  {
   "name": "Happy Days (United States)",
@@ -6761,15 +6762,6 @@
   "url": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8"
  },
  {
-  "name": "MLB Strike Zone (720p)",
-  "id": "MLBStrikeZone.us@SD",
-  "logo": "https://i.imgur.com/uMI1ySO.png",
-  "categories": [
-   "Sports"
-  ],
-  "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8"
- },
- {
   "name": "MMA TV (576p)",
   "id": "MMATV.us@SD",
   "logo": "https://i.imgur.com/Qxco1eW.png",
@@ -7039,15 +7031,6 @@
    "Entertainment"
   ],
   "url": "http://198.58.104.90:8989/mtv2/index.m3u8"
- },
- {
-  "name": "Muslim Network TV",
-  "id": "MuslimNetworkTV.us@SD",
-  "logo": "",
-  "categories": [
-   "Religious"
-  ],
-  "url": "https://afghantv.app/hls2/muslimnetwork/index.m3u8"
  },
  {
   "name": "MyDestination.TV (720p)",
@@ -7556,6 +7539,15 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
  },
  {
+  "name": "News12 Long Island (1080p) [Geo-blocked]",
+  "id": "News12LongIsland.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
+ },
+ {
   "name": "News12 New Jersey [Geo-blocked]",
   "id": "News12NewJersey.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
@@ -7599,15 +7591,6 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8"
- },
- {
-  "name": "News12+ New Jersey (1080p) [Geo-blocked]",
-  "id": "News12PlusNewJersey.us@HD",
-  "logo": "https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8"
  },
  {
   "name": "News12+ New York (1080p) [Geo-blocked]",
@@ -8118,15 +8101,6 @@
   "url": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
  },
  {
-  "name": "Payam-e-Afghan TV (480p) [Not 24/7]",
-  "id": "PayameAfghanTV.us@SD",
-  "logo": "https://i.imgur.com/t9wYYY9.png",
-  "categories": [
-   "General"
-  ],
-  "url": "https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8"
- },
- {
   "name": "Payame Aramesh TV (720p)",
   "id": "PayameArameshTV.us@SD",
   "logo": "https://i.imgur.com/WaPr0t0.png",
@@ -8383,6 +8357,15 @@
    "General"
   ],
   "url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8"
+ },
+ {
+  "name": "People Are Awesome (1080p)",
+  "id": "PeopleAreAwesome.us@SD",
+  "logo": "https://i.imgur.com/MsIx7Ax.png",
+  "categories": [
+   "Entertainment"
+  ],
+  "url": "https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8"
  },
  {
   "name": "Peppa Pig",
@@ -11391,15 +11374,6 @@
   "url": "https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8"
  },
  {
-  "name": "TVS Women Sports (720p)",
-  "id": "TVSWomenSports.us@SD",
-  "logo": "https://i.imgur.com/8hC4PfF.png",
-  "categories": [
-   "Sports"
-  ],
-  "url": "https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8"
- },
- {
   "name": "TVSA Government Channel (720p)",
   "id": "TVSAGovernmentChannel.us@SD",
   "logo": "https://i.imgur.com/3Om5TUc.png",
@@ -11416,6 +11390,15 @@
    "General"
   ],
   "url": "https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8"
+ },
+ {
+  "name": "TyC Sports USA",
+  "id": "TyCSportsUSA.ar@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+  "categories": [
+   "Sports"
+  ],
+  "url": "http://45.170.130.224:8000/play/a020/index.m3u8"
  },
  {
   "name": "UCTV (720p) [Not 24/7]",
@@ -11598,7 +11581,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTM4NzUxMzUzNjk6Y2RubGl2ZXR2LnR2OjY0YmU4MWMxYzhiZmZhZTguNGMxYjI3NjEyZWZjMzU0YjA4M2NkZjUyOTViYmQ2ODYwOTAzOGRmZTVmOWJmYmNkMDE3NDc4ODBlZDEzYmJhZQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTM5MTA0MDMwNDQ6Y2RubGl2ZXR2LnR2OjhhMzQ1ODAzN2FjNGEwNmMuNmI0NWQ5OTI2Y2JjMDBjZGE4YTdmODVlMjA4YTc2N2ZlNGFlYjk2MmYzNzMzNmM4MTI3NGM3MjliZjBjMzk4MQ"
  },
  {
   "name": "USA TODAY (1080p)",
