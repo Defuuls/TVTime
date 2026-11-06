@@ -3868,15 +3868,6 @@
   "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544"
  },
  {
-  "name": "El Sembrador Nueva Evangelizacion ESNE",
-  "id": "ElSembradorNuevaEvangelizacionESNE.us@SD",
-  "logo": "https://i.imgur.com/APhSi1Y.jpg",
-  "categories": [
-   "Religious"
-  ],
-  "url": "http://190.61.90.17:40000/play/a025/index.m3u8"
- },
- {
   "name": "Elbeshara GTV (1080p) [Not 24/7]",
   "id": "ElbesharaGTV.us@SD",
   "logo": "https://i.imgur.com/b0Wx7pE.png",
@@ -6672,6 +6663,15 @@
   "url": "https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8"
  },
  {
+  "name": "Midpen Media Center Channel 26 (720p)",
+  "id": "MidpenMediaCenterChannel26.us@SD",
+  "logo": "https://i.imgur.com/aX1GkCD.png",
+  "categories": [
+   "Undefined"
+  ],
+  "url": "https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8"
+ },
+ {
   "name": "Midpen Media Center Channel 28 (720p)",
   "id": "MidpenMediaCenterChannel28.us@SD",
   "logo": "https://i.imgur.com/RPJiolQ.png",
@@ -7566,15 +7566,6 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
  },
  {
-  "name": "News12 Conneticut [Geo-blocked]",
-  "id": "News12Conneticut.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
- },
- {
   "name": "News12 Hudson Valley (1080p) [Geo-blocked]",
   "id": "News12HudsonValley.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
@@ -7982,15 +7973,6 @@
   "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8"
  },
  {
-  "name": "OnTV4U (1080p) [Geo-blocked]",
-  "id": "OnTV4U.us@SD",
-  "logo": "https://i.imgur.com/yaCK1Mh.png",
-  "categories": [
-   "Shop"
-  ],
-  "url": "https://stirr.b-cdn.net/stirr/playlist.m3u8"
- },
- {
   "name": "Orange Government Access TV (720p)",
   "id": "OrangeGovernmentAccessTV.us@SD",
   "logo": "https://i.imgur.com/hyPTfxA.png",
@@ -8144,15 +8126,6 @@
    "Legislative"
   ],
   "url": "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
- },
- {
-  "name": "Payam Javan TV (720p) [Not 24/7]",
-  "id": "PayamJavanTV.us@SD",
-  "logo": "https://i.imgur.com/GYfsHh9.png",
-  "categories": [
-   "Education"
-  ],
-  "url": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
  },
  {
   "name": "Payam-e-Afghan TV (480p) [Not 24/7]",
@@ -10298,6 +10271,15 @@
   "url": "http://tvsen7.aynascope.net/teennick/index.m3u8"
  },
  {
+  "name": "Tele Boston (480p)",
+  "id": "TeleBoston.us@SD",
+  "logo": "https://i.imgur.com/xeTtup8.png",
+  "categories": [
+   "Entertainment"
+  ],
+  "url": "https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8"
+ },
+ {
   "name": "TeleMIX (720p)",
   "id": "TeleMIX.us@SD",
   "logo": "https://i.ibb.co/HpX99Ks/unnamed.jpg",
@@ -11644,7 +11626,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTM5OTQ4NDYxNDc6Y2RubGl2ZXR2LnR2OmI4ZmJkOTUxMTMwZWNjYmQuZGZmY2ZmMjYzZjAwNGE0Njc1MzVhZmNjMDdlMGM4ZGY5M2ZkYjgwYjNhZDNmZTRmNTY0ZDI3ZDkxYjBiMTU0MQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTQwMTQ5MzQ5NDU6Y2RubGl2ZXR2LnR2OjhmMzNkMWY1MmY1ZDc4MzUuMWVkNmUyNTgwZGY4N2U0Y2E1MzFjNDZjZTlkOTM3ZDEyODNlOTEyM2NmNzE5N2YyN2U2Y2EzMDc4ODI1ZDE5YQ"
  },
  {
   "name": "USA TODAY (1080p)",
