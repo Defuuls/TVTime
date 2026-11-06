@@ -3841,6 +3841,15 @@
   "url": "https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8"
  },
  {
+  "name": "EBS Cinema (720p)",
+  "id": "EBSCinema.us@SD",
+  "logo": "https://i.imgur.com/fewPTFE.png",
+  "categories": [
+   "Movies"
+  ],
+  "url": "https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8"
+ },
+ {
   "name": "EBS Musika (720p)",
   "id": "EBSMusika.us@SD",
   "logo": "https://i.imgur.com/lSpplhD.png",
@@ -4057,6 +4066,15 @@
    "General"
   ],
   "url": "https://jmp2.uk/rok-b484db42f3d31b6dc2f604d453c694a0.m3u8"
+ },
+ {
+  "name": "Faith TV (1080p)",
+  "id": "FaithTV.us@SD",
+  "logo": "https://i.imgur.com/lUBnKK1.png",
+  "categories": [
+   "Religious"
+  ],
+  "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8"
  },
  {
   "name": "Family Ties (United States)",
@@ -4427,6 +4445,15 @@
    "Business"
   ],
   "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8"
+ },
+ {
+  "name": "Fox News Channel (1080p)",
+  "id": "FoxNewsChannel.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://tvsen6.aynaott.com/foxnews/index.m3u8"
  },
  {
   "name": "Fox News Radio (720p)",
@@ -6643,15 +6670,6 @@
    "Entertainment"
   ],
   "url": "https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8"
- },
- {
-  "name": "Midpen Media Center Channel 26 (720p)",
-  "id": "MidpenMediaCenterChannel26.us@SD",
-  "logo": "https://i.imgur.com/aX1GkCD.png",
-  "categories": [
-   "Undefined"
-  ],
-  "url": "https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8"
  },
  {
   "name": "Midpen Media Center Channel 28 (720p)",
@@ -11626,7 +11644,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTM5NjEyOTI3ODk6Y2RubGl2ZXR2LnR2OmZkMGQwZGMzOTBiZTQ3ZDIuNmE0YTJlM2RhYjY2NjFhNTZhNTViNGFmMGUzZGVkMzk0NWUxNDc1NzY4ODYwYmQ4Y2M0ZjIxNTM3ZTljZDI1Yw"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTM5OTQ4NDYxNDc6Y2RubGl2ZXR2LnR2OmI4ZmJkOTUxMTMwZWNjYmQuZGZmY2ZmMjYzZjAwNGE0Njc1MzVhZmNjMDdlMGM4ZGY5M2ZkYjgwYjNhZDNmZTRmNTY0ZDI3ZDkxYjBiMTU0MQ"
  },
  {
   "name": "USA TODAY (1080p)",
