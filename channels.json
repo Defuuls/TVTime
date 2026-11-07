@@ -1987,6 +1987,15 @@
   "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8"
  },
  {
+  "name": "Bravo (720p)",
+  "id": "Bravo.us@East",
+  "logo": "https://i.imgur.com/JmTIRLF.png",
+  "categories": [
+   "Undefined"
+  ],
+  "url": "http://41.205.93.154/BRAVO/index.m3u8"
+ },
+ {
   "name": "Brevard Government Access TV (720p)",
   "id": "BrevardGovernmentAccessTV.us@SD",
   "logo": "https://i.imgur.com/eUTDIQ2.png",
@@ -4457,15 +4466,6 @@
   "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8"
  },
  {
-  "name": "Fox News Channel (1080p)",
-  "id": "FoxNewsChannel.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://tvsen6.aynaott.com/foxnews/index.m3u8"
- },
- {
   "name": "Fox News Radio (720p)",
   "id": "FoxNewsRadio.us@SD",
   "logo": "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png",
@@ -5910,15 +5910,6 @@
   "url": "https://2-fss-1.streamhoster.com/pl_122/206858-4405346-1/playlist.m3u8"
  },
  {
-  "name": "KRGV-TV 5.2 (720p) [Geo-blocked]",
-  "id": "KRGVTV52.us@HD",
-  "logo": "https://i.imgur.com/kTh2jgF.png",
-  "categories": [
-   "Entertainment"
-  ],
-  "url": "https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8"
- },
- {
   "name": "KSCE 38.1 (360p)",
   "id": "KSCE381.us@HD",
   "logo": "https://i.imgur.com/FioxUa3.png",
@@ -7044,15 +7035,6 @@
   "url": "https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8"
  },
  {
-  "name": "MTV Live (720p)",
-  "id": "MTVLive.us@SD",
-  "logo": "https://i.imgur.com/3UByLqb.png",
-  "categories": [
-   "Music"
-  ],
-  "url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8"
- },
- {
   "name": "MTV Pluto TV",
   "id": "MTVPlutoTV.us@US",
   "logo": "https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png",
@@ -7604,6 +7586,15 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
  },
  {
+  "name": "News12 Long Island (1080p) [Geo-blocked]",
+  "id": "News12LongIsland.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
+ },
+ {
   "name": "News12 New Jersey (1080p) [Geo-blocked]",
   "id": "News12NewJersey.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
@@ -7611,15 +7602,6 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https"
- },
- {
-  "name": "News12 Westchester (1080p) [Geo-blocked]",
-  "id": "News12Westchester.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
  },
  {
   "name": "News12+ Connecticut (1080p) [Geo-blocked]",
@@ -7638,6 +7620,15 @@
    "News"
   ],
   "url": "https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8"
+ },
+ {
+  "name": "News12+ New Jersey (1080p) [Geo-blocked]",
+  "id": "News12PlusNewJersey.us@HD",
+  "logo": "https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg",
+  "categories": [
+   "News"
+  ],
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8"
  },
  {
   "name": "News12+ New York (1080p) [Geo-blocked]",
@@ -8130,6 +8121,15 @@
   "url": "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
  },
  {
+  "name": "Payam Javan TV (720p) [Not 24/7]",
+  "id": "PayamJavanTV.us@SD",
+  "logo": "https://i.imgur.com/GYfsHh9.png",
+  "categories": [
+   "Education"
+  ],
+  "url": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+ },
+ {
   "name": "Payam-e-Afghan TV (480p) [Not 24/7]",
   "id": "PayameAfghanTV.us@SD",
   "logo": "https://i.imgur.com/t9wYYY9.png",
@@ -8395,6 +8395,15 @@
    "General"
   ],
   "url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8"
+ },
+ {
+  "name": "People Are Awesome (1080p)",
+  "id": "PeopleAreAwesome.us@SD",
+  "logo": "https://i.imgur.com/MsIx7Ax.png",
+  "categories": [
+   "Entertainment"
+  ],
+  "url": "https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8"
  },
  {
   "name": "Peppa Pig",
@@ -11623,6 +11632,15 @@
   "url": "http://190.197.41.183/USA_NETWORK/index.m3u8"
  },
  {
+  "name": "USA Network US",
+  "id": "",
+  "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-network-us.webp",
+  "categories": [
+   "CDNLive"
+  ],
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTQwNTU0MTE3MzU6Y2RubGl2ZXR2LnR2OmQ5MDY2NzRjNzg0OGYyZTMuYWVmNDVjM2JhZjMyNjFjNGZlMzlhMjIwM2UzMDY2YTYxNjY5YjgwNDRlY2U4NjE0ZGUyZjk3MDFhOTI5ZDA2Mg"
+ },
+ {
   "name": "USA TODAY (1080p)",
   "id": "USATODAY.us@SD",
   "logo": "https://i.imgur.com/37K0AZX.png",
@@ -12206,6 +12224,15 @@
    "Sports"
   ],
   "url": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls"
+ },
+ {
+  "name": "WWON-TV Channel 48",
+  "id": "WWONTVChannel48.us@SD",
+  "logo": "https://i.imgur.com/l4qHAq6.png",
+  "categories": [
+   "Entertainment"
+  ],
+  "url": "https://tv2.fastcast4u.com:3943/stream/play.m3u8"
  },
  {
   "name": "XFC TV (720p)",
