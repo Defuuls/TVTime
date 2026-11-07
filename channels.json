@@ -5782,15 +5782,6 @@
   "url": "https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8"
  },
  {
-  "name": "Kern County TV (720p)",
-  "id": "KernCountyTV.us@SD",
-  "logo": "https://i.imgur.com/AJcuBCF.png",
-  "categories": [
-   "Legislative"
-  ],
-  "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8"
- },
- {
   "name": "Ketchup TV (720p)",
   "id": "KetchupTV.us@SD",
   "logo": "https://i.imgur.com/XRGioQX.png",
@@ -7595,15 +7586,6 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
  },
  {
-  "name": "News12 Conneticut [Geo-blocked]",
-  "id": "News12Conneticut.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
- },
- {
   "name": "News12 Hudson Valley (1080p) [Geo-blocked]",
   "id": "News12HudsonValley.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
@@ -7631,24 +7613,6 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https"
  },
  {
-  "name": "News12 Westchester (1080p) [Geo-blocked]",
-  "id": "News12Westchester.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
- },
- {
-  "name": "News12+ Connecticut (1080p) [Geo-blocked]",
-  "id": "News12PlusConnecticut.us@HD",
-  "logo": "https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8"
- },
- {
   "name": "News12+ Hudson Valley (1080p) [Geo-blocked]",
   "id": "News12PlusHudsonValley.us@HD",
   "logo": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
@@ -7665,15 +7629,6 @@
    "News"
   ],
   "url": "https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8"
- },
- {
-  "name": "News12+ New Jersey (1080p) [Geo-blocked]",
-  "id": "News12PlusNewJersey.us@HD",
-  "logo": "https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8"
  },
  {
   "name": "News12+ New York (1080p) [Geo-blocked]",
@@ -8166,6 +8121,15 @@
   "url": "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
  },
  {
+  "name": "Payam Javan TV (720p) [Not 24/7]",
+  "id": "PayamJavanTV.us@SD",
+  "logo": "https://i.imgur.com/GYfsHh9.png",
+  "categories": [
+   "Education"
+  ],
+  "url": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+ },
+ {
   "name": "Payam-e-Afghan TV (480p) [Not 24/7]",
   "id": "PayameAfghanTV.us@SD",
   "logo": "https://i.imgur.com/t9wYYY9.png",
@@ -8431,6 +8395,15 @@
    "General"
   ],
   "url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8"
+ },
+ {
+  "name": "People Are Awesome (1080p)",
+  "id": "PeopleAreAwesome.us@SD",
+  "logo": "https://i.imgur.com/MsIx7Ax.png",
+  "categories": [
+   "Entertainment"
+  ],
+  "url": "https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8"
  },
  {
   "name": "Peppa Pig",
@@ -11665,7 +11638,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTQwODMwNTg4MTM6Y2RubGl2ZXR2LnR2OmUwN2RjOGFmMjc5ZDc0ZGYuMTk0MGQ3ODJmMzY0YzMwODc3OTZkNTY3MTk1MTk2ZTljZDEyZjQ2MGE4NDdkMWNlNDFlMmI3NGQzZGEyMGU4OQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTQxMDIzNDM3Nzc6Y2RubGl2ZXR2LnR2OmZiY2U5ZjAwNjY1OGVmNjkuZTZmNTg0NzM3NDMwNjM0ZTRhNmFhNjNiYTBlY2RhNGYxNzM3ZDI4YWU1MDcwZTFhNjJhZTVjODczNTUzNGQ1Zg"
  },
  {
   "name": "USA TODAY (1080p)",
