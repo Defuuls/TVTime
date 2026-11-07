@@ -276,6 +276,15 @@
   "url": "http://23.239.31.26:8989/aande/index.m3u8"
  },
  {
+  "name": "Aastha International (576p)",
+  "id": "AasthaInternational.in@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Aastha_international.png/960px-Aastha_international.png",
+  "categories": [
+   "Religious"
+  ],
+  "url": "https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8"
+ },
+ {
   "name": "ABC KAAL (1080p)",
   "id": "ABC.us@KAAL",
   "logo": "https://i.imgur.com/pvXZ8DX.png",
@@ -1996,6 +2005,15 @@
   "url": "https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8"
  },
  {
+  "name": "BTL TV (Netherlands) (1080p)",
+  "id": "BTLTV.nl@SD",
+  "logo": "https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo",
+  "categories": [
+   "Religious"
+  ],
+  "url": "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8"
+ },
+ {
   "name": "Business Rockstars (720p)",
   "id": "BusinessRockstars.us@SD",
   "logo": "https://i.imgur.com/vfAMWLJ.png",
@@ -3633,15 +3651,6 @@
   "url": "https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8"
  },
  {
-  "name": "Didgah TV (576p)",
-  "id": "DidgahTV.us@SD",
-  "logo": "https://i.imgur.com/3SeAyBS.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8"
- },
- {
   "name": "Discovery Channel (United States) (1080p) [Geo-blocked]",
   "id": "DiscoveryChannel.us@East",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
@@ -3757,6 +3766,16 @@
    "Series"
   ],
   "url": "https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8"
+ },
+ {
+  "name": "Doraemon (720p)",
+  "id": "Doraemon.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/Doraemon_Merch_EN_Logo.svg",
+  "categories": [
+   "Animation",
+   "Kids"
+  ],
+  "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
  },
  {
   "name": "Dove Channel (1080p)",
@@ -4817,6 +4836,15 @@
   "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8"
  },
  {
+  "name": "Golf Channel (United States) (576p)",
+  "id": "GolfChannel.us@SD",
+  "logo": "https://i.imgur.com/Lgux6Ik.png",
+  "categories": [
+   "Sports"
+  ],
+  "url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8"
+ },
+ {
   "name": "GoodLife 45 (720p) [Not 24/7]",
   "id": "GoodLife45.us@SD",
   "logo": "https://i.imgur.com/AQfVNMK.png",
@@ -4979,15 +5007,6 @@
    "Religious"
   ],
   "url": "https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8"
- },
- {
-  "name": "Harvest USA (576p)",
-  "id": "HarvestUSA.in@SD",
-  "logo": "",
-  "categories": [
-   "Religious"
-  ],
-  "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8"
  },
  {
   "name": "Hasbro Legends (1080p) [Geo-blocked]",
@@ -6179,15 +6198,6 @@
   "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_mega_extremo.flv"
  },
  {
-  "name": "Little Guyana TV (1080p)",
-  "id": "LittleGuyanaTV.us@SD",
-  "logo": "https://i.imgur.com/b475xOT.jpg",
-  "categories": [
-   "General"
-  ],
-  "url": "https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8"
- },
- {
   "name": "Little Stars Universe",
   "id": "LittleStarsUniverse.us@SD",
   "logo": "https://i.imgur.com/RasrA0s.png",
@@ -6459,6 +6469,15 @@
   "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:PALMIAMI/playlist.m3u8"
  },
  {
+  "name": "Marquee Sports Network (576p)",
+  "id": "MarqueeSportsNetwork.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/960px-Marquee_Sports_Network_Logo.svg.png",
+  "categories": [
+   "Sports"
+  ],
+  "url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8"
+ },
+ {
   "name": "Martin County TV (720p)",
   "id": "MartinCountyTV.us@SD",
   "logo": "https://i.imgur.com/7VzlbLp.png",
@@ -6652,6 +6671,16 @@
    "Music"
   ],
   "url": "https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8"
+ },
+ {
+  "name": "MeTV Toons",
+  "id": "MeTVToons.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png",
+  "categories": [
+   "Animation",
+   "Kids"
+  ],
+  "url": "https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8"
  },
  {
   "name": "Midnight Pulp (1080p)",
@@ -7575,15 +7604,6 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
  },
  {
-  "name": "News12 Long Island (1080p) [Geo-blocked]",
-  "id": "News12LongIsland.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
- },
- {
   "name": "News12 New Jersey (1080p) [Geo-blocked]",
   "id": "News12NewJersey.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
@@ -7611,15 +7631,6 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8"
  },
  {
-  "name": "News12+ Hudson Valley (1080p) [Geo-blocked]",
-  "id": "News12PlusHudsonValley.us@HD",
-  "logo": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8"
- },
- {
   "name": "News12+ Long Island (1080p) [Geo-blocked]",
   "id": "News12PlusLongIsland.us@HD",
   "logo": "https://i.ibb.co/p6FPNcCk/news12plus-LI.jpg",
@@ -7627,15 +7638,6 @@
    "News"
   ],
   "url": "https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8"
- },
- {
-  "name": "News12+ New Jersey (1080p) [Geo-blocked]",
-  "id": "News12PlusNewJersey.us@HD",
-  "logo": "https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8"
  },
  {
   "name": "News12+ New York (1080p) [Geo-blocked]",
@@ -7744,15 +7746,6 @@
    "Kids"
   ],
   "url": "https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8"
- },
- {
-  "name": "Nickelodeon (United States) (720p)",
-  "id": "Nickelodeon.us@East",
-  "logo": "https://i.imgur.com/E84jnP8.png",
-  "categories": [
-   "Kids"
-  ],
-  "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8"
  },
  {
   "name": "Nickelodeon en espanol",
@@ -7971,6 +7964,15 @@
    "General"
   ],
   "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8"
+ },
+ {
+  "name": "OnTV4U (1080p) [Geo-blocked]",
+  "id": "OnTV4U.us@SD",
+  "logo": "https://i.imgur.com/yaCK1Mh.png",
+  "categories": [
+   "Shop"
+  ],
+  "url": "https://stirr.b-cdn.net/stirr/playlist.m3u8"
  },
  {
   "name": "Orange Government Access TV (720p)",
@@ -8393,15 +8395,6 @@
    "General"
   ],
   "url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8"
- },
- {
-  "name": "People Are Awesome (1080p)",
-  "id": "PeopleAreAwesome.us@SD",
-  "logo": "https://i.imgur.com/MsIx7Ax.png",
-  "categories": [
-   "Entertainment"
-  ],
-  "url": "https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8"
  },
  {
   "name": "Peppa Pig",
@@ -9641,6 +9634,16 @@
    "Undefined"
   ],
   "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
+ },
+ {
+  "name": "Shin-chan (720p)",
+  "id": "Shinchan.us@SD",
+  "logo": "https://image.tmdb.org/t/p/original/fIYWvHIeqc1A9D4PyayFkgjRxCh.png",
+  "categories": [
+   "Animation",
+   "Kids"
+  ],
+  "url": "https://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8"
  },
  {
   "name": "Shop LC (1080p)",
@@ -11113,13 +11116,13 @@
   "url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8"
  },
  {
-  "name": "TVE Internacional America",
+  "name": "TVE Internacional America (720p)",
   "id": "TVEInternacionalAmerica.es@SD",
   "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
   "categories": [
    "Undefined"
   ],
-  "url": "http://116.121.59.72:9981/stream/channel/75f703b52ec2465e4ed2934b98f0f77a"
+  "url": "https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8"
  },
  {
   "name": "TVE Internacional America HD (1080p) [Geo-blocked]",
@@ -11618,15 +11621,6 @@
    "Sports"
   ],
   "url": "http://190.197.41.183/USA_NETWORK/index.m3u8"
- },
- {
-  "name": "USA Network US",
-  "id": "",
-  "logo": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-network-us.webp",
-  "categories": [
-   "CDNLive"
-  ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTQwMTQ5MzQ5NDU6Y2RubGl2ZXR2LnR2OjhmMzNkMWY1MmY1ZDc4MzUuMWVkNmUyNTgwZGY4N2U0Y2E1MzFjNDZjZTlkOTM3ZDEyODNlOTEyM2NmNzE5N2YyN2U2Y2EzMDc4ODI1ZDE5YQ"
  },
  {
   "name": "USA TODAY (1080p)",
@@ -12212,15 +12206,6 @@
    "Sports"
   ],
   "url": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls"
- },
- {
-  "name": "WWON-TV Channel 48",
-  "id": "WWONTVChannel48.us@SD",
-  "logo": "https://i.imgur.com/l4qHAq6.png",
-  "categories": [
-   "Entertainment"
-  ],
-  "url": "https://tv2.fastcast4u.com:3943/stream/play.m3u8"
  },
  {
   "name": "XFC TV (720p)",

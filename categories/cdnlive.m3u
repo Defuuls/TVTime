@@ -1,3 +1,0 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/defuuls/tvtime/main/epg.xml.gz" x-tvg-url="https://raw.githubusercontent.com/defuuls/tvtime/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-network-us.webp" tvg-country="US" group-title="CDNLive",USA Network US
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTQwMTQ5MzQ5NDU6Y2RubGl2ZXR2LnR2OjhmMzNkMWY1MmY1ZDc4MzUuMWVkNmUyNTgwZGY4N2U0Y2E1MzFjNDZjZTlkOTM3ZDEyODNlOTEyM2NmNzE5N2YyN2U2Y2EzMDc4ODI1ZDE5YQ
