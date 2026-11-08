@@ -13,8 +13,6 @@ http://41.205.93.154/BRAVO/index.m3u8
 https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
 #EXTINF:-1 tvg-id="CCTV.us@SD" tvg-logo="" group-title="Undefined",CC-TV (720p)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
-#EXTINF:-1 tvg-id="CelebritySceneTV.us@SD" tvg-logo="https://i.imgur.com/n36jriB.png" group-title="Undefined",Celebrity Scene TV (720p)
-https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
 #EXTINF:-1 tvg-id="CMAPChannel19.us@SD" tvg-logo="https://i.imgur.com/wlYUEYc.png" group-title="Undefined",CMAP Channel 19 (720p)
 https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CrimenesImperfectos.us@SD" tvg-logo="https://i.imgur.com/kzUrWR5.png" group-title="Undefined",Crimenes Imperfectos
@@ -206,8 +204,6 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
 #EXTINF:-1 tvg-id="WACX551.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WACX_logo_2021.png/960px-WACX_logo_2021.png" group-title="Undefined",WACX 55.1 (720p)
 https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="WATCDT571.us@HD" tvg-logo="https://i.imgur.com/FhIRe7O.png" group-title="Undefined",WATC-DT 57.1 (1080p)
-https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8
 #EXTINF:-1 tvg-id="WATCDT572.us@HD" tvg-logo="https://i.imgur.com/RAfuLul.png" group-title="Undefined",WATC-DT 57.2 (720p)
 https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1 tvg-id="WBTV641.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="Undefined",WBTV 64.1 (720p)
@@ -230,6 +226,8 @@ http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
 https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
 #EXTINF:-1 tvg-id="WorldHarvestTV.us@SD" tvg-logo="https://i.imgur.com/xtbkDDN.png" group-title="Undefined",World Harvest TV (360p)
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WVVHCD181.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/WVVH-CD_logo.png" group-title="Undefined",WVVH-CD 18.1 (720p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:207282-6094500/playlist.m3u8
 #EXTINF:-1 tvg-id="YesNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png" group-title="Undefined",Yes Network (720p)
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="YuGiOhenespanol.us@SD" tvg-logo="https://i.imgur.com/VH8RiHg.png" group-title="Undefined",Yu-Gi-Oh! en espanol (1080p)

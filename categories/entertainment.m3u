@@ -107,8 +107,6 @@ https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8
 https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8
 #EXTINF:-1 tvg-id="HiYAH.us@SD" tvg-logo="https://i.imgur.com/sOYAnTB.png" group-title="Entertainment",Hi-YAH! (1080p)
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="HollyWire.us@SD" tvg-logo="https://i.imgur.com/oVNjFoj.png" group-title="Entertainment;News",HollyWire (720p)
-https://bozztv.com/hwotta/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="HotBench.us@SD" tvg-logo="https://images.pluto.tv/channels/6036e6e7ac69c400072afca2/colorLogoPNG_1731835667408.png" group-title="Entertainment",Hot Bench (720p)
 https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8
 #EXTINF:-1 tvg-id="ImpactNetwork.us@SD" tvg-logo="https://i.imgur.com/57NH9sS.png" group-title="Entertainment",Impact Network (720p)
@@ -215,12 +213,6 @@ https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/57c1fa3c-566b-4998-b6de-d6de67031d99/index.m3u8
 #EXTINF:-1 tvg-id="ToughJobs.us@SD" tvg-logo="https://images.pluto.tv/channels/65c69bf23ef47d0008583967/colorLogoPNG.png" group-title="Entertainment",Tough Jobs
 https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8
-#EXTINF:-1 tvg-id="TurismoHD.do@HD" tvg-logo="https://gia.tv/streams/pptv/208343.jpg" group-title="Entertainment",Turismo HD (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSFlashbackNetwork.us@SD" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-flashback-network.jpg" group-title="Entertainment",TVS Flashback Network (360p)
-https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
-#EXTINF:-1 tvg-id="TVSVintageNetwork.us@SD" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-vintage-network.jpg" group-title="Entertainment",TVS Vintage Network (360p)
-https://rpn.bozztv.com/gusa/gusa-tvsvintage/index.m3u8
 #EXTINF:-1 tvg-id="VH1QueensofReality.us@SD" tvg-logo="https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoPNG.png" group-title="Entertainment",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 #EXTINF:-1 tvg-id="WipeoutXtra.us@SD" tvg-logo="https://i.imgur.com/UDeCRW1.png" group-title="Entertainment",Wipeout Xtra (1080p)
