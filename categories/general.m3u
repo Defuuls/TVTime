@@ -107,14 +107,8 @@ https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
 https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8
 #EXTINF:-1 tvg-id="BXOmni.us@SD" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="General",BX Omni (720p)
 https://reflect-stream-bronxnet.cablecast.tv/live-16/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-id="CANTV19.us@SD" tvg-logo="https://i.imgur.com/PUQtIa3.png" group-title="General",CAN TV19 (1080p)
-https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8
-#EXTINF:-1 tvg-id="CANTV21.us@SD" tvg-logo="https://i.imgur.com/KP5bCYr.png" group-title="General",CAN TV21 (1080p)
-https://cantv.streamguys1.com/cantv/cantv21hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CANTV27.us@SD" tvg-logo="https://i.imgur.com/43EpWsD.png" group-title="General",CAN TV27 (1080p)
 https://cantv.streamguys1.com/cantv/cantv27hls/playlist.m3u8
-#EXTINF:-1 tvg-id="CANTV36.us@SD" tvg-logo="https://i.imgur.com/43EpWsD.png" group-title="General",CAN TV36 (1080p)
-https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.us@KIROTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="General",CBS KIRO-TV (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.us@KWTVDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="General",CBS KWTV-DT (720p) [Not 24/7]
@@ -257,6 +251,8 @@ https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8
 https://2-fss-1.streamhoster.com/pl_122/206858-4405346-1/playlist.m3u8
 #EXTINF:-1 tvg-id="LasVegasTonightwithDaleDavidson.us@HD" tvg-logo="https://i.imgur.com/05Xdqa6.png" group-title="General",Las Vegas Tonight with Dale Davidson (1080p)
 https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinoChannelTV.us@HD" tvg-logo="https://i.imgur.com/FcLIOGp.png" group-title="General",Latino Channel TV (1080p)
+https://cdn.vegasplus.us/vegas/latch/playlist.m3u8
 #EXTINF:-1 tvg-id="LBCInternational.lb@SD" tvg-logo="https://i.imgur.com/h26xtUv.png" group-title="General",LBC International (1080p)
 http://185.9.2.18/chid_521/index.m3u8
 #EXTINF:-1 tvg-id="LeominsterTVPublic.us@SD" tvg-logo="https://i.imgur.com/lTzoshf.png" group-title="General",Leominster TV Public (720p) [Not 24/7]
