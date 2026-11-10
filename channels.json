@@ -4718,33 +4718,6 @@
   "url": "https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8"
  },
  {
-  "name": "Gillette Public Access Television Channel 189",
-  "id": "GillettePublicAccessTelevisionChannel189.us@SD",
-  "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj",
-  "categories": [
-   "Education"
-  ],
-  "url": "https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8"
- },
- {
-  "name": "Gillette Public Access Television Channel 190",
-  "id": "GillettePublicAccessTelevisionChannel190.us@SD",
-  "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj",
-  "categories": [
-   "General"
-  ],
-  "url": "https://securestream11.champds.com/LIVE/GilletteWYLIVE/GilletteWYLIVE.m3u8"
- },
- {
-  "name": "Gillette Public Access Television Channel 192",
-  "id": "GillettePublicAccessTelevisionChannel192.us@SD",
-  "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj",
-  "categories": [
-   "Legislative"
-  ],
-  "url": "https://securestream11.champds.com/LIVE/GilletteWYLIVE2/GilletteWYLIVE2.m3u8"
- },
- {
   "name": "Girlfriends Films",
   "id": "GirlfriendsFilms.us@SD",
   "logo": "https://i.imgur.com/hCcdrOv.png",
@@ -6689,6 +6662,15 @@
   "url": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8"
  },
  {
+  "name": "MLB Strike Zone (720p)",
+  "id": "MLBStrikeZone.us@SD",
+  "logo": "https://i.imgur.com/uMI1ySO.png",
+  "categories": [
+   "Sports"
+  ],
+  "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8"
+ },
+ {
   "name": "MMA TV (576p)",
   "id": "MMATV.us@SD",
   "logo": "https://i.imgur.com/Qxco1eW.png",
@@ -7466,6 +7448,15 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
  },
  {
+  "name": "News12 Hudson Valley (1080p) [Geo-blocked]",
+  "id": "News12HudsonValley.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
+ },
+ {
   "name": "News12 Long Island (1080p) [Geo-blocked]",
   "id": "News12LongIsland.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
@@ -7473,6 +7464,15 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
+ },
+ {
+  "name": "News12 New Jersey (1080p) [Geo-blocked]",
+  "id": "News12NewJersey.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https"
  },
  {
   "name": "News12+ Connecticut (1080p) [Geo-blocked]",
@@ -7636,6 +7636,15 @@
    "Kids"
   ],
   "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8"
+ },
+ {
+  "name": "Nicktoons (United States) (720p)",
+  "id": "Nicktoons.us@East",
+  "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
+  "categories": [
+   "Kids"
+  ],
+  "url": "http://41.205.93.154/NICKTOONS/index.m3u8"
  },
  {
   "name": "Ninja Kidz TV (1080p)",
@@ -11491,7 +11500,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTQyOTc5NTcwNjc6Y2RubGl2ZXR2LnR2OjBkNjJiNDk1NDJiNDg4MDYuMDUwZGU0YWI0MTdmNjZlNTQ5ZTFlZDA1YjE1ODgwYWI0MmE0NTJjOTMwZjg3MzIzNjIzYmU4MDNhNTVmYWZkZQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTQzMjg0OTIzNTY6Y2RubGl2ZXR2LnR2OjE0YjM0NWQ3NjAxNGU0N2EuNTM5ODI2NWJiMTFjNjQ5OTViNjExYjFlYTAzYjlkOGY3ZmMwMDY1ZTg1ZjI2YTE0YmYwNTU2YWU1MmJmMDU2Mg"
  },
  {
   "name": "USA TODAY (1080p)",
