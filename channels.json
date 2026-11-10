@@ -4429,6 +4429,15 @@
   "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8"
  },
  {
+  "name": "Fox News Channel (1080p)",
+  "id": "FoxNewsChannel.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://tvsen6.aynaott.com/foxnews/index.m3u8"
+ },
+ {
   "name": "Fox News Radio (720p)",
   "id": "FoxNewsRadio.us@SD",
   "logo": "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png",
@@ -5852,6 +5861,15 @@
   "url": "https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8"
  },
  {
+  "name": "KTOO 360TV KTOO-TV (1080p)",
+  "id": "KTOO360TV.us@KTOOTV",
+  "logo": "https://i.imgur.com/ppn5oJy.png",
+  "categories": [
+   "Undefined"
+  ],
+  "url": "https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8"
+ },
+ {
   "name": "KVTN-DT 25.1 (720p)",
   "id": "KVTNDT251.us@HD",
   "logo": "https://i.imgur.com/CjKQuEP.png",
@@ -6348,6 +6366,16 @@
   "url": "https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8"
  },
  {
+  "name": "Magnificent Movies Network",
+  "id": "MagnificentMoviesNetwork.us@SD",
+  "logo": "https://i.imgur.com/CXjo8kn.png",
+  "categories": [
+   "Movies",
+   "Shop"
+  ],
+  "url": "https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8"
+ },
+ {
   "name": "Magnolia Network (720p)",
   "id": "MagnoliaNetwork.us@East",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Magnolia_Network.svg/960px-Magnolia_Network.svg.png",
@@ -6659,15 +6687,6 @@
    "Sports"
   ],
   "url": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8"
- },
- {
-  "name": "MLB Strike Zone (720p)",
-  "id": "MLBStrikeZone.us@SD",
-  "logo": "https://i.imgur.com/uMI1ySO.png",
-  "categories": [
-   "Sports"
-  ],
-  "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8"
  },
  {
   "name": "MMA TV (576p)",
@@ -7438,22 +7457,13 @@
   "url": "https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8"
  },
  {
-  "name": "News12 Brooklyn (720p) [Geo-blocked]",
-  "id": "News12Brooklyn.us@SD",
-  "logo": "https://i.imgur.com/fvcOzzK.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
- },
- {
-  "name": "News12 Hudson Valley (1080p) [Geo-blocked]",
-  "id": "News12HudsonValley.us@SD",
+  "name": "News12 Conneticut [Geo-blocked]",
+  "id": "News12Conneticut.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
   "categories": [
    "News"
   ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
  },
  {
   "name": "News12 Long Island (1080p) [Geo-blocked]",
@@ -7465,22 +7475,22 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
  },
  {
-  "name": "News12 New Jersey (1080p) [Geo-blocked]",
-  "id": "News12NewJersey.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+  "name": "News12+ Connecticut (1080p) [Geo-blocked]",
+  "id": "News12PlusConnecticut.us@HD",
+  "logo": "https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg",
   "categories": [
    "News"
   ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https"
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8"
  },
  {
-  "name": "News12 Westchester (1080p) [Geo-blocked]",
-  "id": "News12Westchester.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+  "name": "News12+ Hudson Valley (1080p) [Geo-blocked]",
+  "id": "News12PlusHudsonValley.us@HD",
+  "logo": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
   "categories": [
    "News"
   ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8"
  },
  {
   "name": "News12+ Long Island (1080p) [Geo-blocked]",
@@ -7626,15 +7636,6 @@
    "Kids"
   ],
   "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8"
- },
- {
-  "name": "Nicktoons (United States) (720p)",
-  "id": "Nicktoons.us@East",
-  "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
-  "categories": [
-   "Kids"
-  ],
-  "url": "http://41.205.93.154/NICKTOONS/index.m3u8"
  },
  {
   "name": "Ninja Kidz TV (1080p)",
@@ -7827,13 +7828,13 @@
   "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8"
  },
  {
-  "name": "OnTV4U (1080p) [Geo-blocked]",
+  "name": "OnTV4U (1080p)",
   "id": "OnTV4U.us@SD",
   "logo": "https://i.imgur.com/yaCK1Mh.png",
   "categories": [
    "Shop"
   ],
-  "url": "https://stirr.b-cdn.net/stirr/playlist.m3u8"
+  "url": "https://ontv4u-orka.b-cdn.net/ONTV4U-ORKA/index.m3u8"
  },
  {
   "name": "Orange Government Access TV (720p)",
@@ -10051,6 +10052,15 @@
   "url": "https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8"
  },
  {
+  "name": "TBN Armenia",
+  "id": "TBNArmenia.us@SD",
+  "logo": "https://i.imgur.com/U5XsT3j.png",
+  "categories": [
+   "Undefined"
+  ],
+  "url": "https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8"
+ },
+ {
   "name": "TBN Pacific",
   "id": "TBNPacific.us@SD",
   "logo": "https://i.imgur.com/yWJTxKk.png",
@@ -10677,6 +10687,16 @@
    "Series"
   ],
   "url": "https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8"
+ },
+ {
+  "name": "Timeless TV",
+  "id": "TimelessTV.us@SD",
+  "logo": "https://i.imgur.com/bjcpeVH.png",
+  "categories": [
+   "Classic",
+   "Shop"
+  ],
+  "url": "https://timelesstv1.b-cdn.net/hls/TimelessTV.m3u8"
  },
  {
   "name": "Tin TV (720p)",
@@ -11471,7 +11491,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTQyNzEyOTM4NzY6Y2RubGl2ZXR2LnR2OjRhYWYyNDRlYzI2NjAyMjYuODE3OGFlZGVlNDdjZmI0ZjNlMTMyYjUxZjRjNTY4OTgxMTc2YTExMmVhNWY5YzZiYjhmYjlmM2ZiMTllN2VjZA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTQyOTc5NTcwNjc6Y2RubGl2ZXR2LnR2OjBkNjJiNDk1NDJiNDg4MDYuMDUwZGU0YWI0MTdmNjZlNTQ5ZTFlZDA1YjE1ODgwYWI0MmE0NTJjOTMwZjg3MzIzNjIzYmU4MDNhNTVmYWZkZQ"
  },
  {
   "name": "USA TODAY (1080p)",
@@ -11562,6 +11582,15 @@
    "Music"
   ],
   "url": "https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8"
+ },
+ {
+  "name": "VH1 (1080p)",
+  "id": "VH1.us@East",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
+  "categories": [
+   "Music"
+  ],
+  "url": "http://23.237.104.106:8080/USA_VH1/index.m3u8"
  },
  {
   "name": "VH1 Queens of Reality",
@@ -11994,6 +12023,15 @@
    "Sports"
   ],
   "url": "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8"
+ },
+ {
+  "name": "WOX TV (1080p)",
+  "id": "WOXTV.us@SD",
+  "logo": "https://image.roku.com/developer_channels/prod/7e6a7c4835ec344de629865f7a36feb4058001e7a3d9bc8dd0d1f3dc8e754cd7.png",
+  "categories": [
+   "Music"
+  ],
+  "url": "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8"
  },
  {
   "name": "WPS-TV (360p)",
