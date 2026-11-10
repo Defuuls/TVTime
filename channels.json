@@ -3488,15 +3488,6 @@
   "url": "https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8"
  },
  {
-  "name": "Daystar TV Espanol (1080p)",
-  "id": "DaystarTVEspanol.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png",
-  "categories": [
-   "Religious"
-  ],
-  "url": "http://167.249.23.102:8000/play/a0ev/index.m3u8"
- },
- {
   "name": "Daystar TV WSLF-LD (720p)",
   "id": "DaystarTV.us@WSLFLD",
   "logo": "https://i.imgur.com/uVdKHMG.png",
@@ -3667,6 +3658,15 @@
    "Kids"
   ],
   "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test"
+ },
+ {
+  "name": "Disney Junior (United States) (480p)",
+  "id": "DisneyJunior.us@East",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
+  "categories": [
+   "Kids"
+  ],
+  "url": "http://tvsen5.aynascope.net/disney/index.m3u8"
  },
  {
   "name": "Disney XD (United States) (720p)",
@@ -3921,6 +3921,15 @@
    "Religious"
   ],
   "url": "http://132.255.210.69:8000/play/a02v/index.m3u8"
+ },
+ {
+  "name": "ESPN (United States) (432p)",
+  "id": "ESPN.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+  "categories": [
+   "Sports"
+  ],
+  "url": "http://tvsen7.aynascope.net/espn/index.m3u8"
  },
  {
   "name": "ESPN (United States) HD (720p)",
@@ -4718,6 +4727,33 @@
   "url": "https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8"
  },
  {
+  "name": "Gillette Public Access Television Channel 189",
+  "id": "GillettePublicAccessTelevisionChannel189.us@SD",
+  "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj",
+  "categories": [
+   "Education"
+  ],
+  "url": "https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8"
+ },
+ {
+  "name": "Gillette Public Access Television Channel 190",
+  "id": "GillettePublicAccessTelevisionChannel190.us@SD",
+  "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj",
+  "categories": [
+   "General"
+  ],
+  "url": "https://securestream11.champds.com/LIVE/GilletteWYLIVE/GilletteWYLIVE.m3u8"
+ },
+ {
+  "name": "Gillette Public Access Television Channel 192",
+  "id": "GillettePublicAccessTelevisionChannel192.us@SD",
+  "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj",
+  "categories": [
+   "Legislative"
+  ],
+  "url": "https://securestream11.champds.com/LIVE/GilletteWYLIVE2/GilletteWYLIVE2.m3u8"
+ },
+ {
   "name": "Girlfriends Films",
   "id": "GirlfriendsFilms.us@SD",
   "logo": "https://i.imgur.com/hCcdrOv.png",
@@ -4916,6 +4952,16 @@
   "url": "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709"
  },
  {
+  "name": "Hallmark Mystery (720p) [Geo-blocked]",
+  "id": "HallmarkMystery.us@East",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg",
+  "categories": [
+   "Movies",
+   "Series"
+  ],
+  "url": "http://41.205.93.154/HALLMARK/index.m3u8"
+ },
+ {
   "name": "Happy Days (United States)",
   "id": "HappyDays.us@SD",
   "logo": "https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png",
@@ -4972,6 +5018,26 @@
   "url": "https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8"
  },
  {
+  "name": "HBO (United States) (720p)",
+  "id": "HBO.us@East",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",
+  "categories": [
+   "Movies",
+   "Series"
+  ],
+  "url": "http://tvsen7.aynascope.net/hbo/index.m3u8"
+ },
+ {
+  "name": "HBO Hits (720p)",
+  "id": "HBOHits.us@East",
+  "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
+  "categories": [
+   "Movies",
+   "Series"
+  ],
+  "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8"
+ },
+ {
   "name": "HBTV (720p)",
   "id": "HBTV.us@SD",
   "logo": "https://i.imgur.com/xADoSqE.png",
@@ -5024,6 +5090,15 @@
    "Entertainment"
   ],
   "url": "https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8"
+ },
+ {
+  "name": "HGTV (United States) (720p)",
+  "id": "HGTV.us@East",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png",
+  "categories": [
+   "Lifestyle"
+  ],
+  "url": "http://tvsen7.aynascope.net/hgtv/index.m3u8"
  },
  {
   "name": "Hi-YAH! (1080p)",
@@ -5879,6 +5954,15 @@
   "url": "https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8"
  },
  {
+  "name": "Laff (576p)",
+  "id": "Laff.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LAFF_logo.png/960px-LAFF_logo.png",
+  "categories": [
+   "Comedy"
+  ],
+  "url": "http://tvsen7.aynascope.net/laff/index.m3u8"
+ },
+ {
   "name": "Lake Havasu City 4 (360p)",
   "id": "LakeHavasuCity4.us@SD",
   "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lQ_vy6By43AoSdSQbFUzQePU0NWWIM-uzsAqnbbQXAql4=s512",
@@ -6066,15 +6150,6 @@
    "Undefined"
   ],
   "url": "https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8"
- },
- {
-  "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"News\",Fox News International",
-  "id": "FoxNewsInternational.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
-  "categories": [
-   "Undefined"
-  ],
-  "url": "http://103.253.74.210:7070/stream/124/index.m3u8"
  },
  {
   "name": "like Gecko) Chrome/83.0.4103.97 Safari/537.36\" group-title=\"Movies\",Aneflix Live (720p)",
@@ -6660,15 +6735,6 @@
    "Sports"
   ],
   "url": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8"
- },
- {
-  "name": "MLB Strike Zone (720p)",
-  "id": "MLBStrikeZone.us@SD",
-  "logo": "https://i.imgur.com/uMI1ySO.png",
-  "categories": [
-   "Sports"
-  ],
-  "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8"
  },
  {
   "name": "MMA TV (576p)",
@@ -7439,6 +7505,24 @@
   "url": "https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8"
  },
  {
+  "name": "News12 Bronx (1080p) [Geo-blocked]",
+  "id": "News12Bronx.us@SD",
+  "logo": "https://i.imgur.com/d6xQiaf.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
+ },
+ {
+  "name": "News12 Brooklyn (720p) [Geo-blocked]",
+  "id": "News12Brooklyn.us@SD",
+  "logo": "https://i.imgur.com/fvcOzzK.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
+ },
+ {
   "name": "News12 Conneticut [Geo-blocked]",
   "id": "News12Conneticut.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
@@ -7475,6 +7559,15 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https"
  },
  {
+  "name": "News12 Westchester (1080p) [Geo-blocked]",
+  "id": "News12Westchester.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
+ },
+ {
   "name": "News12+ Connecticut (1080p) [Geo-blocked]",
   "id": "News12PlusConnecticut.us@HD",
   "logo": "https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg",
@@ -7482,15 +7575,6 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8"
- },
- {
-  "name": "News12+ Hudson Valley (1080p) [Geo-blocked]",
-  "id": "News12PlusHudsonValley.us@HD",
-  "logo": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8"
  },
  {
   "name": "News12+ Long Island (1080p) [Geo-blocked]",
@@ -9408,15 +9492,6 @@
   "url": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8"
  },
  {
-  "name": "Screen Dreams (720p)",
-  "id": "ScreenDreams.us@SD",
-  "logo": "https://i.imgur.com/AHIo9oz.png",
-  "categories": [
-   "Relax"
-  ],
-  "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2240"
- },
- {
   "name": "Scripps News (1080p)",
   "id": "ScrippsNews.us@SD",
   "logo": "https://i.imgur.com/W0Jvi5o.png",
@@ -10151,6 +10226,15 @@
    "Documentary"
   ],
   "url": "https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8"
+ },
+ {
+  "name": "TeenNick (United States) (432p)",
+  "id": "TeenNick.us@East",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
+  "categories": [
+   "Kids"
+  ],
+  "url": "http://tvsen7.aynascope.net/teennick/index.m3u8"
  },
  {
   "name": "Tele Boston (480p)",
@@ -11248,15 +11332,6 @@
   "url": "https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8"
  },
  {
-  "name": "TVS Television Network (480p)",
-  "id": "TVSTelevisionNetwork.us@SD",
-  "logo": "",
-  "categories": [
-   "General"
-  ],
-  "url": "https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8"
- },
- {
   "name": "TVS Travel Network (720p) [Not 24/7]",
   "id": "TVSTravelNetwork.us@SD",
   "logo": "https://i.imgur.com/vSFf5Ce.png",
@@ -11318,15 +11393,6 @@
    "General"
   ],
   "url": "https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8"
- },
- {
-  "name": "TyC Sports USA",
-  "id": "TyCSportsUSA.ar@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
-  "categories": [
-   "Sports"
-  ],
-  "url": "http://45.170.130.224:8000/play/a020/index.m3u8"
  },
  {
   "name": "UCTV (720p) [Not 24/7]",
@@ -11500,7 +11566,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTQzMjg0OTIzNTY6Y2RubGl2ZXR2LnR2OjE0YjM0NWQ3NjAxNGU0N2EuNTM5ODI2NWJiMTFjNjQ5OTViNjExYjFlYTAzYjlkOGY3ZmMwMDY1ZTg1ZjI2YTE0YmYwNTU2YWU1MmJmMDU2Mg"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTQzNTgxMDMwMjc6Y2RubGl2ZXR2LnR2OmU1NzUxYjVlNGFhYjlkOGIuMzRmZTZjMjlmZjdmOGM1ZDRhZDk5MzE5YzlhNTU4MjMyNDYyNDQ4NmI4MjJkMmIyYTZjOWM3ZGM4ZTRkNzM1NA"
  },
  {
   "name": "USA TODAY (1080p)",
@@ -11924,6 +11990,15 @@
    "General"
   ],
   "url": "https://reflect-greater-clackamas-county-tv.cablecast.tv/live-7/live/stream-4/live.m3u8"
+ },
+ {
+  "name": "Willow (720p)",
+  "id": "Willow.us@SD",
+  "logo": "https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",
+  "categories": [
+   "Sports"
+  ],
+  "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
  },
  {
   "name": "Willow Sports (1080p)",
