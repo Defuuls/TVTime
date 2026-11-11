@@ -111,6 +111,9 @@ https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
 http://tvsen7.aynascope.net/teennick/index.m3u8
 #EXTINF:-1 tvg-id="TGJunior.us@SD" tvg-logo="https://i.imgur.com/aqane40.png" group-title="Kids",TG Junior (720p)
 https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
+#EXTINF:-1 tvg-id="TomSingsTV.us@HD" tvg-logo="https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920" http-referrer="https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4" group-title="Kids",Tom Sings TV (1080p)
+#EXTVLCOPT:http-referrer=https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4
+https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us@SD" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="Kids",ToonGoggles (720p)
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.us@US" tvg-logo="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" group-title="Kids",Totally Turtles (United States)
