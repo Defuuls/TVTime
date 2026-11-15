@@ -17,6 +17,8 @@ jobs:
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
+      - name: Test playlist builder
+        run: python -m unittest discover -s tests -v
       - run: python scripts/build_playlist.py
         env:
           # CDNLiveTV source settings (see README)
