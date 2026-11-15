@@ -131,6 +131,14 @@ def resolve_cdnlive(player_url):
     return None
 
 
+def cdnlive_country(channel):
+    """Prefer API metadata; only infer US from an exact trailing US name token."""
+    code = (channel.get("code") or "").strip().lower()
+    if not code and (channel.get("name") or "").split()[-1:] == ["US"]:
+        return "us"
+    return code
+
+
 def fetch_cdnlive():
     """Channels from the CDNLiveTV API, in the same shape parse() returns."""
     if not CDNLIVE_ENABLED:
@@ -142,21 +150,37 @@ def fetch_cdnlive():
         return []
     codes = {c.strip().lower() for c in CDNLIVE_COUNTRIES.split(",") if c.strip()}
     out = []
-    for c in data.get("channels", []):
-        name, url, code = (c.get("name") or "").strip(" :"), c.get("url"), (c.get("code") or "").lower()
+    channels = data.get("channels", [])
+    missing_code = sum(not (c.get("code") or "").strip() for c in channels)
+    inferred = country_skipped = offline_skipped = unresolved = invalid = 0
+    for c in channels:
+        name, url, code = (c.get("name") or "").strip(" :"), c.get("url"), cdnlive_country(c)
         if not name or not url:
+            invalid += 1
             continue
+        if not (c.get("code") or "").strip() and code == "us":
+            inferred += 1
         if "all" not in codes and code not in codes:
+            country_skipped += 1
             continue
         if CDNLIVE_ONLINE and c.get("status") != "online":
+            offline_skipped += 1
             continue
         stream = resolve_cdnlive(url)
         if not stream:
+            unresolved += 1
             continue
         url = stream
         attrs = {"tvg-id": "", "tvg-logo": c.get("image") or "", "tvg-country": code.upper(),
                  "group-title": CDNLIVE_GROUP}
         out.append({"name": " ".join(name.split()), "attrs": attrs, "url": url, "extra": []})
+    print(f"CDNLiveTV: total={len(channels)}, missing_code={missing_code}, "
+          f"inferred_us={inferred}, invalid={invalid}, country_skipped={country_skipped}, "
+          f"offline_skipped={offline_skipped}, unresolved={unresolved}")
+    if missing_code:
+        print("warning: CDNLiveTV returned missing country codes; "
+              "only exact trailing US names are inferred; other unknown countries stay excluded "
+              "unless CDNLIVE_COUNTRIES=all")
     print(f"{len(out)} channels from CDNLiveTV")
     return out
 

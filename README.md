@@ -65,6 +65,12 @@ The build pulls the direct HLS (`.m3u8`) link out of each CDNLiveTV player page.
 about 4 hours after they're made, so the workflow rebuilds the playlist every 2 hours. If a CDNLive
 channel stops playing, reload the playlist in your player (or set it to refresh every hour or two).
 
+When the API omits a country code, the build treats only an exact trailing `US` name token as
+US. An explicit API country code always takes precedence; other unknown countries remain excluded
+by country-specific selections. The player URL is used exactly as supplied by the API.
+Build logs report missing codes, inferred US entries, country/status exclusions, and resolution
+failures. This fallback cannot restore channels absent from the API or make unavailable streams play.
+
 ## Dead channels
 
 Each build tests every stream and drops the ones that are certainly gone: a 404/410 response
