@@ -67,15 +67,15 @@ http://198.58.104.90:8989/natgeo/index.m3u8
 http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHistory.us@US" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Documentary",Pluto TV History
 https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.us@US" tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" group-title="Documentary",Pluto TV Paranormal (United States)
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us@US" tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" group-title="Documentary",Pluto TV Paranormal
 https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
 #EXTINF:-1 tvg-id="PlutoTVScience.us@US" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Documentary;Science",Pluto TV Science
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@US" tvg-logo="https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png" group-title="Documentary;Series",Pluto TV True Crime (United States)
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@US" tvg-logo="https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png" group-title="Documentary;Series",Pluto TV True Crime
 https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
 #EXTINF:-1 tvg-id="SpikePlutoTV.us@SD" tvg-logo="https://i.imgur.com/woY8Ecb.png" group-title="Documentary",Spike Pluto TV
 https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
-#EXTINF:-1 tvg-id="TeenMom.us@SD" tvg-logo="https://i.imgur.com/8o3ClCV.png" group-title="Documentary",Teen Mom (United States)
+#EXTINF:-1 tvg-id="TeenMom.us@SD" tvg-logo="https://i.imgur.com/8o3ClCV.png" group-title="Documentary",Teen Mom
 https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
 #EXTINF:-1 tvg-id="TheNest.us@SD" tvg-logo="https://iili.io/JGqD21e.png" group-title="Documentary;Entertainment",The Nest (1080p)
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8

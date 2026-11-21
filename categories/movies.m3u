@@ -133,7 +133,7 @@ https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ParamountPlusPicks.us@SD" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="Movies",Paramount+ Picks
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAction.us@US" tvg-logo="https://i.imgur.com/tDapGal.png" group-title="Movies",Pluto TV Action (United States)
+#EXTINF:-1 tvg-id="PlutoTVAction.us@US" tvg-logo="https://i.imgur.com/tDapGal.png" group-title="Movies",Pluto TV Action
 https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineComedia.us@US" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png" group-title="Movies",Pluto TV Cine Comedia (United States)
 https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
@@ -149,7 +149,7 @@ https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFranchiseFavorites.us@SD" tvg-logo="https://images.pluto.tv/channels/68fbf8101d26140175db8b58/colorLogoPNG_1762383685562.png" group-title="Movies",Pluto TV Franchise Favorites
 https://jmp2.uk/plu-68fbf8101d26140175db8b58.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHorror.us@US" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Movies;Series",Pluto TV Horror (United States)
+#EXTINF:-1 tvg-id="PlutoTVHorror.us@US" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Movies;Series",Pluto TV Horror
 https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
 #EXTINF:-1 tvg-id="PlutoTVIcons.us@SD" tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png" group-title="Movies",Pluto TV Icons
 https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
@@ -157,7 +157,7 @@ https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
 https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRomance.us@US" tvg-logo="https://i.imgur.com/GJBxfyf.png" group-title="Movies;Series",Pluto TV Romance
 https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.us@US" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="Movies;Series",Pluto TV Sci-Fi (United States)
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us@US" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="Movies;Series",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSpotlight.us@SD" tvg-logo="https://i.imgur.com/UmuJkVB.png" group-title="Movies",Pluto TV Spotlight
 https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8
@@ -169,11 +169,11 @@ https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
 https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrendingNow.us@SD" tvg-logo="https://images.pluto.tv/channels/673247127d5da5000817b4d6/colorLogoPNG_1732662634386.png" group-title="Movies",Pluto TV Trending Now
 https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
-#EXTINF:-1 tvg-id="PlutoTVWesterns.us@US" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" group-title="Movies",Pluto TV Westerns (United States)
+#EXTINF:-1 tvg-id="PlutoTVWesterns.us@US" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" group-title="Movies",Pluto TV Westerns
 https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
 #EXTINF:-1 tvg-id="PureFlixTV.us@SD" tvg-logo="https://www.tablotv.com/wp-content/uploads/2025/05/PureFlixTV_black.png" group-title="Movies",Pure Flix TV (1080p) [Geo-blocked]
 https://amg01884-gac-amg01884c1-vizio-us-5495.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Rawhide.us@SD" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" group-title="Movies;Series",Rawhide (United States)
+#EXTINF:-1 tvg-id="Rawhide.us@SD" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" group-title="Movies;Series",Rawhide
 https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
 #EXTINF:-1 tvg-id="Runtime.us@SD" tvg-logo="https://i.imgur.com/2USCMvP.png" group-title="Movies",Runtime (720p)
 https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
@@ -189,9 +189,9 @@ https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8
 #EXTINF:-1 tvg-id="StarTrekDeepSpaceNine.us@SD" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png" group-title="Movies;Series",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
-#EXTINF:-1 tvg-id="StarTrekTheNextGeneration.us@SD" tvg-logo="https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png" group-title="Movies;Series",Star Trek: The Next Generation (United States)
+#EXTINF:-1 tvg-id="StarTrekTheNextGeneration.us@SD" tvg-logo="https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png" group-title="Movies;Series",Star Trek: The Next Generation
 https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
-#EXTINF:-1 tvg-id="StarTrekVoyager.us@SD" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png" group-title="Movies;Series",Star Trek: Voyager (United States)
+#EXTINF:-1 tvg-id="StarTrekVoyager.us@SD" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png" group-title="Movies;Series",Star Trek: Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 #EXTINF:-1 tvg-id="SYFY.us@East" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies;Series",SYFY (720p)
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
@@ -199,7 +199,7 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="TCM.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png" group-title="Classic;Movies",TCM West (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.us@SD" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" group-title="Movies;Series",The Wild Wild West (United States)
+#EXTINF:-1 tvg-id="TheWildWildWest.us@SD" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" group-title="Movies;Series",The Wild Wild West
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 #EXTINF:-1 tvg-id="TVLandDrama.us@SD" tvg-logo="https://i.imgur.com/y1rXIAS.png" group-title="Movies",TV Land Drama
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
