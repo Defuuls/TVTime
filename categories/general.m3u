@@ -305,8 +305,6 @@ https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8
 https://securestream11.champds.com/LIVE/GilletteWYLIVE/GilletteWYLIVE.m3u8
 #EXTINF:-1 tvg-id="GuangdongTVAmerica.us@SD" tvg-logo="https://i.imgur.com/7J4qGjA.png" group-title="General",Guangdong TV America
 https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8
-#EXTINF:-1 tvg-id="GunAzTV.us@SD" tvg-logo="https://i.imgur.com/2ZnQazl.png" group-title="General",GunAz TV
-https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="HBTV.us@SD" tvg-logo="https://i.imgur.com/xADoSqE.png" group-title="General",HBTV (720p)
 https://reflect-huntingtonbeach.cablecast.tv/live-4/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="HCTVPublicAccessChannel.us@SD" tvg-logo="https://i.imgur.com/bVbpgiD.png" group-title="General",HCTV Public Access Channel
