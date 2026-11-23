@@ -53,9 +53,9 @@ https://amg01438-amg01438c38-vizio-us-10917.playouts.now.amagi.tv/playlist.m3u8
 https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
 #EXTINF:-1 tvg-id="ABC.us@WWSB" tvg-logo="https://i.imgur.com/pvXZ8DX.png" group-title="General",ABC WWSB (1080p) [Geo-blocked]
 https://amg00312-amg00312c30-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c30-amgplt0022/playlist.m3u8
-#EXTINF:-1 tvg-id="Access19.us@SD" tvg-logo="https://i.imgur.com/7F4LJMT.png" group-title="General",Access 19
+#EXTINF:-1 tvg-id="Access19.us@SD" tvg-logo="https://i.imgur.com/7F4LJMT.png" group-title="General",Access 19 (1080p)
 https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8
-#EXTINF:-1 tvg-id="Access4PAC.us@SD" tvg-logo="https://i.imgur.com/DQu3gES.png" group-title="General",Access 4 PAC
+#EXTINF:-1 tvg-id="Access4PAC.us@SD" tvg-logo="https://i.imgur.com/DQu3gES.png" group-title="General",Access 4 PAC (480p)
 https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8
 #EXTINF:-1 tvg-id="AccessHumboldt.us@SD" tvg-logo="https://i.imgur.com/tJl43uM.png" group-title="General",Access Humboldt (1080p)
 https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/f08fcd45-1d04-9a8c-39ca-f56091820e5c.m3u8
@@ -109,9 +109,9 @@ https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BestofBATVChannel.us@SD" tvg-logo="https://i.imgur.com/TUMiKCX.png" group-title="General",Best of BATV Channel (1080p)
 https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="BIGCivicChannel.us@SD" tvg-logo="https://i.imgur.com/6HDMVBB.png" group-title="General",BIG Civic Channel
+#EXTINF:-1 tvg-id="BIGCivicChannel.us@SD" tvg-logo="https://i.imgur.com/6HDMVBB.png" group-title="General",BIG Civic Channel (1080p)
 https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/live.m3u8
-#EXTINF:-1 tvg-id="BIGCommunityChannel.us@SD" tvg-logo="https://i.imgur.com/6HDMVBB.png" group-title="General",BIG Community Channel
+#EXTINF:-1 tvg-id="BIGCommunityChannel.us@SD" tvg-logo="https://i.imgur.com/6HDMVBB.png" group-title="General",BIG Community Channel (1080p)
 https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="Binge.us@SD" tvg-logo="https://i.imgur.com/kEETRln.png" group-title="General",Binge (720p)
 https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
@@ -217,9 +217,9 @@ https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlis
 https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DerryTV23.us@SD" tvg-logo="https://i.imgur.com/MRR6UL3.png" group-title="Education;General",DerryTV 23 (720p)
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="DetroitChannel21.us@SD" tvg-logo="https://i.imgur.com/yXXEGKg.png" group-title="General",Detroit Channel 21
+#EXTINF:-1 tvg-id="DetroitChannel21.us@SD" tvg-logo="https://i.imgur.com/yXXEGKg.png" group-title="General",Detroit Channel 21 (720p)
 https://reflect-detroit-vod.cablecast.tv/live-9/live/stream-4/live.m3u8
-#EXTINF:-1 tvg-id="DetroitChannel68.us@SD" tvg-logo="https://i.imgur.com/zAdcg9m.png" group-title="General",Detroit Channel 68
+#EXTINF:-1 tvg-id="DetroitChannel68.us@SD" tvg-logo="https://i.imgur.com/zAdcg9m.png" group-title="General",Detroit Channel 68 (720p)
 https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8
 #EXTINF:-1 tvg-id="DiyaTV.us@SD" tvg-logo="https://i.imgur.com/1fC7tqH.png" group-title="General",Diya TV (1080p)
 https://stream.diyatvinc.com/diya.m3u8
@@ -345,9 +345,9 @@ https://amg00312-amg00312c43-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playli
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="MNT.us@WOIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png" group-title="General",MNT WOIO (720p)
 https://live-streaming-mcdn.api.graylive.quickplay.com/woio-xos1-input-1/woio-xos1-input-1.isml/woio-xos1-input-1-audio_eng=96000-video=388000.m3u8
-#EXTINF:-1 tvg-id="MonroeCommunityMediaPublicAccessChannel.us@SD" tvg-logo="https://i.imgur.com/gS4x0uX.png" group-title="General",Monroe Community Media Public Access Channel
+#EXTINF:-1 tvg-id="MonroeCommunityMediaPublicAccessChannel.us@SD" tvg-logo="https://i.imgur.com/gS4x0uX.png" group-title="General",Monroe Community Media Public Access Channel (1920p)
 https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-id="MontgomeryChannel.us@SD" tvg-logo="https://i.imgur.com/mU1Ixfj.png" group-title="General",Montgomery Channel
+#EXTINF:-1 tvg-id="MontgomeryChannel.us@SD" tvg-logo="https://i.imgur.com/mU1Ixfj.png" group-title="General",Montgomery Channel (1080p)
 https://reflect-montgomerycommunitymedia.cablecast.tv/live-11/live/stream-4/live.m3u8
 #EXTINF:-1 tvg-id="MRVTVChannel44.us@SD" tvg-logo="https://i.imgur.com/QZcENP2.png" group-title="General",MRVTV Channel 44 (720p)
 https://livestream.telvue.com/madrivervalleytv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -441,6 +441,8 @@ https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTV3.us@SD" tvg-logo="https://i.imgur.com/TvFKG35.png" group-title="General",RCTV3 (480p)
 https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="RetrovisionTV.do@HD" tvg-logo="https://retrovisionmia.com/assets/retrovision-logo-BHToA3lv.png" group-title="General",Retro vision TV (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/retrovision/retrovision/playlist.m3u8
 #EXTINF:-1 tvg-id="RTRPlaneta.ru@US" tvg-logo="https://i.imgur.com/0YEahxs.png" group-title="General",RTR-Planeta US (720p) [Geo-blocked]
 https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8
 #EXTINF:-1 tvg-id="RTViUS.us@SD" tvg-logo="https://www.einpresswire.com/image/large/960869/logo-rtvi-us.png#676x536" group-title="General",RTVi US (1080p)
@@ -539,7 +541,7 @@ https://cdn.whiplash.cc/whiplash/index.m3u8
 https://cdn.whiplash.cc/whiplash-2/index.m3u8
 #EXTINF:-1 tvg-id="WHOHTV.us@SD" tvg-logo="https://i.imgur.com/jTD9nLE.png" group-title="General",WHOH-TV (360p)
 https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1 tvg-id="WillametteFallsMediaCenter.us@SD" tvg-logo="https://i.imgur.com/KwlFyem.png" group-title="General",Willamette Falls Media Center
+#EXTINF:-1 tvg-id="WillametteFallsMediaCenter.us@SD" tvg-logo="https://i.imgur.com/KwlFyem.png" group-title="General",Willamette Falls Media Center (1080p)
 https://reflect-greater-clackamas-county-tv.cablecast.tv/live-7/live/stream-4/live.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" tvg-logo="" group-title="General",Zarin TV (1080p)
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
