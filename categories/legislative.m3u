@@ -91,6 +91,8 @@ https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8
 https://reflect-gtv6-glendale.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="GovernmentTV16.us@SD" tvg-logo="https://i.imgur.com/iv9Vfcb.png" group-title="Legislative",Government TV 16 (720p)
 https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="GreensboroTV.us@SD" tvg-logo="" group-title="Legislative",Greensboro TV (720p)
+https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
 #EXTINF:-1 tvg-id="HCTVGovernmentChannel.us@SD" tvg-logo="https://i.imgur.com/bVbpgiD.png" group-title="Legislative",HCTV Government Channel
 https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="HillsboroughTV.us@SD" tvg-logo="https://i.imgur.com/fUne7FX.png" group-title="Legislative",Hillsborough TV (360p)
@@ -119,6 +121,8 @@ https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lex
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8
 #EXTINF:-1 tvg-id="MBTV.us@SD" tvg-logo="https://i.imgur.com/LyqFr9E.png" group-title="Legislative",MBTV (720p)
 https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel29.us@SD" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="Legislative",Midpen Media Center Channel 29 (720p)
+https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MonroeCountyTV.us@SD" tvg-logo="https://i.imgur.com/YJfzdSu.png" group-title="Legislative",Monroe County TV (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="NatickGovernmentChannel.us@SD" tvg-logo="https://i.imgur.com/eA2WSXa.png" group-title="Legislative",Natick Government Channel (720p)
