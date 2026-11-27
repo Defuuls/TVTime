@@ -375,6 +375,15 @@
   "url": "https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8"
  },
  {
+  "name": "ABC KTRK-TV (1080p)",
+  "id": "ABC.us@KTRKTV",
+  "logo": "https://i.imgur.com/pvXZ8DX.png",
+  "categories": [
+   "General"
+  ],
+  "url": "https://amg01438-amg01438c18-vizio-us-10901.playouts.now.amagi.tv/playlist.m3u8"
+ },
+ {
   "name": "ABC KXXV (1080p)",
   "id": "ABC.us@KXXV",
   "logo": "https://i.imgur.com/pvXZ8DX.png",
@@ -384,13 +393,67 @@
   "url": "https://amg01438-amg01438c28-vizio-us-10893.playouts.now.amagi.tv/playlist.m3u8"
  },
  {
+  "name": "ABC News Live 1 (1080p)",
+  "id": "ABCNewsLive1.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://abcnews-livestreams.akamaized.net/out/v1/42a9b78d0a1f4b6599bbdfb1ae512bc4/abcn-live-01-cmaf-manifest/abcn-live-01-index.m3u8"
+ },
+ {
+  "name": "ABC News Live 10 (1080p)",
+  "id": "ABCNewsLive10.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://abcnews-livestreams.akamaized.net/out/v1/6a597119dbd5428a82dc11a2f514a1a2/abcn-live-10-cmaf-manifest/abcn-live-10-index.m3u8"
+ },
+ {
+  "name": "ABC News Live 6 (1080p)",
+  "id": "ABCNewsLive6.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://abcnews-livestreams.akamaized.net/out/v1/9a9ee355c85a41139f57059aa69e2dbb/abcn-live-06-cmaf-manifest/abcn-live-06-index.m3u8"
+ },
+ {
+  "name": "ABC News Live 7 (1080p)",
+  "id": "ABCNewsLive7.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://abcnews-livestreams.akamaized.net/out/v1/154d2c2958f641ebaff682b130320ea5/abcn-live-07-cmaf-manifest/abcn-live-07-index.m3u8"
+ },
+ {
+  "name": "ABC News Live 8 (1080p)",
+  "id": "ABCNewsLive8.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://abcnews-livestreams.akamaized.net/out/v1/b95119c72ad7477ca49c4d9dfd1271d5/abcn-live-08-cmaf-manifest/abcn-live-08-index.m3u8"
+ },
+ {
+  "name": "ABC News Live 9 (1080p)",
+  "id": "ABCNewsLive9.us@SD",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+  "categories": [
+   "News"
+  ],
+  "url": "https://abcnews-livestreams.akamaized.net/out/v1/4122fc2fd19e4064861b3c6a096286fb/abcn-live-09-cmaf-manifest/abcn-live-09-index.m3u8"
+ },
+ {
   "name": "ABC US",
   "id": "",
   "logo": "",
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf6a/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjZhOjE3OTU3NDgzMDQzMTE6Y2RubGl2ZXR2LnR2OmY2MTU4NmIyNGY2NzRhNDEuMWVkYTBhNjg3MDU0MjFmODhjMjYzMjcyMGVhZmU3ODIxMjQ1MjdlOWYwNDgwOTg4YzQ3MDU2ZjY1OGNkN2QzZg"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf6a/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjZhOjE3OTU3ODE5NjUxMTM6Y2RubGl2ZXR2LnR2OmFhODQ5NzNkNjgzMzE5YjcuZWJiZGVhNTZiOWJmMzkzYjc1ODQwZWMwMTEwODA1YjdjZTc1NmRjMDcxZWZiOGFlMTNkZjkyOTViZWFjMDYxOQ"
  },
  {
   "name": "ABC WBAY-TV (1080p) [Geo-blocked]",
@@ -607,7 +670,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf6b/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjZiOjE3OTU3NDgzMDQ2NjY6Y2RubGl2ZXR2LnR2OmU1ZjUwNDEzNDZmZDE2N2YuOTMwNzRkZWIyZGFiNThkYmNmZTcxOGQwMGQ3NGJmNGJmZDhhMDI4Zjc4ZDY0MGIyZGFiMWY1MWZjZjE4N2JjMA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf6b/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjZiOjE3OTU3ODE5NjU2ODU6Y2RubGl2ZXR2LnR2OjI0ZGI5MzM1MGQ5ODcyY2YuNDc2OWUyOTI3YmU2NzAwNWE1NzAyMWI2ZWZlNDMxNDNkOGViNmRlM2FiODA4YjY3MzA0YmViMDE0MzA1OWE5MQ"
  },
  {
   "name": "Access 19 (1080p)",
@@ -976,7 +1039,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ced8/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWQ4OjE3OTU3NDgyOTY4MTA6Y2RubGl2ZXR2LnR2OmUyNDFjZjFhOGUyYThjNDIuNjM4MTFlMjRiNDg4OWNkNDk2ZTc5Y2I0ZmRjNmY3NTg3OTIwZDNlMjc4MjE3MzlhODVjYzZhMjEzMGM1NTE5MA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ced8/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWQ4OjE3OTU3ODE5NTQ0ODQ6Y2RubGl2ZXR2LnR2OmU0M2ZlNjZlZjI4MzMwMGYuNzA0MDM3MjJmYWUzYjYxNWU3ZTcyOTA4OTRlMjViYzg0YjUzNzQ4ZDcxMDlhOTE4OGU0M2ZhOGFhNWExM2Q4Mw"
  },
  {
   "name": "Always Funny Videos (720p)",
@@ -1530,7 +1593,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d0a3/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMGEzOjE3OTU3NDgzMDk3NDQ6Y2RubGl2ZXR2LnR2OjhmMTg4NGM4YmYwNDUyYzguOTA5NTBlM2U0NTU0OGZhZmQzNzNmMTlkMzNkZWIxNGVkMTA2ZTc3YjIwMjZhY2FhY2JlNjU4NWZlZGY4NmVhOA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d0a3/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMGEzOjE3OTU3ODE5NzMwMDQ6Y2RubGl2ZXR2LnR2OjZlZWQ3Y2Y5OWUwYmIxMzEuODdiZjJmZGY5NTI5MDVhNjRjZGM2ZTRhOGIyNzdmMWRiNDM3Y2NhZDcxZWZiZjFhZDZjZTJmODczZGI5NDA1MQ"
  },
  {
   "name": "BBC Drama US (1080p)",
@@ -1620,7 +1683,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ceea/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWVhOjE3OTU3NDgyOTcxNjI6Y2RubGl2ZXR2LnR2OmNiZWY3ZDJjZTMxNzQ2MTguYzIzODczYmM1ZDY1NGU4NjBiNzRkNmMwOGM2MjRlZjM2MWU0YWQxNDg0M2ViMGM1NWFjY2Q1MTNlNTkzN2JlOA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ceea/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWVhOjE3OTU3ODE5NTUwNTI6Y2RubGl2ZXR2LnR2OjJkYWY2YjM5NGI1ZTBhMDAuYjJiNDQ2YjcyYjFlNGZmNzMyMThkN2QxODZlOGE3ZmY1OTE0Mzg4YjljNzMxMWJlZDc2MTBmMTVjYTViOWVmOA"
  },
  {
   "name": "beIN SPORTS XTRA (1080p)",
@@ -1639,6 +1702,15 @@
    "Sports"
   ],
   "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
+ },
+ {
+  "name": "beIN Sports Xtra FHD US",
+  "id": "",
+  "logo": "",
+  "categories": [
+   "CDNLive"
+  ],
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ceec/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWVjOjE3OTU3ODE5NTU1OTk6Y2RubGl2ZXR2LnR2Ojk4MmU2NDlkMWIxNjM0MmEuMmUyZGM3OTZjZDE4MDJmMTI1YjU3YzRhN2IyNmU2YmRmNTQzZDkzZmU4MDIyNDgyZjBmNGRjN2ZkYmVhODM5Zg"
  },
  {
   "name": "BEK News (720p)",
@@ -1746,7 +1818,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cdd7/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZGQ3OjE3OTU3NDgyOTQ5MzU6Y2RubGl2ZXR2LnR2OjQ2YzJhNDUzMzY1YjdlZTYuNDdmNzNlNDdkMjk4ZjgzNzg0MWE1YzcxNzg3M2ZiM2VhMTE4NmM5ZTQ3MGFmODg1MjFkZWE1NjBhMTFhYTIyMw"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cdd7/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZGQ3OjE3OTU3ODE5NTE3MDQ6Y2RubGl2ZXR2LnR2OjkzN2NhMmRkYmYyYmNhMjQuY2FkMDE0Mjc3ZDZhMjdhNzQ0ODg0NjQ3ZDhiMzg0NjA5ODZiNTAxYjliNzkzYzhkOTBlMzI1MDNhOTAyM2U0Mg"
  },
  {
   "name": "BET Visionaries",
@@ -2519,7 +2591,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cef4/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWY0OjE3OTU3NDgyOTc1MjI6Y2RubGl2ZXR2LnR2OmQwYjA2NjgxMjIwMTkyZGEuY2M4NzRhNWIzNzM5YmFiMDczYjhiOWVmYTVkNWQ3NWI3NGRmYmEwMjNiZGRjZDMyNTEzYzc4NzIyN2FmYTZhMw"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cef4/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWY0OjE3OTU3ODE5NTYxMDU6Y2RubGl2ZXR2LnR2OjU4ZmMzMDZjNzc4ZGE1MDIuMWZiZDhjNTgxZjBlODZiZmNkOTY4M2M4YzEzMzg1Y2E3MGNjZTdiMjJmZWY5YmNjNDFlMWJkMDY5NjIwNjY4Nw"
  },
  {
   "name": "CBS Sports HQ (720p)",
@@ -2537,7 +2609,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf91/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjkxOjE3OTU3NDgzMDUzOTU6Y2RubGl2ZXR2LnR2OmVmZWU2MjI3YWVkM2EwMzIuNGYxNDg0OTdjODhjMjIxYzRkM2ZkMjhjNjU4ZDQ4NTMyNzFiMDhhMmE5MzM2YjRmYTY0Y2YyMTQ2YjRhMTZjMA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf91/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjkxOjE3OTU3ODE5NjY3MDg6Y2RubGl2ZXR2LnR2OmJhOTg4YmNkNzI4ZGY0YTcuM2Y3MmQzMGQ5MDVlZjY1M2IwN2RmZTRjMjNiYjgwM2JjYTljMmViNDBkMzBlYmQ5MTFmOWI4YzE3NmIwMjc0NA"
  },
  {
   "name": "CBS WANF (1080p) [Geo-blocked]",
@@ -2637,15 +2709,6 @@
    "General"
   ],
   "url": "https://amg00312-amg00312c37-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c37-amgplt0022/playlist.m3u8"
- },
- {
-  "name": "CBS WWMT (1080p)",
-  "id": "CBS.us@WWMT",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-  "categories": [
-   "General"
-  ],
-  "url": "https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8"
  },
  {
   "name": "CC-TV (720p)",
@@ -2790,7 +2853,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d280/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMjgwOjE3OTU3NDgzMTA0ODE6Y2RubGl2ZXR2LnR2OjU0MTlkYTNjMmU2M2RkMzUuY2MyMjUyYWI2NDg5M2M5NTBjMDM5NzYzNDkxOTk1NWUwMDViZjAzZTIzNDhjZjhkZjE2MWY3MWQxOGM4YjI0Yw"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d280/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMjgwOjE3OTU3ODE5NzQwMzg6Y2RubGl2ZXR2LnR2OjgyMzg3OTMwZWRiMmQ5NDguNDRkODFkMDVjZDMyYWM1N2M0ZDkzNzM0NTVmYmM5ZjRjNzZhYTQ1NGI5YzE3NWUzYzRmODMxMzUxYjFiMTQwZA"
  },
  {
   "name": "Choppertown (720p)",
@@ -2919,6 +2982,15 @@
    "Lifestyle"
   ],
   "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2223"
+ },
+ {
+  "name": "Cinevault 80s (540p) [Geo-blocked]",
+  "id": "Cinevault80s.us@SD",
+  "logo": "https://i.imgur.com/xaCyyDd.png",
+  "categories": [
+   "Movies"
+  ],
+  "url": "https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8"
  },
  {
   "name": "Cinevault Westerns (540p) [Geo-blocked]",
@@ -3234,7 +3306,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d2bc/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMmJjOjE3OTU3NDgzMTEyMDY6Y2RubGl2ZXR2LnR2Ojc4MjNjNTZhNTIzYjgxOGEuZDk5ODEzYTQ0Y2ZkMDViYzhjOTdiNThjZDEzMjdiNGFkNjYwZWIyZDU0MTViOGU5MDc1ZjZlNzBlZjZiNTI5Yw"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d2bc/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMmJjOjE3OTU3ODE5NzUxMzM6Y2RubGl2ZXR2LnR2OjBjNmJkZmNkZjZmYjIwMDAuZGU1MWRmMDI2Y2VmYTJjN2IzOGJkYjQ0MTAxNmIxMDE1MzlkMjNlMzIwZGVmNDhmNzcxOWM1YmUxMTU1NTFkNw"
  },
  {
   "name": "CNN (720p)",
@@ -3333,7 +3405,7 @@
   "categories": [
    "Comedy"
   ],
-  "url": "https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8"
+  "url": "https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8"
  },
  {
   "name": "Comedy.TV (720p)",
@@ -3913,15 +3985,6 @@
   "url": "https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8"
  },
  {
-  "name": "Didgah TV (576p)",
-  "id": "DidgahTV.us@SD",
-  "logo": "https://i.imgur.com/3SeAyBS.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8"
- },
- {
   "name": "Discovery Channel (United States) (1080p) [Geo-blocked]",
   "id": "DiscoveryChannel.us@East",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
@@ -3955,7 +4018,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d042/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDQyOjE3OTU3NDgzMDc5NDY6Y2RubGl2ZXR2LnR2OmUwZjJmZjVlZWYyMWM4M2UuYzg3MThkMTExODI0ZTljYjg2N2QzY2NkOTM5ODQ5YzA3ZDNiZGQ2YWY5ZjFlNzQ5ZGMyYWNjZDFlYTM4NGZhNQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d042/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDQyOjE3OTU3ODE5NzAzNTE6Y2RubGl2ZXR2LnR2OjI4ZDBkNzA4ZjUxZTIwMGMuM2NhMjdlMGMwMjhiNTZlMDM0NzAwNWNiYmJmNDFjN2IxNmYxM2U0NzgwN2M3ZTM3NTNjNGY1Y2U4Zjc1Y2E1ZA"
  },
  {
   "name": "Disney Junior (United States) (480p)",
@@ -4264,7 +4327,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cef7/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWY3OjE3OTU3NDgyOTc4ODE6Y2RubGl2ZXR2LnR2OjJjNzNjMTQyZGQzOGE3OTIuYzRjNjZhNDYwNGU2ODA0Njg5ZTUyOGFlZmVlYTQ0YTEzNGNmMzQwNTQ3MjhlNzgwZDc2N2NhNzNhNjgyZmQ0OQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cef7/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWY3OjE3OTU3ODE5NTY2MDE6Y2RubGl2ZXR2LnR2OmFhZTMwNzBmY2NiOTFkOTIuYTMwMzA0ZTIxYTQ2MjlmNDg2ZmY3N2EwOTM3N2I0N2FhYWQ0YjYxZGE4NTRhM2UwNjMwZDY5Y2E0ZTczMzRmNw"
  },
  {
   "name": "ESPN Deportes HD (720p)",
@@ -4282,7 +4345,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d2cb/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMmNiOjE3OTU3NDgzMTE1Nzk6Y2RubGl2ZXR2LnR2OjlhODVlMzM0MWVmMTY2ZjUuZDczNDEyNjNiYzk3YTY2NDNkOWQyMGM0MDUxNDVjODU4NGRmZDA3NzFkM2MyMjVkZDFkN2U4OWYxZDI1ZTc2Yw"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d2cb/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMmNiOjE3OTU3ODE5NzU2NTQ6Y2RubGl2ZXR2LnR2Ojc2MWYxYTQxMjhiMjc1MWYuZTM3OWViYjZkYjAzZTE0MmU5MTc5OTg5YTlmMmNkZDg3M2YwY2RkNTRlOWVkOWVkMTdhZTdiMWIwNDQ5ZWYxNw"
  },
  {
   "name": "ESPN HD US",
@@ -4291,7 +4354,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cefc/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWZjOjE3OTU3NDgyOTgyMzI6Y2RubGl2ZXR2LnR2OmQ5ZjkxMTAyMGYxMDNiMzIuZDI2OTQ0Mzk2OWU1ZDExMzUxNTM2MGZmOWVlZDMxNjU5NjQxOWYyMGIyYWNhNDM0NDlhODU5NDcxNzQ2YjI0MQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cefc/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWZjOjE3OTU3ODE5NTcxMzY6Y2RubGl2ZXR2LnR2OmM2ZDZkNzYzNzlhOTQ4MmMuZDE5ZjI0OGFlM2VjZWYzMTYwNWQzOGVkMWZlNjQ0MGQ5M2IwNDI4ZGYwZTQzMmQ1ZDMxY2JmN2M4YTdjYzFkZg"
  },
  {
   "name": "ESPN News FHD US",
@@ -4300,7 +4363,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cefd/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWZkOjE3OTU3NDgyOTg2MDI6Y2RubGl2ZXR2LnR2OmI0M2VjMmM2OTBmYzc3NzQuZmI4ZTJiNjBmZTQzMmRhOWEzYzczMDY1N2IzNDI1YzcwNGM4NGExOGJmNDBlMGNjOGVjZTNiYjc4YTU5ZTg4OA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cefd/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWZkOjE3OTU3ODE5NTc3MDk6Y2RubGl2ZXR2LnR2OmM0YzVmNjZhMWViNjY4M2IuOGFjNzgyODk0NmMyYmUxOGMwZWJjY2IwODc2ZmU1MzhlYmI4YTRlYTAxNDEzYzlkOWE4NTVmY2VmYjM1MDEzZQ"
  },
  {
   "name": "ESPN SEC Network US",
@@ -4309,7 +4372,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d2cc/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMmNjOjE3OTU3NDgzMTE5Mjc6Y2RubGl2ZXR2LnR2Ojc5ZDkzMThjYmUwZmEwZDguZTEzOTA3NTkxY2E5MTJiYTE5Y2ViZmZlMzM3OGQ4N2VkMjZmM2VmOWIwODMyNmNkNjVlMzgxNDMwZjYxMGU0OA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d2cc/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMmNjOjE3OTU3ODE5NzYyMDY6Y2RubGl2ZXR2LnR2OjYwMmUyODAyZTI1NThiZDYuMjZhZWRhNGRlMDExNDhhNmE2YmJlNTljZDg4MGM0Y2E5YjYwZWFlOWNjNTRhMjM0YWYzMzE5NTg1YTI1NzM5NQ"
  },
  {
   "name": "ESPN U FHD US",
@@ -4318,7 +4381,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ceff/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWZmOjE3OTU3NDgyOTg5ODM6Y2RubGl2ZXR2LnR2OjQ5MGM1MTA2YWNhZDRkYTIuNTYzNzVlZmE3ZmJiNDc4YmNlMzc1MmE1NTkwNTI5NzNiYjgxYjQ5N2QxMjZjNTQ0MjdkNDNlNmVlZTBmZTBjNw"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ceff/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWZmOjE3OTU3ODE5NTgzMDg6Y2RubGl2ZXR2LnR2OjQzNWNiNWQ0MWMwNDYyMmYuNWQ3MWM5OWI5YjdjZjcyMTRlNWVmOGYyMzhlZmNlMGU2NzQ4YmI3YjMwZGY1YWU4YjFiYjA5NTEzMGIzNDZhYw"
  },
  {
   "name": "ESPNU HD (720p)",
@@ -4665,15 +4728,6 @@
   "url": "https://amg00488-foxdigital-fox4dallaskdfw-vizious-g5zvc.amagi.tv/playlist/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8"
  },
  {
-  "name": "Fox (United States) KMPH-TV (1080p)",
-  "id": "Fox.us@KMPHTV",
-  "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
-  "categories": [
-   "General"
-  ],
-  "url": "https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8"
- },
- {
   "name": "Fox (United States) KMSP-TV (1080p) [Geo-blocked]",
   "id": "Fox.us@KMSPTV",
   "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
@@ -4681,15 +4735,6 @@
    "General"
   ],
   "url": "https://amg00488-foxdigital-amg00488c8-vizio-us-904.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox9minneapoliskmsp-vizious/playlist.m3u8"
- },
- {
-  "name": "Fox (United States) KOKH-TV (1080p)",
-  "id": "Fox.us@KOKHTV",
-  "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
-  "categories": [
-   "General"
-  ],
-  "url": "https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8"
  },
  {
   "name": "Fox (United States) KRIV (1080p)",
@@ -4771,6 +4816,15 @@
    "General"
   ],
   "url": "https://amg00312-amg00312c32-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c32-amgplt0022/playlist.m3u8"
+ },
+ {
+  "name": "Fox (United States) WDRB (1080p)",
+  "id": "Fox.us@WDRB",
+  "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
+  "categories": [
+   "General"
+  ],
+  "url": "https://amg00312-amg00312c33-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c33-amgplt0022/playlist.m3u8"
  },
  {
   "name": "Fox (United States) West (720p)",
@@ -4923,7 +4977,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf21/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjIxOjE3OTU3NDgyOTkzNDk6Y2RubGl2ZXR2LnR2OmM2NTE5MDc1Y2RmYTczZmIuZGQ3OWQ3N2Q5YTg5ODFiNDVjMzZkMmI3ZmMyYTNmNGJjMjFkYTBmNjEzZjU2MTExNThjMGFjMWIyZTFjNzgxNA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf21/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjIxOjE3OTU3ODE5NTg4NDY6Y2RubGl2ZXR2LnR2OjlkNzhjYTE5NGE0NDM5ZTIuNjIzNWNkOTEyZWU1MTBlZTFmMjk0YjZhNTY5MTQwYzc0MmQyZDg1ZTczNWQ2YmFmOWQ2OTdhMWE4ZjdlMTMxOQ"
  },
  {
   "name": "Fox News Radio (720p)",
@@ -4941,7 +4995,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ce02/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZTAyOjE3OTU3NDgyOTUzMDg6Y2RubGl2ZXR2LnR2OmE3OWNiZmJiOWUxZWExNjQuNWEwYjM1Y2IxOWRhZTA5YzE1Njc1MTY1MDQ3Y2FiNTBmYzVhZDZmYzkwNTM1MzkzNGU0ZjZiMjgzYTIxMjcyMQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ce02/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZTAyOjE3OTU3ODE5NTIyODA6Y2RubGl2ZXR2LnR2OjgwMTM3NmM3ODFhMTBmYjUuY2NjMmI3MDlhNTI1YzdkMmJlOWYzYWFjMTNlNjkwOGFlMzlkOWRlOGUzNzQ0ZjNjMzY4NWJiZWVkN2Y1NzUzZg"
  },
  {
   "name": "Fox Soul (1080p)",
@@ -4968,7 +5022,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf23/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjIzOjE3OTU3NDgyOTk3MTk6Y2RubGl2ZXR2LnR2OjQzNTU0MzNiMDlmMmZmYTUuZWM2Y2RlMWUwYzc4NTg1MjIwYTA4M2E3NDgyNmQ4ZjEzYTMyNjlmZmNhM2MxODI4MmM0YTlhYWU2YWIwOTljNA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf23/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjIzOjE3OTU3ODE5NTkzNjg6Y2RubGl2ZXR2LnR2OjBiYWNjZTE0ZTQwYzQwNGIuYmI3OWMyMjI1NmVkZWJhNmRjMGMzMzBlNWI2ZjBkMjE4YTAzZTUyNWNlNTM4ZjgyNzJlMzI4NjQ2YzJiMzg5MA"
  },
  {
   "name": "Fox Sports 2 (720p)",
@@ -4986,7 +5040,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf26/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjI2OjE3OTU3NDgzMDAwODU6Y2RubGl2ZXR2LnR2OmQ0ZmMzY2QwNmZkOWUwNTUuNjE2NGU1ZTMwYjgwOTFhYWQzYWMyOGI4Y2U4MDdmMTM5MDJhMWU2NzcwZmI2Nzg4ZWZjYTc1YjRlNzI2ZTk4Mw"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf26/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjI2OjE3OTU3ODE5NTk4Nzg6Y2RubGl2ZXR2LnR2OjcwZjJiMWQzNDdlYWU2ZGUuMTUxMjNlMjU1NTM0YmZhNGE0NmY2NWI0MWM1MmNmMmRmNGY2NDljNDA4ZmE2YmFhNzgwMTUxMjZhOTdkZDY2NA"
  },
  {
   "name": "FOX US",
@@ -4995,7 +5049,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cfae/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZmFlOjE3OTU3NDgzMDU3NTc6Y2RubGl2ZXR2LnR2OmYzZWQ5OGNjNTBjN2FlYzcuNjA1MjNkZWY3NWU3ZjAyM2QzMzBkNDMwMDQzYmM3OTU3OWUwZDliMTQwNTczYTk2MDU2N2M3MjVhNzI3ZjQzMw"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cfae/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZmFlOjE3OTU3ODE5NjcyMzk6Y2RubGl2ZXR2LnR2OjY5MTdkMTczNzZhMzdjZDEuNGI4ZDk2Nzg2ZjRlMzI3ZmY1NWIzYWZmZmRhMzk4MTkxYzU1MWUwYTIyOTk1N2RhMGY0NDJhYTAwZjEwNjA0Ng"
  },
  {
   "name": "Fox Weather (1080p)",
@@ -5149,7 +5203,7 @@
   "categories": [
    "Comedy"
   ],
-  "url": "http://stream.mcquack.net/458/index.m3u8"
+  "url": "http://s7.merlive.am/gagsnetwork/index.m3u8"
  },
  {
   "name": "Galavision East HD (1080p) [Geo-blocked]",
@@ -5374,7 +5428,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf2d/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjJkOjE3OTU3NDgzMDA0NDI6Y2RubGl2ZXR2LnR2OmQxN2ViMDBkODU0MGU3MjkuY2NhNzgwMmViNGJkNDQ5ZTgzZWJjYzZjN2M1N2QwZjdhYTcxMzkzOTQ0ZTYzMjhlMTFkMmUyNWMzOWJmYWQxZQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf2d/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjJkOjE3OTU3ODE5NjAzODY6Y2RubGl2ZXR2LnR2OjBjMTQzZTA4MWI5MDUyZGEuNzAyNDdhOGUxZTIzNjE2OWI4NDk5ZTI1MzFmNjJhMmJiN2JkN2RkYWRkNmJhMjkzMmUzZmQ5MjAzY2NkODUzOA"
  },
  {
   "name": "GoodLife 45 (720p) [Not 24/7]",
@@ -5384,6 +5438,15 @@
    "Religious"
   ],
   "url": "https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8"
+ },
+ {
+  "name": "Gordon Ramsay's Hell's Kitchen",
+  "id": "GordonRamsaysHellsKitchen.us@SD",
+  "logo": "https://i.imgur.com/WgN4T18.png",
+  "categories": [
+   "Cooking"
+  ],
+  "url": "https://jmp2.uk/plu-62ea45010d0611000839868c.m3u8"
  },
  {
   "name": "Gospel Truth TV (1080p)",
@@ -5491,7 +5554,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ce10/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZTEwOjE3OTU3NDgyOTU2Njc6Y2RubGl2ZXR2LnR2OjM5ZDQwMGY3MjM3YzY3MDIuZDliNzc3Yzk4Zjg4NDVjNThiMmRhOGUyODVlYTMzNTBlMjU1MDRmNzUxZTRkNTg0NTg2YjI2NzVkZjM1MjIzMg"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ce10/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZTEwOjE3OTU3ODE5NTI5MDI6Y2RubGl2ZXR2LnR2OmQwOGY3ZjI2Mzk2ZjBmYzQuODI2YjQ2ZDg3YTUzNGU0NmY3OTQ5YzU5NDIyNmJmNzRmM2U4ZGZhOWJhZWUyY2MxODY2YjU5MmRkN2VhZWRmYw"
  },
  {
   "name": "Hallmark Movies & More (1080p)",
@@ -5731,7 +5794,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cfc6/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZmM2OjE3OTU3NDgzMDYxMjI6Y2RubGl2ZXR2LnR2OjExNzk4M2I1OWIzMzI0NWUuOTRiZWMzNjI2ZGRiYmQwMTkzY2QzNWNmZjBmOGJiYTdkOGRkNWJiNmVlNzRiYWM2YzY2YTM2MTkwNmVmZGE5MA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cfc6/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZmM2OjE3OTU3ODE5Njc3OTY6Y2RubGl2ZXR2LnR2OjNiY2E2YzUyOWViMWQ5MDEuMTRmNGViYTRkMWFjYzQzNjRjNWI0NTkzMmVhMzRjNWMzZWViZjAyZjU2ZDczZGVkMTk5MjQwYzVmYTdmZDg5Ng"
  },
  {
   "name": "HKTV (1080p) [Geo-blocked]",
@@ -6177,6 +6240,15 @@
    "Religious"
   ],
   "url": "https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8"
+ },
+ {
+  "name": "Johnny Carson TV (720p)",
+  "id": "JohnnyCarsonTV.us@SD",
+  "logo": "https://i.imgur.com/KBTqpJ7.png",
+  "categories": [
+   "Series"
+  ],
+  "url": "https://vizioaaaa-johnnycarson-vizio-8fyqr.amagi.tv/playlist/vizioAAAA-johnnycarson-vizio/playlist.m3u8"
  },
  {
   "name": "Journy (720p)",
@@ -6710,7 +6782,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ceae/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWFlOjE3OTU3NDgyOTY0MzY6Y2RubGl2ZXR2LnR2OmE4YjdkOWI3YTYzYmU2YmQuNjlmZDg2YTdjYjFhZDE0OWY1NTMxM2Q5YWM3ODY5ZmJlMzQwNjU5Yzc5NWE1MjQ0NDQ0YjZjN2E1NThjYjNjZA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ceae/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWFlOjE3OTU3ODE5NTM5ODQ6Y2RubGl2ZXR2LnR2OjhlZDBiZTgxMTk1ODlmNzkuNDU2M2FlZGI3NjU2ZTJlZWQ5NDA0NDdkM2Y4YzQ4OWExNWEzMmI3ZjFlYTVkOWVhNmI3NDIxODhlNTBhZmJkYQ"
  },
  {
   "name": "LifevisionTV (406p) [Not 24/7]",
@@ -7126,7 +7198,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf2f/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjJmOjE3OTU3NDgzMDA4MTI6Y2RubGl2ZXR2LnR2OjQwMjQ1ZDM1NmFiN2QyMTAuMDgzMmM5ODQwMmNiNjc0YTYzZDRkNWI5MzNjZTlmZWY3MmYzYzhmMzM2MGQ1YTM3NGVlZWQ1ZWE3ODAzYWI5ZA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf2f/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjJmOjE3OTU3ODE5NjA4ODc6Y2RubGl2ZXR2LnR2OmM2MWQwZDA2NDFkYWViYTAuNmJjNWMyNjI5ZDA4ZWMzZWUzNjE2NWRjNmM4MDc3MThmMmE5ZDgxOGI2OTA4OTNiODg4NWE5NjYzMTNmZjhiYg"
  },
  {
   "name": "Martin County TV (720p)",
@@ -7153,7 +7225,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d339/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMzM5OjE3OTU3NDgzMTIyNzU6Y2RubGl2ZXR2LnR2OjU1ZDBhZGEzZjNhMjNhZmUuYWY4Y2MyOTQ4OThlMzk1ZmI5YzA0NjM3YTA1NTg4ZjI3MTAwNzk2YWFjOGY0YWQ3MzQ1ZmEwNzQ2MTM4MDdjYQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d339/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMzM5OjE3OTU3ODE5NzY3NDU6Y2RubGl2ZXR2LnR2OjhjNGI3Zjc3MTgwYjUwNjAuMzI2MjI4MjRlZTFiZGUwYmFlOTExM2M5MDY2ZTIzMTcwMTEyMmUxNGRmNTc3MWMwZDJiN2RkN2QzMmYxOGE2ZA"
  },
  {
   "name": "Matlock",
@@ -7457,7 +7529,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf30/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjMwOjE3OTU3NDgzMDExNTk6Y2RubGl2ZXR2LnR2OjFjZDkwZGM1M2JhZjAyMTkuODdiZTg5MGUxOTExMjA5MTlkNDA1OWRjYjRlMjg2NTA4ZDNjNjg5YTdiNDdhYTlmOGFiNzNjOWM2Zjk4YTEwNA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf30/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjMwOjE3OTU3ODE5NjEzODM6Y2RubGl2ZXR2LnR2OjJhYTQ4ZDI5ZTc4YWIyMGYuMjFkN2EwMzIwN2I4YjYxMTdhM2VkOWQzZWE3MmI2MDMwMWFiZDUwM2NkN2QzNzQwMTkyMjY0N2E0ZmJiNDM5NA"
  },
  {
   "name": "MMA TV (576p)",
@@ -7548,15 +7620,6 @@
    "General"
   ],
   "url": "https://reflect-montgomerycommunitymedia.cablecast.tv/live-11/live/stream-4/live.m3u8"
- },
- {
-  "name": "Monumental Sports Network US",
-  "id": "",
-  "logo": "",
-  "categories": [
-   "CDNLive"
-  ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d369/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMzY5OjE3OTU3NDgzMTI2NDU6Y2RubGl2ZXR2LnR2Ojk3NDM1MzJkNDcxMjQ5YjIuMTA4OTkyZWFiYjQ4MTgwZGVkYzYxNGRkYTY4MjYwZDgwZTQ2ZjAwNmI1ZDNmY2QyZDEzNTdiZmIzNjI0NGM5Mg"
  },
  {
   "name": "More True Crime",
@@ -7656,7 +7719,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf32/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjMyOjE3OTU3NDgzMDE1MDg6Y2RubGl2ZXR2LnR2OmZiODFjZWQxODU1YjY4MWIuMWQ5NTIzZTE3ZmJiMDQyMjRlMWVlZGI2Yzc3MGM1YWJhZTRhMzU3Zjk1MTQzZGVhNWJhNjhmOWMyODExNjU3Nw"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf32/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjMyOjE3OTU3ODE5NjE5MjY6Y2RubGl2ZXR2LnR2OmQ5NTA4MTgxNzQ1ZGJkNDcuZGQ5NjM5YWY5NDkyOWM4OTdhZGM1YzBmMTI1NGY2N2M2ODJjMjlkZjM3ZGNlNjk4ZTk0NmVjOWVjZjRiMzAxMg"
  },
  {
   "name": "MST3K (1080p)",
@@ -7872,7 +7935,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf33/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjMzOjE3OTU3NDgzMDE4OTk6Y2RubGl2ZXR2LnR2OjVjNjQ2NzMzZjkxYWM3ZDkuNjI5ZGFkNjQ1NjA3ZGY2MTJmYTQyYWI2N2Y3ZmJmNTIyMjAwOGI0ZmZkNzFiNmRhMjMzYzVlNThkZWU5OWNhOQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf33/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjMzOjE3OTU3ODE5NjI0NDM6Y2RubGl2ZXR2LnR2OjMwNTg0OWQ3ZGU5ZjdhOGYuNzUxNGRjNWIyZTRiYjg3NDlhYWEwZGIyOTNjZjEzMDhhM2NiZDUxNGQ3ZTU1ODc2MWRlNDJmMTdmYjc2ODBkYQ"
  },
  {
   "name": "NBC (1080p)",
@@ -7999,7 +8062,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf81/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjgxOjE3OTU3NDgzMDUwMjI6Y2RubGl2ZXR2LnR2Ojc3Y2JmODBiNGVmOWNkOGEuNzZmMTBkNDk4NDQ1Y2RhMjczYWU2NDhkZTIxMDI4ZjUwY2I2NWIzYzA1ZDIwYTUzYjQxNGFhN2M3ZWIwZTI0Ng"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf81/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjgxOjE3OTU3ODE5NjYxOTg6Y2RubGl2ZXR2LnR2OjQ0NDdiNTkwNjg3NWRmYTIuYjM4YWYxMmQ2OGVlZGQ2YWVjYWNjZDcxN2I5MTQxYjZjZDU5MjJkNmQ2ZmNmMGMwOTgxM2QyMjgxNjA1OWRiMA"
  },
  {
   "name": "NBC US",
@@ -8008,7 +8071,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cff6/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZmY2OjE3OTU3NDgzMDY0ODc6Y2RubGl2ZXR2LnR2OjQzZDdkMzhmMjAzZDk4ZjYuNmVmYjMwNjY1MjZlYmQ5MjI2MWFjM2U2ZDYxZmVlNWM1MGFiMWM3ZDk3ZTdiYmQyNDBiYjUzOTI3OWJjY2QxYg"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cff6/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZmY2OjE3OTU3ODE5NjgzMDM6Y2RubGl2ZXR2LnR2OjhlNmNhMDE1MTI5NTUzNTAuOTA2OTQ4Mjc4NjMxOTdlNjk2NGUzZTNkZTAwYzZkY2JjNjBmNjY5ZWMzYzI1MWVmMzFkYmNmNDdlNzE4Yjg3ZA"
  },
  {
   "name": "NBC WBTS-CD (1080p)",
@@ -8063,15 +8126,6 @@
    "General"
   ],
   "url": "https://video.tegnaone.com/wkyc/live/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC-Production/d39cf8a9-40a6-4cba-85f7-6c9d633843b3/2.m3u8"
- },
- {
-  "name": "NBC WLIO (720p) [Not 24/7]",
-  "id": "NBC.us@WLIO",
-  "logo": "https://i.imgur.com/nxY84W5.png",
-  "categories": [
-   "General"
-  ],
-  "url": "https://live.field59.com/wlio/wlio1/playlist.m3u8"
  },
  {
   "name": "NBC WMAQ-TV (1080p)",
@@ -8210,6 +8264,15 @@
   "url": "https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
  },
  {
+  "name": "NESN+ HD US",
+  "id": "",
+  "logo": "",
+  "categories": [
+   "CDNLive"
+  ],
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf3d/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjNkOjE3OTU3ODE5NjMwNjg6Y2RubGl2ZXR2LnR2OjEwNmM4MTI5NzU2YmJlMDIuN2I2NjZiN2MxYTcwZjk2NTE5MzdjY2I5OWM0NGM2MjAzMTY2MjZiNTdhOTdjODU0YzM0MzE4ZmJiMzA3ZDU0NA"
+ },
+ {
   "name": "NEW K-POP (1080p)",
   "id": "NEWKPOP.us@SD",
   "logo": "https://i.imgur.com/B7ILXMc.png",
@@ -8273,15 +8336,6 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
  },
  {
-  "name": "News12 Conneticut (1080p) [Geo-blocked]",
-  "id": "News12Conneticut.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
- },
- {
   "name": "News12 Hudson Valley (1080p) [Geo-blocked]",
   "id": "News12HudsonValley.us@SD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
@@ -8291,13 +8345,13 @@
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
  },
  {
-  "name": "News12 New Jersey (1080p) [Geo-blocked]",
-  "id": "News12NewJersey.us@SD",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+  "name": "News12 New York (1080p)",
+  "id": "News12NewYork.us@SD",
+  "logo": "https://i.imgur.com/Ez7qAZP.png",
   "categories": [
    "News"
   ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https"
+  "url": "https://cda7bae2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTmV3czEyTmV3WW9ya19ITFM/playlist.m3u8"
  },
  {
   "name": "News12 Westchester (1080p) [Geo-blocked]",
@@ -8307,15 +8361,6 @@
    "News"
   ],
   "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
- },
- {
-  "name": "News12+ Connecticut (1080p) [Geo-blocked]",
-  "id": "News12PlusConnecticut.us@HD",
-  "logo": "https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8"
  },
  {
   "name": "News12+ Hudson Valley (1080p) [Geo-blocked]",
@@ -8334,15 +8379,6 @@
    "News"
   ],
   "url": "https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8"
- },
- {
-  "name": "News12+ New Jersey (1080p) [Geo-blocked]",
-  "id": "News12PlusNewJersey.us@HD",
-  "logo": "https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg",
-  "categories": [
-   "News"
-  ],
-  "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8"
  },
  {
   "name": "News12+ New York (1080p) [Geo-blocked]",
@@ -8469,7 +8505,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d040/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDQwOjE3OTU3NDgzMDc1NjM6Y2RubGl2ZXR2LnR2Ojg1ODZmMjUxYjc4MmZiNzQuZDU1YTQyY2FmN2IzYjc1MjFjZDBlNmFiMGNjMDI2OWIxOWNjY2JhOWQ5MGM5MWFjOTBiMDBjOTAzZDZkOWM4NQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d040/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDQwOjE3OTU3ODE5Njk4Mjk6Y2RubGl2ZXR2LnR2Ojc2ODA0NzhlZGY4ZGE5NGYuNjkxM2NmMTM2NTc1Nzc3OWZhZDExNTgxYzJhNDk2MjI0MDk1MTE3MDM3N2I4ZDFmZWM1NmYzNzk0MGY5MzQwYw"
  },
  {
   "name": "Nicktoons (United States) (720p)",
@@ -9941,6 +9977,15 @@
   "url": "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8"
  },
  {
+  "name": "Reelz Famous & Infamous (1080p)",
+  "id": "ReelzFamousInfamous.us@HD",
+  "logo": "https://i.imgur.com/czrTtNK.png",
+  "categories": [
+   "Documentary"
+  ],
+  "url": "https://linear-190.frequency.stream/mt/vizio/190/hls/master/playlist.m3u8"
+ },
+ {
   "name": "Retro TV (720p) [Geo-blocked]",
   "id": "RetroTV.us@East",
   "logo": "https://i.imgur.com/ofairB5.png",
@@ -10457,7 +10502,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d28c/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMjhjOjE3OTU3NDgzMTA4NTU6Y2RubGl2ZXR2LnR2OmFkMmNhYzlmOTBjNzI2MzEuZjgwZDgzN2E3ZmU0MGZkYzg0OWIzNzQ3MmQ4MGRhZDc4MjQ1MmRjODBjYzEyNGNhZTg2ZGE3ODMyYjJjOGY5NA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d28c/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMjhjOjE3OTU3ODE5NzQ1NzQ6Y2RubGl2ZXR2LnR2OmQ1MmZhNTcwZmE0ODZmYjUuNzRkYjI1YzU4Mzk1ZTY3MDZjMGM3ZWZjNTBkYTM2ZmRmMGY2ODU3ODc3ZGVmNTk5YWM5ZjUzYjZkMjg4ZjE1Mg"
  },
  {
   "name": "Showtime Family Zone (720p)",
@@ -10628,7 +10673,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b1/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIxOjE3OTU3NDgzMTI5OTY6Y2RubGl2ZXR2LnR2OjIyMGIzMmI2OTYwY2NkOWQuNGQzNmFkYjQ3NDUzOTM0OGMzNjdhMjMzM2ZjY2M1NmNkMTEyNDIxOGFkOTUwYzg3NWE4NmVkMmEwM2FjZjk3NA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b1/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIxOjE3OTU3ODE5NzcyNTE6Y2RubGl2ZXR2LnR2OmFhOGY3YzBkOGYzM2U4MGQuOTdlYzgxMGJmODA2M2NjOWNjOWI2NmQxOWJjZTIwNTUyMzk3NzAwM2M3Mjc3YjU2NjQ4ZjdhYmRhNDc5MTA0Zg"
  },
  {
   "name": "Space Science Now (1080p) [Geo-blocked]",
@@ -10701,7 +10746,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b3/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIzOjE3OTU3NDgzMTMzNDg6Y2RubGl2ZXR2LnR2OjcxYWJhMjE1MWQ1NjU5MTQuZDkzYTU5ZTE2OGRkYjdjYjlmNDU0YzQwMWM0NTU3NzlhMTcxYzA2MmFmZDFlNzJhOGM4MDk1M2I5YWNmODdmZA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b3/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIzOjE3OTU3ODE5Nzc3NTk6Y2RubGl2ZXR2LnR2OmZjMGE1NmY0MzRiMDRmYTQuZGRlM2EyYWZhZDExMGY1OWZiNzEyNmRmMzgyNmM1ZGI0YTIxOTY5N2RkMWViZWNmMzVhM2NmNDQ1MDBiM2NmOQ"
  },
  {
   "name": "SPTV (360p)",
@@ -11065,7 +11110,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d07b/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDdiOjE3OTU3NDgzMDg2NTM6Y2RubGl2ZXR2LnR2OmJjNjVhODY1NjFjNmM2YjguMzBlODA5NGFmYjk4YjU2YTA2MzQ3NDBlNGZkYjYxNDUyYTI4MWZjYTU5NDYxYzc5ODFkYWVlODQ2YTNjNGNhOA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d07b/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDdiOjE3OTU3ODE5NzEzNzQ6Y2RubGl2ZXR2LnR2OjQ2Nzg5NmEzNjRmMDY5MGEuZmU2ZTVlM2QyOGUzOTI1MjM3MDQ0N2JhM2VlOTcyYzYxMmEyYzE3MTI4OWI3MTk4YjVmMTBmYmFkNzlhOGU2NA"
  },
  {
   "name": "TBS West (720p) [Geo-blocked]",
@@ -11229,7 +11274,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf53/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjUzOjE3OTU3NDgzMDIyNzQ6Y2RubGl2ZXR2LnR2OmM3NTZhNzFlZmY3YjZhY2UuZDU5NWRmYzFkYTU0ZThjMTI2MGIwMTVmYWE4ZGQyYjQyOTBmNmM5Zjg0N2VkN2JjZmZhZWQ2NGJjZjM5ZGQ3YQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf53/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjUzOjE3OTU3ODE5NjM1NjU6Y2RubGl2ZXR2LnR2OmUxOTRjYWMxNTI0NTBhOGYuMTBlYzY3ZWEwMzUwZGM5ZWEwMmM4MWUxNWQyYmIzZmVjMjVkZjYxNjk4MDMxOWQ0NTc1MjdmYzVjNmUxOWNhMw"
  },
  {
   "name": "Teve Vida Network (480p) [Not 24/7]",
@@ -11360,15 +11405,6 @@
   "url": "https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8"
  },
  {
-  "name": "The CW KTNV-TV (1080p)",
-  "id": "TheCW.us@KTNVTV",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",
-  "categories": [
-   "General"
-  ],
-  "url": "https://amg01438-amg01438c18-vizio-us-10901.playouts.now.amagi.tv/playlist.m3u8"
- },
- {
   "name": "The CW KWCH-DT (1080p) [Geo-blocked]",
   "id": "TheCW.us@KWCHDT",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",
@@ -11376,15 +11412,6 @@
    "General"
   ],
   "url": "https://amg00312-amg00312c39-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c39-amgplt0022/playlist.m3u8"
- },
- {
-  "name": "The CW WAVE (1080p) [Geo-blocked]",
-  "id": "TheCW.us@WAVE",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",
-  "categories": [
-   "General"
-  ],
-  "url": "https://amg00312-amg00312c33-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c33-amgplt0022/playlist.m3u8"
  },
  {
   "name": "The CW WWBT (1080p) [Geo-blocked]",
@@ -11721,7 +11748,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d085/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDg1OjE3OTU3NDgzMDkwMjg6Y2RubGl2ZXR2LnR2OmYwNjYwYWZmZmIxODNmNWIuYWZmNmE3M2IwOTc2NjAxNmEyMTUyODIzYzQ5MjU3YTlhNWQ3YWIxNTY2Y2IwM2RjZjJkOTlkMzQ0OTQxOGNlOQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d085/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDg1OjE3OTU3ODE5NzE5MjI6Y2RubGl2ZXR2LnR2OmMyNTNhNTAzNjcwMWU2ZmMuZWY1NmEzOTYyMmMwZDc1NTM2MGFmMmQ2M2UwNDIxMDg2YjU1MjM4MjY3OWZkMmE5Y2QxN2JkYzYwNjc1YWM3MQ"
  },
  {
   "name": "TLN KQSL (720p)",
@@ -11751,6 +11778,15 @@
   "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76b71c17.m3u8"
  },
  {
+  "name": "TMZ (1080p) [Geo-blocked]",
+  "id": "TMZ.us@SD",
+  "logo": "https://i.imgur.com/eLIe7Va.png",
+  "categories": [
+   "Entertainment"
+  ],
+  "url": "https://pb-ryciga1q62u8o.akamaized.net/TMZ.m3u8"
+ },
+ {
   "name": "TNT (United States) (720p) [Geo-blocked]",
   "id": "TNT.us@East",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
@@ -11775,7 +11811,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d02c/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDJjOjE3OTU3NDgzMDY4MzU6Y2RubGl2ZXR2LnR2OjE3YWZlZWQ1NWRiNTBhZDEuMWY2M2I3YzcxY2VmNzc4ODVhODQ0Zjc0ZDc5ODk5ZjMzZjY0MjM0NjUyMzk0NTkxOTM3MjQ1YTBhNDE1NzE5Mw"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d02c/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDJjOjE3OTU3ODE5Njg4MTY6Y2RubGl2ZXR2LnR2OjZhNmM1YTFhNGE4NTk1YjguNTAxMGQ5ZDMwYmU4MTMyNTdmODcwNTI2YWMwNWMwOWE5N2FhODZlOGU0YjkyYmQxMWMzNjcyNWIzZmQ2YTNjOA"
  },
  {
   "name": "TODAY All Day (1080p)",
@@ -11865,7 +11901,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d154/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMTU0OjE3OTU3NDgzMTAwOTc6Y2RubGl2ZXR2LnR2OjUxN2NkODc5MGVhNGYyZTkuYThiMzhkMDNhNzI0YjY3ZjJiNDRmMGI0Y2UxMWQ4MWM1OGQ4YTM3MDc4NTExZWE2NTdmMmU0ZTEyMDQ4MjQ3YQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d154/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMTU0OjE3OTU3ODE5NzM1MTU6Y2RubGl2ZXR2LnR2OjEyMWEwZDJhZWRmOGIwZDAuMGU0NjQxZTA2YTk5NTkyYTVjZGQwZTExMmQ0MDIwMDU3MzkwYmM4ZGQ5ODFiNTM0MjQ0OTVlZjRjYjVmMmU4Yw"
  },
  {
   "name": "Tribeca Channel (1080p) [Geo-blocked]",
@@ -11883,7 +11919,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d089/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDg5OjE3OTU3NDgzMDkzODU6Y2RubGl2ZXR2LnR2OjUzY2FjOGM4YTY3OTk2OGUuN2E0MDI4MGZhM2IzY2RmNzdjZGViZDkyZDE3YmEyZjYxOGI1NWNmMDdjNTJkNTg1MzAxYjg3ZWNmZGJlYzFiNQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d089/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDg5OjE3OTU3ODE5NzI1MDQ6Y2RubGl2ZXR2LnR2OjgwY2FiY2I5MGQ3ZDgwNjEuODVlYzMzMDU4OWUxYmVmNmEwODU3NzFjMzkyYTg3OTlkZGM3OTcxN2U1ZmE5MmU0N2MzNzA4ZTJjMWJmNzA1Zg"
  },
  {
   "name": "True Crime Network (1080p) [Geo-blocked]",
@@ -11955,7 +11991,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ce69/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZTY5OjE3OTU3NDgyOTYwNDg6Y2RubGl2ZXR2LnR2OmQ4NTRjOWEyZjU4ZmZjNzguMmVmM2VlMTg4NjYxZjY3NGIzOGY3ZmY3N2Q4YzUzY2ZkNDkwYTE2ZmUzM2U4OTVmMDY5NGNjZTI5Yjc4ZTYxYw"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ce69/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZTY5OjE3OTU3ODE5NTM0NDU6Y2RubGl2ZXR2LnR2OmUwMmFiNWYzYTJkNjJjMzMuZDAzYWM4Y2M1OTk3YjdmZGRmZTY5ZDg4MWZhZDJjYmE0NGVmODNmMDk1MDE3YThiZDg5NTFlZGZmMDhlYWU0ZA"
  },
  {
   "name": "Turismo HD (720p) [Not 24/7]",
@@ -12009,7 +12045,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d032/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDMyOjE3OTU3NDgzMDcyMDc6Y2RubGl2ZXR2LnR2OjlhMTEyMzg3MjhlOTFlNjMuOTRkNmY3ODFjM2Q2NGUxNjgwMGU1NmFjMWU1Y2RmY2M1NzE5MmNkNGZiMmZjNDRlM2M0MjAyOWQ1NjNmNDJkNQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d032/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDMyOjE3OTU3ODE5NjkzMjM6Y2RubGl2ZXR2LnR2OjZjMDM3YTFkNmQ2OTJiODQuMTg4ZWMyMDEyYjk0MmFjMjk5MGMzNWU2YjljYzk5MWM1MzExNzdmMjBkYmY4Mjk3NmJlZmU0NGIzYjEyNGYxZg"
  },
  {
   "name": "TV Quisqueya (720p)",
@@ -12450,7 +12486,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d04a/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDRhOjE3OTU3NDgzMDgzMTI6Y2RubGl2ZXR2LnR2OjRlZTNjZjc5NjNlZWMzZGEuNDJlYmMzZDg3Mzc1ZjA3MjJlNTIyMGQ5NjQwNzE3M2QxMzIyMGMzYTVjYmY3ZDNiNjkyOWU4MGNlNmQ2N2VkZA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d04a/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDRhOjE3OTU3ODE5NzA4NjM6Y2RubGl2ZXR2LnR2OjcxZGM1ZTQwNzExZDBlNDMuYzA2YzUwOTliYjAxNTIyNThmYWYwYzMwYWE5YjIwNDdlOTNkNDVlNzI0OGZkMWRmOTYwNjNjNzIwZDg0ZDdhZQ"
  },
  {
   "name": "Univision (1080p) [Geo-blocked]",
@@ -12525,7 +12561,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTU3NDgzMDM5NDc6Y2RubGl2ZXR2LnR2OmMwNDhkODEzMzJlOTE3ZDIuNGFjZTMyMDBiN2VkOGI0NTYwNzIzMTk5NTc5YWYyMjk2NTI5YzkyNTZiMTJlMTUxNDkwY2Y1ZjIzMjk1YzYwYQ"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf63/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjYzOjE3OTU3ODE5NjQ1OTY6Y2RubGl2ZXR2LnR2OjNkNDJhNTkxMzU1M2JjZjAuZmQwNjY3OWYyZDRmZjRmZTcwYmJhMzhiYzRlNjU3Yzc0NTEzZjdkZDY3MjU3MWY4Y2Y1ZjNiNDY1ZTkxNTRmZg"
  },
  {
   "name": "USA TODAY (1080p)",
@@ -12924,15 +12960,6 @@
   "url": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8"
  },
  {
-  "name": "WHOH-TV (360p)",
-  "id": "WHOHTV.us@SD",
-  "logo": "https://i.imgur.com/jTD9nLE.png",
-  "categories": [
-   "General"
-  ],
-  "url": "https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8"
- },
- {
   "name": "Wild 'N Out",
   "id": "WildNOut.us@SD",
   "logo": "https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Wild%20N%20Out_190x190.png?raw=true",
@@ -12966,7 +12993,7 @@
   "categories": [
    "CDNLive"
   ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf58/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjU4OjE3OTU3NDgzMDMxOTk6Y2RubGl2ZXR2LnR2OjUxOGYzMzY1NjRkNzM3YjAuNGQ1YThhZDNlZTQ0M2Y0ZmZlYzU1MjE0NjIzMDNhM2IxOTYxM2FhYWI3MWVlZmNhMDJiYjI4Y2Y0OGYxMjVlZA"
+  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf58/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjU4OjE3OTU3ODE5NjQwNjc6Y2RubGl2ZXR2LnR2OmIwZWRkMmYzN2E1ZmNhMDYuYWIzMzE4MGY4NGE3YjY3YmVjOTY3MDE5NGU3NWVlMDQ5OGRiOGQ3YzExMTljNWY5ZmZmMjg1YTZjZTc1YmFiYg"
  },
  {
   "name": "Willow Sports (1080p)",
@@ -13129,15 +13156,6 @@
    "Undefined"
   ],
   "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:207282-6094500/playlist.m3u8"
- },
- {
-  "name": "WWE Network FHD US",
-  "id": "",
-  "logo": "",
-  "categories": [
-   "CDNLive"
-  ],
-  "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf5e/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjVlOjE3OTU3NDgzMDM1Njk6Y2RubGl2ZXR2LnR2OmE1MGYwYmE3NGZjMzgzZjUuM2FiY2I2MDc3YWE4MDYzNjhmMzYwZTdhY2M4ZTU0MDI2NGM3MDlmYmVlMGMyZDRjY2M0NTU4N2Q1N2EwMWFlYQ"
  },
  {
   "name": "WWON-TV Channel 48",
